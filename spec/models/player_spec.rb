@@ -1,9 +1,9 @@
 describe Player do
   describe "relationships" do
-    it "belongs to one ff_team" do
+    it "belongs to one fantasy_team" do
       player = Player.new()
 
-      expect(player).to respond_to(:ff_team)
+      expect(player).to respond_to(:fantasy_team)
     end
 
     it "has many user_favorites" do
@@ -36,7 +36,7 @@ describe Player do
 
       expect(player).to be_valid
     end
-    
+
     it "is invalid without a display name" do
       player = Player.new(
                           active: 1,

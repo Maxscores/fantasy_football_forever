@@ -10,4 +10,6 @@ class Player < ApplicationRecord
                         :weight,
                         :dob,
                         :college
+
+  belongs_to :fantasy_team
 end
