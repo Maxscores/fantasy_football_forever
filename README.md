@@ -3,6 +3,7 @@
 User Stories:
 
 ## Player
+* [ ] player index page shows all players
 * [ ] players can be added/deleted by Admin
 * [ ] Players can be favorited/unfavorited by Logged in Users
 * [ ] Player show page shows their player bio
