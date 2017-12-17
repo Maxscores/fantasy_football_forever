@@ -15,6 +15,7 @@ User Stories:
 
 ## FF Teams
 * [ ] Admin creates/deletes teams
+* [ ] Admin assigns players to teams
 * [ ] Visitors/Logged in Users can view teams
 * [ ] Team show lists all players on that team
 * [ ] Team index shows all teams
