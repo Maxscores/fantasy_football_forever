@@ -8,6 +8,6 @@ describe "Admin can vist new team form" do
 
     expect(current_path).to eq("/fantasy_teams/#{FantasyTeam.all.last.id}")
     expect(page).to have_content("Footballers")
-    expect(page).to have_content("Owner: Max")
+    expect(page).to have_content("Max")
   end
 end

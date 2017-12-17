@@ -11,6 +11,6 @@ describe "Admin visits edit fantasy team" do
     expect(current_path).to eq("/fantasy_teams/#{team.id}")
     expect(page).to have_content("Footballers")
     expect(page).to_not have_content("Free Agents")
-    expect(page).to have_content("Owner: Max")
+    expect(page).to have_content("Max")
   end
 end
