@@ -1,15 +1,33 @@
-<h1><%= @player.display_name %></h1>
+<h3><%= @player.display_name %></h3>
 <%= link_to "Delete", player_path, method: :delete %>
 
-<div class="player-card">
-  <ul>
-    <li>Team: <%= @player.pro_team %></li>
-    <li>Jersey Number: <%= @player.jersey %></li>
-    <li>Position: <%= @player.position %></li>
-    <li>Height: <%= @player.height %></li>
-    <li>Weight: <%= @player.weight %></li>
-    <li>Date of Birth: <%= @player.dob %></li>
-    <li>College: <%= @player.college %></li>
-    <li>Fantasy Team: <%= link_to @player.fantasy_team.name, fantasy_team_path(@player.fantasy_team) %></li>
-  </ul>
+<div class="grid-x">
+  <div class="medium-3 cell">
+    <table>
+      <th></th>
+      <th></th>
+      <tr><td>Team: <%= @player.pro_team %></td></tr>
+      <tr><td>Jersey Number: <%= @player.jersey %></td></tr>
+      <tr><td>Position: <%= @player.position %></td></tr>
+      <tr><td>Height: <%= @player.height %></td></tr>
+      <tr><td>Weight: <%= @player.weight %></td></tr>
+      <tr><td>Date of Birth: <%= @player.dob %></td></tr>
+      <tr><td>College: <%= @player.college %></td></tr>
+      <tr><td>Fantasy Team: <%= link_to @player.fantasy_team.name, fantasy_team_path(@player.fantasy_team) %></td></tr>
+
+    </table>
+  </div>
+  <div class="medium-8 cell">
+    <table>
+      <th></th>
+      <th></th>
+      <tr><td>Team: <%= @player.pro_team %></td></tr>
+      <tr><td>Jersey Number: <%= @player.jersey %></td></tr>
+      <tr><td>Position: <%= @player.position %></td></tr>
+      <tr><td>Height: <%= @player.height %></td></tr>
+      <tr><td>Weight: <%= @player.weight %></td></tr>
+      <tr><td>Date of Birth: <%= @player.dob %></td></tr>
+      <tr><td>College: <%= @player.college %></td></tr>
+    </table>
+  </div>
 </div>

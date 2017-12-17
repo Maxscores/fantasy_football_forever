@@ -1,14 +1,45 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   <head>
-    <title>FantasyTracker</title>
-    <%= csrf_meta_tags %>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
-    <%= stylesheet_link_tag    'application', media: 'all' %>
-    <%= javascript_include_tag 'application' %>
+    <title><%= content_for?(:title) ? yield(:title) : "Fantasy Football" %></title>
+
+    <%= stylesheet_link_tag    "application" %>
+    <%= csrf_meta_tags %>
   </head>
 
   <body>
-    <%= yield %>
+    <div class="app-dashboard shrink-medium">
+      <div class="row expanded app-dashboard-top-nav-bar">
+        <div class="columns medium-2">
+          <%= link_to "Fantasy Football", players_path ,{:class=>"app-dashboard-logo"} %>
+        </div>
+
+        <div class="columns shrink app-dashboard-top-bar-actions">
+          <button href="#" class="button hollow">Logout</button>
+          <a href="#" height="30" width="30" alt=""><i class="fa fa-info-circle"></i></a>
+        </div>
+      </div>
+      <div class="">
+        <ul class="menu menu-hover-lines">
+          <li><%= link_to "All Players", players_path %></li>
+          <li><%= link_to "Fantasy Teams", fantasy_teams_path %></li>
+          <li><%= link_to "My Dashboard" %></li>
+        </ul>
+      </div>
+
+      <div class="app-dashboard-body off-canvas-wrapper">
+        <div class="app-dashboard-body-content off-canvas-content" data-off-canvas-content>
+          <%= yield %>
+        </div>
+      </div>
+    </div>
+
+
+
+
+    <%= javascript_include_tag "application" %>
   </body>
 </html>

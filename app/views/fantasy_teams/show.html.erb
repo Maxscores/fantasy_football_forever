@@ -1,10 +1,22 @@
-<h1><%= @fantasy_team.name %></h1>
-<h2>Owner: <%= @fantasy_team.owner %></h2>
+<h3><%= @fantasy_team.name %></h3>
+<h4><%= @fantasy_team.owner %></h4>
 
-<div class="team-players">
-  <ul>
-    <% @fantasy_team.players.each do |player| %>
-    <li class=player_<%= player.id %> > <%= link_to player.display_name, player_path(player) %></li>
-    <% end %>
-  </ul>
+<div class="grid-x">
+  <div class="medium-6 cells">
+
+    <table>
+      <th>Player Name</th>
+      <th>Position</th>
+      <th>Team</th>
+      <% @fantasy_team.players.each do |player| %>
+      <tr class=player_<%= player.id %>>
+        <td><%= link_to player.display_name, player_path(player) %></td>
+        <td><%= player.position %></td>
+        <td><%= player.pro_team %></td>
+      </tr>
+      <% end %>
+    </table>
+  </div>
+
+
 </div>
