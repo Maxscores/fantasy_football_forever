@@ -4,9 +4,10 @@
   <th>Team Name</th>
   <th>Owner</th>
   <% @fantasy_teams.each do |team| %>
-  <tr>
+  <tr class=team_<%= team.id %>>
     <td><%= link_to "#{team.name}", fantasy_team_path(team) %></td>
     <td><%= team.owner %></td>
+    <td><%= link_to "Delete Team", fantasy_team_path(team), method: :delete %></td>
   </tr>
   <% end %>
 </table>
