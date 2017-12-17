@@ -30,7 +30,7 @@ describe "When a user visits the player index" do
     expect(page).to have_content("Colorado State")
   end
 
-  it "clicks on player name link" do
+  it "clicks on fantasy team link" do
     rick = create(:rick)
 
     visit players_path
