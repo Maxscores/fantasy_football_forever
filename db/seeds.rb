@@ -5,3 +5,21 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
+require 'fantasy_football_nerd'
+
+free_agents = FantasyTeam.create(name: "Free Agents", owner: "None")
+
+FFNerd.players.each do |player|
+  Player.create(active: player.active,
+                jersey: player.jersey,
+                last_name: player.lname,
+                first_name: player.fname,
+                display_name: player.display_name,
+                pro_team: player.team,
+                position: player.position,
+                height: player.height,
+                weight: player.weight,
+                dob: player.dob,
+                college: player.college,
+                fantasy_team: free_agents)
+end
