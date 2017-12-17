@@ -17,11 +17,11 @@ User Stories:
 * [ ] Visitors can see players sorted by team
 
 ## FF Teams
-* [ ] Admin creates/deletes teams
-* [ ] Admin assigns players to teams
-* [ ] Visitors/Logged in Users can view teams
-* [ ] Team show lists all players on that team
-* [ ] Team index shows all teams
+* [x] Admin creates/deletes teams
+* [x] Admin assigns players to teams
+* [x] Visitors/Logged in Users can view teams
+* [x] Team show lists all players on that team
+* [x] Team index shows all teams
 
 ## Favorites
 * [ ] Logged in users can favorite/unfavorite players
