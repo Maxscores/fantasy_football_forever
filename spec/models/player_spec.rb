@@ -1,18 +1,20 @@
 describe Player do
   describe "relationships" do
-    it "belongs to one ff_team" do
+    it "belongs to one fantasy_team" do
       player = Player.new()
 
-      expect(player).to respond_to(:ff_team)
+      expect(player).to respond_to(:fantasy_team)
     end
 
     it "has many user_favorites" do
+      skip
       player = Player.new()
 
       expect(player).to respond_to(:user_favorites)
     end
 
     it "has many users" do
+      skip
       player = Player.new()
 
       expect(player).to respond_to(:users)
@@ -21,6 +23,7 @@ describe Player do
 
   describe "validations" do
     it "is valid" do
+      team = create(:fantasy_team)
       player = Player.new(display_name: "Rick Sanchez",
                           active: 1,
                           jersey: 99,
@@ -31,12 +34,13 @@ describe Player do
                           height: "72 in",
                           weight: "250 lbs",
                           dob: "1985/01/06",
-                          college: "Colorado State"
+                          college: "Colorado State",
+                          fantasy_team: team
                         )
 
       expect(player).to be_valid
     end
-    
+
     it "is invalid without a display name" do
       player = Player.new(
                           active: 1,

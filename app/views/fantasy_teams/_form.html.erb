@@ -1,0 +1,9 @@
+<%= form_for @fantasy_team do |f| %>
+  <%= f.label :name %>
+  <%= f.text_field :name %>
+
+  <%= f.label :owner %>
+  <%= f.text_field :owner %>
+
+  <%= f.submit "Create Fantasy Team"%>
+<% end %>

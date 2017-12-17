@@ -15,7 +15,7 @@ ActiveRecord::Schema.define(version: 20171217153354) do
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
 
-  create_table "ff_teams", force: :cascade do |t|
+  create_table "fantasy_teams", force: :cascade do |t|
     t.string "name"
     t.string "owner"
   end
@@ -32,9 +32,9 @@ ActiveRecord::Schema.define(version: 20171217153354) do
     t.string "weight"
     t.string "dob"
     t.string "college"
-    t.bigint "ff_team_id"
-    t.index ["ff_team_id"], name: "index_players_on_ff_team_id"
+    t.bigint "fantasy_team_id"
+    t.index ["fantasy_team_id"], name: "index_players_on_fantasy_team_id"
   end
 
-  add_foreign_key "players", "ff_teams"
+  add_foreign_key "players", "fantasy_teams"
 end
