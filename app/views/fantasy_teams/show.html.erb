@@ -1,0 +1,10 @@
+<h1><%= @fantasy_team.name %></h1>
+<h2>Owner: <%= @fantasy_team.owner %></h2>
+
+<div class="team-players">
+  <ul>
+    <% @fantasy_team.players.each do |player| %>
+    <li class=player_<%= player.id %> > <%= link_to player.display_name, player_path(player) %></li>
+    <% end %>
+  </ul>
+</div>

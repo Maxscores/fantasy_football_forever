@@ -31,7 +31,6 @@ describe "When a user visits the player index" do
   end
 
   it "clicks on fantasy team link" do
-    skip
     rick = create(:rick)
 
     visit players_path

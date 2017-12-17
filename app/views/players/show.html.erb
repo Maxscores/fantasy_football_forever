@@ -10,6 +10,6 @@
     <li>Weight: <%= @player.weight %></li>
     <li>Date of Birth: <%= @player.dob %></li>
     <li>College: <%= @player.college %></li>
-    <li>Fantasy Team: <%= @player.fantasy_team.name %></li>
+    <li>Fantasy Team: <%= link_to @player.fantasy_team.name, fantasy_team_path(@player.fantasy_team) %></li>
   </ul>
 </div>
