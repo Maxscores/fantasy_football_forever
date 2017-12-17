@@ -3,14 +3,16 @@
 User Stories:
 
 ## Player
-* [ ] player index page shows all players
-* [ ] players can be added/deleted by Admin
+* [x] player index page shows all players
+* [x] players can be added by Admin
+* [x] players can be deleted by Admin
+* [x] players can be edited by Admin
 * [ ] Players can be favorited/unfavorited by Logged in Users
-* [ ] Player show page shows their player bio
+* [x] Player show page shows their player bio
   * [ ] Player show page shows their current stats via API
   * [ ] Player show page gives their current social media opinion
-* [ ] Player show page shows which FF team they're on
-* [ ] Players belong to one FF team
+* [x] Player show page shows which FF team they're on
+* [x] Players belong to one FF team
 * [ ] Players have many FF users that have favorited them
 * [ ] Visitors can see players sorted by team
 
