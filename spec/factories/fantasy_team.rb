@@ -4,5 +4,8 @@ FactoryBot.define do
     owner "None"
   end
 
-
+  factory :GoT, class: FantasyTeam do
+    name Faker::GameOfThrones.house
+    owner Faker::GameOfThrones.character
+  end
 end

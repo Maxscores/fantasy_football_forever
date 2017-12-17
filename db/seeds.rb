@@ -6,8 +6,17 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 require 'fantasy_football_nerd'
+require 'database_cleaner'
+
+DatabaseCleaner.strategy = :truncation
+
+DatabaseCleaner.clean
 
 free_agents = FantasyTeam.create(name: "Free Agents", owner: "None")
+
+10.times do
+  FantasyTeam.create(name: Faker::DrWho.specie, owner: Faker::DrWho.character)
+end
 
 FFNerd.players.each do |player|
   Player.create(active: player.active,
@@ -22,4 +31,11 @@ FFNerd.players.each do |player|
                 dob: player.dob,
                 college: player.college,
                 fantasy_team: free_agents)
+end
+
+teams = FantasyTeam.where.not(name: "Free Agent")
+teams.each do |team|
+  10.times do
+    team.players << Player.where("active = 1 AND fantasy_team_id = #{free_agents.id}").sample
+  end
 end

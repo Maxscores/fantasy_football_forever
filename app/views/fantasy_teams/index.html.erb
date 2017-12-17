@@ -1,0 +1,12 @@
+<h1>All Fantasy Teams</h1>
+
+<table>
+  <th>Team Name</th>
+  <th>Owner</th>
+  <% @fantasy_teams.each do |team| %>
+  <tr>
+    <td><%= link_to "#{team.name}", fantasy_team_path(team) %></td>
+    <td><%= team.owner %></td>
+  </tr>
+  <% end %>
+</table>
