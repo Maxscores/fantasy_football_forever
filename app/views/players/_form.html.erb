@@ -1,0 +1,39 @@
+<%= form_for @player do |f| %>
+  <%= f.label :first_name %>
+  <%= f.text_field :first_name %>
+
+  <%= f.label :last_name %>
+  <%= f.text_field :last_name %>
+
+  <%= f.label :display_name %>
+  <%= f.text_field :display_name %>
+
+  <%= f.label :active %>
+  <%= f.text_field :active %>
+
+  <%= f.label :jersey %>
+  <%= f.text_field :jersey %>
+
+  <%= f.label :pro_team %>
+  <%= f.text_field :pro_team %>
+
+  <%= f.label :position %>
+  <%= f.text_field :position %>
+
+  <%= f.label :height %>
+  <%= f.text_field :height %>
+
+  <%= f.label :weight %>
+  <%= f.text_field :weight %>
+
+  <%= f.label :dob %>
+  <%= f.text_field :dob %>
+
+  <%= f.label :college %>
+  <%= f.text_field :college %>
+
+  <%= f.label :fantasy_team %>
+  <%= f.collection_select :fantasy_team_id, FantasyTeam.all, :id, :name %>
+
+  <%= f.submit %>
+<% end %>
