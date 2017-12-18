@@ -14,7 +14,7 @@ describe "User can signup for account" do
 
       click_on "Create Account"
 
-      expect(current_path).to eq("/users/show")
+      expect(current_path).to eq("/users/1")
       expect(page).to have_content("Welcome, Max Stackhouse")
     end
   end

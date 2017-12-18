@@ -19,7 +19,7 @@
 
         <div class="columns shrink app-dashboard-top-bar-actions">
           <% if current_user %>
-            <%= link_to "Logout", logout_path, {:class=>"button-hollow"} %>
+            <%= link_to "Logout", logout_path, {method: :delete, :class=>"button-hollow"} %>
           <% else %>
             <%= link_to "Login", login_path, {:class=>"button-hollow"} %>
           <% end %>
@@ -33,6 +33,9 @@
         </ul>
       </div>
       <div class="app-dashboard-body off-canvas-wrapper">
+        <% flash.each do |key, value| %>
+          <div class="alert alert-<%= key %>"><%= value %></div>
+        <% end %>
         <div class="app-dashboard-body-content off-canvas-content" data-off-canvas-content>
           <%= yield %>
         </div>
