@@ -24,14 +24,14 @@ User Stories:
 * [x] Team index shows all teams
 
 ## Favorites
-* [ ] Logged in users can favorite/unfavorite players
-* [ ] Logged in users can view a list of their favorited players - "My Favorites"
+* [x] Logged in users can favorite/unfavorite players
+* [x] Logged in users can view a list of their favorited players - "My Favorites"
 * [ ] Logged in users can see favorites sorted by team
 
 ## Authentication and Authorization
-* [ ] Users need to login to see their favorites
-* [ ] Users can only see their favorites
-* [ ] Users cannot create favs for other users
+* [x] Users need to login to see their favorites
+* [x] Users can only see their favorites
+* [x] Users cannot create favs for other users
 * [ ] Users cannot create new teams
 * [ ] Users cannot create new players
-* [ ] Visitors can create user accounts
+* [x] Visitors can create user accounts

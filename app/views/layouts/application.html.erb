@@ -14,30 +14,38 @@
     <div class="app-dashboard shrink-medium">
       <div class="row expanded app-dashboard-top-nav-bar">
         <div class="columns medium-2">
-          <%= link_to "Fantasy Football", players_path ,{:class=>"app-dashboard-logo"} %>
+          <%= link_to "Fantasy Football", root_path ,{:class=>"app-dashboard-logo"} %>
         </div>
 
         <div class="columns shrink app-dashboard-top-bar-actions">
-          <button href="#" class="button hollow">Logout</button>
-          <a href="#" height="30" width="30" alt=""><i class="fa fa-info-circle"></i></a>
+          <% if current_user %>
+            <%= link_to "Logout", logout_path, {method: :delete, :class=>"button-hollow"} %>
+          <% else %>
+            <%= link_to "Login", login_path, {:class=>"button-hollow"} %>
+          <% end %>
         </div>
       </div>
       <div class="">
         <ul class="menu menu-hover-lines">
           <li><%= link_to "All Players", players_path %></li>
           <li><%= link_to "Fantasy Teams", fantasy_teams_path %></li>
-          <li><%= link_to "My Dashboard" %></li>
+          <% if current_user %>
+            <li><%= link_to "My Dashboard", user_path(current_user) %></li>
+          <% end %>
         </ul>
       </div>
-
       <div class="app-dashboard-body off-canvas-wrapper">
-        <div class="app-dashboard-body-content off-canvas-content" data-off-canvas-content>
+        <% flash.each do |key, value| %>
+          <div class="alert alert-<%= key %>"><%= value %></div>
+        <% end %>
+        <div class="app-dashboard-body-content off-canvas-content" data-off-canvas-content  >
           <%= yield %>
         </div>
       </div>
     </div>
 
 
+    <%= render partial: "layouts/footer" %>
 
 
     <%= javascript_include_tag "application" %>

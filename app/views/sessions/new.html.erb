@@ -1,0 +1,21 @@
+<div class="grid-x align-center">
+  <div class="small-6 cells">
+    <div class="log-in-form">
+      <% flash.each do |key, value| %>
+        <div class="alert alert-<%= key %>"><%= value %></div>
+      <% end %>
+      <h4 class="text-center">Log in with your email account</h4>
+        <%= form_tag login_path do %>
+          <%= label_tag :email %>
+          <%= email_field_tag :email %>
+
+          <%= label_tag :password %>
+          <%= password_field_tag :password %>
+
+          <%= submit_tag "Log In", {:class=>"button expanded"} %>
+        <% end %>
+    </div>
+    <p class="text-center"><a href="#">Forgot your password?</a></p>
+    <p class="text-center"><%= link_to "Sign Up", new_user_path %></p>
+  </div>
+</div>
