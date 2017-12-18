@@ -6,6 +6,7 @@ Rails.application.routes.draw do
 
   resources :fantasy_teams
   resources :players do
+    resources :user_favorites, only: [:create, :destroy]
     resources :season_stats
   end
   resources :users, only: [:show, :new, :create]

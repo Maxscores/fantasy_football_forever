@@ -1,3 +1,8 @@
+.pagination {
+  display: flex;
+  flex-direction: row;
+}
+
 .center-form {
   width: 250px;
   display: flex;

@@ -30,8 +30,8 @@ User Stories:
 
 ## Authentication and Authorization
 * [ ] Users need to login to see their favorites
-* [ ] Users can only see their favorites
-* [ ] Users cannot create favs for other users
+* [x] Users can only see their favorites
+* [x] Users cannot create favs for other users
 * [ ] Users cannot create new teams
 * [ ] Users cannot create new players
 * [x] Visitors can create user accounts
