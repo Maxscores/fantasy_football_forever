@@ -5,36 +5,24 @@
 #
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
-require 'fantasy_football_nerd'
-require 'database_cleaner'
+require 'csv'
 
-DatabaseCleaner.strategy = :truncation
-DatabaseCleaner.clean
-
-free_agents = FantasyTeam.create(name: "Free Agents", owner: "None")
-
-10.times do
-  FantasyTeam.create(name: Faker::DrWho.specie, owner: Faker::DrWho.character)
+CSV.readlines("./data/fantasy_teams.csv", headers: true, header_converters: :symbol) do |csv|
+  FantasyTeam.create(name: csv[:name],
+                     owner: csv[:owner])
 end
 
-FFNerd.players.each do |player|
-  Player.create(active: player.active,
-                jersey: player.jersey,
-                last_name: player.lname,
-                first_name: player.fname,
-                display_name: player.display_name,
-                pro_team: player.team,
-                position: player.position,
-                height: player.height,
-                weight: player.weight,
-                dob: player.dob,
-                college: player.college,
-                fantasy_team: free_agents)
-end
-
-teams = FantasyTeam.where.not(name: "Free Agent")
-teams.each do |team|
-  10.times do
-    team.players << Player.where("active = 1 AND fantasy_team_id = #{free_agents.id}").sample
-  end
+CSV.readlines("./data/players.csv", headers: true, header_converters: :symbol) do |csv|
+  Player.create(active: csv[:active],
+                jersey: csv[:jersey],
+                last_name: csv[:last_name],
+                first_name: csv[:first_name],
+                display_name: csv[:display_name],
+                pro_team: csv[:pro_team],
+                position: csv[:position],
+                height: csv[:height],
+                weight: csv[:weight],
+                dob: csv[:dob],
+                college: csv[:college],
+                fantasy_team: csv[:fantasy_team_id])
 end

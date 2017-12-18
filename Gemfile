@@ -5,6 +5,8 @@ git_source(:github) do |repo_name|
   "https://github.com/#{repo_name}.git"
 end
 
+gem 'database_cleaner'
+gem 'faker', :git => 'https://github.com/stympy/faker.git', :branch => 'master'
 gem 'fantasy_football_nerd'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.4'
@@ -35,14 +37,12 @@ group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
   gem 'foundation-rails'
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
-  gem 'database_cleaner'
   gem 'rspec-rails'
   gem 'capybara'
   gem 'launchy'
   gem 'pry'
   gem 'shoulda-matchers', '~> 3.1'
   gem 'factory_bot_rails'
-  gem 'faker', :git => 'https://github.com/stympy/faker.git', :branch => 'master'
 end
 
 group :development do
