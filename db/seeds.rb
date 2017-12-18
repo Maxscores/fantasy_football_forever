@@ -113,7 +113,7 @@ te.each do |player|
   seasons.each do |season|
     pass_receptions = te_pass_receptions.pop
     receiving_yards = te_receiving_yards.pop
-    average_yards_per_reception = (pass_receptions * receiving_yards).round(2)
+    average_yards_per_reception = (receiving_yards / pass_receptions).round(2)
     receiving_touchdowns = te_receiving_touchdowns.pop
     SeasonStat.create!(games_played: 16,
                        completions: 0,
@@ -148,7 +148,7 @@ wr.each do |player|
   seasons.each do |season|
     pass_receptions = wr_pass_receptions.pop
     receiving_yards = wr_receiving_yards.pop
-    average_yards_per_reception = (pass_receptions * receiving_yards).round(2)
+    average_yards_per_reception = (receiving_yards / pass_receptions).round(2)
     receiving_touchdowns = wr_receiving_touchdowns.pop
     SeasonStat.create!(games_played: 16,
                        completions: 0,
