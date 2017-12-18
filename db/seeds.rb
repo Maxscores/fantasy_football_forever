@@ -16,7 +16,7 @@ owners = ["Jack Harkness", "Mickey Smith", "Astrid Peth", "Sarag Jane Smith",
 "Rose"]
 
 10.times do
-  FantasyTeam.create(name: name.pop, owner: owner.pop)
+  FantasyTeam.create(name: names.pop, owner: owners.pop)
 end
 
 FFNerd.players.each do |player|
