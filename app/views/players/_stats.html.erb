@@ -1,0 +1,85 @@
+<% if @player.position == "QB" %>
+  <table class="season-stat-table">
+    <th>Season</th>
+    <th>Completions</th>
+    <th>Pass Attempts</th>
+    <th>Completion Percentage</th>
+    <th>Passing Yards</th>
+    <th>Average Yards per Attempt</th>
+    <th>Passing Touchdowns</th>
+    <th>Interceptions</th>
+    <th>Fumbles</th>
+    <% @player.season_stats.each do |season_stat| %>
+    <tr>
+      <td><%= season_stat.season %></td>
+      <td><%= season_stat.completions %></td>
+      <td><%= season_stat.attempts %></td>
+      <td><%= season_stat.completion_percentage.round(1) %></td>
+      <td><%= season_stat.passing_yards %></td>
+      <td><%= season_stat.average_yards_per_attempt.round(1) %></td>
+      <td><%= season_stat.passing_touchdowns %></td>
+      <td><%= season_stat.interceptions %></td>
+      <td><%= season_stat.fumbles %></td>
+    </tr>
+    <% end %>
+  </table>
+<% elsif @player.position == "RB" %>
+  <table class="season-stat-table">
+    <th>Season</th>
+    <th>Rush Attempts</th>
+    <th>Rush Yards</th>
+    <th>Average Yards per Carry</th>
+    <th>Rushing Touchdowns</th>
+    <th>Fumbles</th>
+    <% @player.season_stats.each do |season_stat| %>
+      <tr>
+        <td><%= season_stat.season %></td>
+        <td><%= season_stat.rushing_attempts %></td>
+        <td><%= season_stat.rushing_yards %></td>
+        <td><%= season_stat.average_yards_per_carry.round(2) %></td>
+        <td><%= season_stat.rushing_touchdowns %></td>
+        <td><%= season_stat.fumbles %></td>
+      </tr>
+    <% end %>
+  </table>
+<% elsif @player.position == "WR" || @player.position == "TE" %>
+  <table class="season-stat-table">
+    <th>Season</th>
+    <th>Receptions</th>
+    <th>Recieving Yards</th>
+    <th>Average Yards per Catch</th>
+    <th>Recieving Touchdowns</th>
+    <th>Fumbles</th>
+    <% @player.season_stats.each do |season_stat| %>
+      <tr>
+        <td><%= season_stat.season %></td>
+        <td><%= season_stat.pass_receptions %></td>
+        <td><%= season_stat.receiving_yards %></td>
+        <td><%= season_stat.average_yards_per_reception.round(2) %></td>
+        <td><%= season_stat.receiving_touchdowns %></td>
+        <td><%= season_stat.fumbles %></td>
+      </tr>
+    <% end %>
+  </table>
+<% elsif @player.position == "K" %>
+  <table class="season-stat-table">
+    <th>Season</th>
+    <th>Field Goals Made</th>
+    <th>Field Goals Attempted</th>
+    <th>Field Goal Percentage</th>
+    <th>Extra Points Made</th>
+    <th>Extra Points Attempted</th>
+    <th>Extra Point Percentage</th>
+    <% @player.season_stats.each do |season_stat| %>
+      <tr>
+        <td><%= season_stat.season %></td>
+        <td><%= season_stat.field_goals_made %></td>
+        <td><%= season_stat.field_goals_attempted %></td>
+        <td><%= season_stat.field_goal_percentage.round(1) %></td>
+        <td><%= season_stat.extra_point_made %></td>
+        <td><%= season_stat.extra_point_attempted %></td>
+        <td><%= season_stat.extra_point_percentage.round(1) %></td>
+      </tr>
+    <% end %>
+  </table>
+<% end %>
