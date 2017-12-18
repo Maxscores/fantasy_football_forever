@@ -18,8 +18,11 @@
         </div>
 
         <div class="columns shrink app-dashboard-top-bar-actions">
-          <button href="#" class="button hollow">Logout</button>
-          <a href="#" height="30" width="30" alt=""><i class="fa fa-info-circle"></i></a>
+          <% if current_user %>
+            <%= link_to "Logout", logout_path, {:class=>"button-hollow"} %>
+          <% else %>
+            <%= link_to "Login", login_path, {:class=>"button-hollow"} %>
+          <% end %>
         </div>
       </div>
       <div class="">
