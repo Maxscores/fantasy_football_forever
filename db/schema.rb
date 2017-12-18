@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20171218203732) do
+ActiveRecord::Schema.define(version: 20171218213731) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -65,6 +65,13 @@ ActiveRecord::Schema.define(version: 20171218203732) do
     t.index ["player_id"], name: "index_season_stats_on_player_id"
   end
 
+  create_table "user_favorites", force: :cascade do |t|
+    t.bigint "player_id"
+    t.bigint "user_id"
+    t.index ["player_id"], name: "index_user_favorites_on_player_id"
+    t.index ["user_id"], name: "index_user_favorites_on_user_id"
+  end
+
   create_table "users", force: :cascade do |t|
     t.string "email"
     t.string "password_digest"
@@ -74,4 +81,6 @@ ActiveRecord::Schema.define(version: 20171218203732) do
 
   add_foreign_key "players", "fantasy_teams"
   add_foreign_key "season_stats", "players"
+  add_foreign_key "user_favorites", "players"
+  add_foreign_key "user_favorites", "users"
 end

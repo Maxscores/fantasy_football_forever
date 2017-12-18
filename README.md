@@ -34,4 +34,4 @@ User Stories:
 * [ ] Users cannot create favs for other users
 * [ ] Users cannot create new teams
 * [ ] Users cannot create new players
-* [ ] Visitors can create user accounts
+* [x] Visitors can create user accounts

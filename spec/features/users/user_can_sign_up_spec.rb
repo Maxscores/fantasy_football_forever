@@ -13,7 +13,7 @@ describe "User can signup for account" do
       fill_in "user[password]", with: "12345"
 
       click_on "Create Account"
-
+      save_and_open_page
       expect(current_path).to eq("/users/1")
       expect(page).to have_content("Welcome, Max Stackhouse")
     end

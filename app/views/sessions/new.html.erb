@@ -1,6 +1,6 @@
 <div class="grid-x align-center">
   <div class="small-6 cells">
-    <form class="log-in-form">
+    <div class="log-in-form">
       <% flash.each do |key, value| %>
         <div class="alert alert-<%= key %>"><%= value %></div>
       <% end %>
@@ -14,7 +14,7 @@
 
           <%= submit_tag "Log In", {:class=>"button expanded"} %>
         <% end %>
-    </form>
+    </div>
     <p class="text-center"><a href="#">Forgot your password?</a></p>
     <p class="text-center"><%= link_to "Sign Up", new_user_path %></p>
   </div>

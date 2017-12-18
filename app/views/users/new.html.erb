@@ -1,5 +1,5 @@
 <div class="center-form">
-  <form class="log-in-form">
+  <div class="log-in-form">
     <h4 class="text-center">Sign Up for a New Account</h4>
       <%= form_for @user do |f| %>
         <%= f.label :full_name %>
@@ -11,7 +11,7 @@
         <%= f.label :password %>
         <%= f.password_field :password %>
 
-        <%= f.submit "Create Account" %>
+        <%= f.submit "Create Account", {:class=>"button expanded"} %>
       <% end %>
-  </form>
+  </div>
 </div>
