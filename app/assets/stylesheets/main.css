@@ -1,3 +1,30 @@
+.center-form {
+  width: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
+.log-in-form {
+
+  border: 1px solid gray;
+  padding: 20px;
+  border-radius: 2%;
+}
+
+.button-hollow {
+  border: solid;
+  border-color: white;
+  border-width: thin;
+  padding: 5px;
+  color: white;
+}
+
+.button-hollow:hover {
+  border-width: thin;
+  border-color: #1779ba;
+}
+
 .menu-hover-lines {
   text-align: center;
   text-transform: uppercase;
