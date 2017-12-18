@@ -6,16 +6,17 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 require 'fantasy_football_nerd'
-require 'database_cleaner'
-
-DatabaseCleaner.strategy = :truncation
-
-DatabaseCleaner.clean
 
 free_agents = FantasyTeam.create(name: "Free Agents", owner: "None")
 
+names = ["Krall", "Empty Child", "Cyberman", "Eight Legs", "Carrionite",
+  "The Ergon", "Uvodni", "Terileptil", "Chameleon", "Posicarian"]
+owners = ["Jack Harkness", "Mickey Smith", "Astrid Peth", "Sarag Jane Smith",
+"Dr. Who", "Wilfred Mott", "Capatin Jack Harkness", "Mickey Smith", "Adam Mitchell",
+"Rose"]
+
 10.times do
-  FantasyTeam.create(name: Faker::DrWho.specie, owner: Faker::DrWho.character)
+  FantasyTeam.create(name: name.pop, owner: owner.pop)
 end
 
 FFNerd.players.each do |player|
