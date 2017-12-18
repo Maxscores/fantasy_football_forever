@@ -20,18 +20,20 @@ owners = ["Jack Harkness", "Mickey Smith", "Astrid Peth", "Sarag Jane Smith",
 end
 
 FFNerd.players.each do |player|
-  Player.create(active: player.active,
-                jersey: player.jersey,
-                last_name: player.lname,
-                first_name: player.fname,
-                display_name: player.display_name,
-                pro_team: player.team,
-                position: player.position,
-                height: player.height,
-                weight: player.weight,
-                dob: player.dob,
-                college: player.college,
-                fantasy_team: free_agents)
+  if player.position != "K"
+    Player.create(active: player.active,
+                  jersey: player.jersey,
+                  last_name: player.lname,
+                  first_name: player.fname,
+                  display_name: player.display_name,
+                  pro_team: player.team,
+                  position: player.position,
+                  height: player.height,
+                  weight: player.weight,
+                  dob: player.dob,
+                  college: player.college,
+                  fantasy_team: free_agents)
+  end
 end
 
 FantasyTeam.all.each do |team|
@@ -49,7 +51,6 @@ qb = Player.where(position: "QB")
 rb = Player.where(position: "RB")
 wr = Player.where(position: "WR")
 te = Player.where(position: "TE")
-k = Player.where(position: "K")
 
 seasons = [2010, 2011, 2012, 2013, 2014]
 qb_completions = normal_distribution(qb.count * seasons.count, 2800, 2)
@@ -67,47 +68,6 @@ wr_receiving_touchdowns = normal_distribution(wr.count * seasons.count, 5, 4)
 te_pass_receptions = normal_distribution(wr.count * seasons.count, 30, 10)
 te_receiving_yards = normal_distribution(wr.count * seasons.count, 400, 50)
 te_receiving_touchdowns = normal_distribution(wr.count * seasons.count, 3, 2)
-k_field_goal_percentage = normal_distribution(k.count * seasons.count, 95, 1)
-k_field_goal_made = normal_distribution(k.count * seasons.count, 40, 4)
-k_extra_point_made = normal_distribution(k.count * seasons.count, 20, 4)
-k_extra_point_percentage = normal_distribution(k.count * seasons.count, 98, 0.6)
-
-k.each do |player|
-  seasons.each do |season|
-    field_goal_percentage = (k_field_goal_percentage.pop).round(2)
-    field_goals_made = k_field_goal_made.pop
-    field_goals_attempted = field_goals_made / (field_goal_percentage / 100)
-    extra_point_made = k_extra_point_made.pop
-    extra_point_percentage = (k_extra_point_percentage.pop).round(2)
-    extra_point_attempted = extra_point_made / (extra_point_percentage / 100)
-    SeasonStat.create!(games_played: 16,
-                       completions: 0,
-                       completion_percentage: 0,
-                       attempts: 0,
-                       passing_yards: 0,
-                       average_yards_per_attempt: 0,
-                       passing_touchdowns: 0,
-                       interceptions: 0,
-                       fumbles: all_fumbles.pop,
-                       rushing_attempts: 0,
-                       rushing_yards: 0,
-                       average_yards_per_carry: 0,
-                       rushing_touchdowns: 0,
-                       pass_receptions: 0,
-                       receiving_yards: 0,
-                       average_yards_per_reception: 0,
-                       receiving_touchdowns: 0,
-                       field_goals_made: field_goals_made,
-                       field_goals_attempted: field_goals_attempted,
-                       field_goal_percentage: field_goal_percentage,
-                       extra_point_made: extra_point_made,
-                       extra_point_attempted: extra_point_attempted,
-                       extra_point_percentage: extra_point_percentage,
-                       player_id: player.id,
-                       season: season
-                     )
-  end
-end
 
 te.each do |player|
   seasons.each do |season|
