@@ -40,17 +40,16 @@ FantasyTeam.all.each do |team|
   end
 end
 
+def normal_distribution(count, average, variance)
+  Array.new(count) { average + (variance) * Math.sqrt(-2 * Math.log(rand)) * Math.cos(2 * Math::PI * rand) }
+end
+
 all_players = Player.count
 qb = Player.where(position: "QB")
 rb = Player.where(position: "RB")
 wr = Player.where(position: "WR")
 te = Player.where(position: "TE")
 k = Player.where(position: "K")
-
-
-def normal_distribution(count, average, variance)
-  Array.new(count) { average + (variance) * Math.sqrt(-2 * Math.log(rand)) * Math.cos(2 * Math::PI * rand) }
-end
 
 seasons = [2010, 2011, 2012, 2013, 2014]
 qb_completions = normal_distribution(qb.count * seasons.count, 2800, 2)
