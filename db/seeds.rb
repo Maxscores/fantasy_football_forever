@@ -51,7 +51,7 @@ wr = Player.where(position: "WR")
 te = Player.where(position: "TE")
 k = Player.where(position: "K")
 
-seasons = [2010, 2011, 2012, 2013, 2014]
+seasons = [2016, 2017]
 qb_completions = normal_distribution(qb.count * seasons.count, 2800, 2)
 qb_completion_percentages = normal_distribution(qb.count * seasons.count, 65, 2)
 qb_passing_yards = normal_distribution(qb.count * seasons.count, 3500, 5)

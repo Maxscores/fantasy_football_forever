@@ -14,7 +14,7 @@
     <div class="app-dashboard shrink-medium">
       <div class="row expanded app-dashboard-top-nav-bar">
         <div class="columns medium-2">
-          <%= link_to "Fantasy Football", players_path ,{:class=>"app-dashboard-logo"} %>
+          <%= link_to "Fantasy Football", root_path ,{:class=>"app-dashboard-logo"} %>
         </div>
 
         <div class="columns shrink app-dashboard-top-bar-actions">
@@ -29,13 +29,13 @@
           <li><%= link_to "My Dashboard" %></li>
         </ul>
       </div>
-
       <div class="app-dashboard-body off-canvas-wrapper">
         <div class="app-dashboard-body-content off-canvas-content" data-off-canvas-content>
           <%= yield %>
         </div>
       </div>
     </div>
+
 
     <%= render partial: "layouts/footer" %>
 
