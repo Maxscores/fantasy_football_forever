@@ -1,0 +1,1971 @@
+id,active,jersey,last_name,first_name,display_name,pro_team,position,height,weight,dob,college,fantasy_team_id
+1,0,0,Baker,Matt,Matt Baker,BUF,QB,6-2,217,0000-00-00,North Carolina,1
+2,0,2,Bartel,Richard,Richard Bartel,ARI,QB,6-4,230,1983-02-03,Tarleton State,1
+3,0,14,Basanez,Brett,Brett Basanez,CHI,QB,6-1,208,0000-00-00,Northwestern,1
+4,0,16,Batch,Charlie,Charlie Batch,PIT,QB,6-2,216,1974-12-05,Eastern Michigan,1
+5,0,12,Beck,John,John Beck,HOU,QB,6-2,215,1981-08-21,Brigham Young,1
+6,0,0,Berlin,Brock,Brock Berlin,DET,QB,6-1,215,0000-00-00,Miami (Fla.),1
+7,0,7,Boller,Kyle,Kyle Boller,OAK,QB,6-3,220,0000-00-00,California,1
+8,0,0,Bollinger,Brooks,Brooks Bollinger,DET,QB,6-1,205,0000-00-00,Wisconsin,1
+9,0,4,Bouman,Todd,Todd Bouman,JAC,QB,6-2,236,1972-08-01,St. Cloud State,1
+10,0,5,Brennan,Colt,Colt Brennan,OAK,QB,6-3,215,0000-00-00,Hawaii,1
+11,0,0,Brink,Alex,Alex Brink,HOU,QB,6-2,208,0000-00-00,Washington State,1
+12,0,4,Brohm,Brian,Brian Brohm,BUF,QB,6-3,223,0000-00-00,Louisville,1
+13,0,8,Brunell,Mark,Mark Brunell,NYJ,QB,6-1,215,0000-00-00,Washington,1
+14,0,10,Bulger,Marc,Marc Bulger,BAL,QB,6-3,208,0000-00-00,West Virginia,1
+15,0,17,Campbell,Jason,Jason Campbell,CIN,QB,6-5,235,0000-00-00,Auburn,1
+16,0,8,Carr,David,David Carr,NYG,QB,6-3,212,0000-00-00,Fresno State,1
+17,0,5,Collins,Kerry,Kerry Collins,IND,QB,6-5,247,0000-00-00,Penn State,1
+18,0,10,Collins,Todd,Todd Collins,CHI,QB,6-4,223,0000-00-00,Michigan,1
+19,0,12,Croyle,Brodie,Brodie Croyle,ARI,QB,6-2,206,1983-02-06,Alabama,1
+20,0,0,Culpepper,Daunte,Daunte Culpepper,DET,QB,6-4,260,0000-00-00,Central Florida,1
+21,0,17,Delhomme,Jake,Jake Delhomme,HOU,QB,6-2,215,0000-00-00,Louisiana-Lafayette,1
+22,0,6,Dixon,Dennis,Dennis Dixon,BUF,QB,6-3,215,0000-00-00,Oregon,1
+23,0,5,Edwards,Trent,Trent Edwards,OAK,QB,6-4,230,0000-00-00,Stanford,1
+24,0,4,Feeley,A.J.,A.J. Feeley,LAR,QB,6-3,216,0000-00-00,Oregon,1
+25,0,0,Frerotte,Gus,Gus Frerotte,MIN,QB,6-3,233,0000-00-00,Tulsa,1
+26,0,3,Frye,Charlie,Charlie Frye,OAK,QB,6-4,220,0000-00-00,Akron,1
+27,0,0,Garcia,Jeff,Jeff Garcia,HOU,QB,6-1,205,0000-00-00,San Jose State,1
+28,0,4,Garrard,David,David Garrard,NYJ,QB,6-1,236,0000-00-00,East Carolina,1
+29,0,0,Gray,Quinn,Quinn Gray,KC,QB,6-3,254,0000-00-00,Florida A&M,1
+30,0,0,Green,Trent,Trent Green,LAR,QB,6-3,208,0000-00-00,Indiana,1
+31,0,0,Griese,Brian,Brian Griese,TB,QB,6-3,214,0000-00-00,Michigan,1
+32,0,8,Grossman,Rex,Rex Grossman,ATL,QB,6-1,225,1980-08-23,Florida,1
+33,0,0,Gutierrez,Matt,Matt Gutierrez,WAS,QB,6-4,230,1984-06-09,Idaho State,1
+34,0,0,Hackney,Darrell,Darrell Hackney,DEN,QB,6-0,248,0000-00-00,Alabama-Birmingham,1
+35,0,0,Hamdan,Gibran,Gibran Hamdan,BUF,QB,6-4,220,0000-00-00,Indiana,1
+36,0,7,Hanie,Caleb,Caleb Hanie,DAL,QB,6-2,235,0000-00-00,Colorado State,1
+37,0,0,Harrington,Joey,Joey Harrington,NO,QB,6-4,210,0000-00-00,Oregon,1
+38,0,0,Henson,Drew,Drew Henson,DET,QB,6-4,235,0000-00-00,Michigan,1
+39,0,0,Huard,Damon,Damon Huard,SF,QB,6-3,218,0000-00-00,Washington,1
+40,0,0,Johnson,Brad,Brad Johnson,DAL,QB,6-5,235,0000-00-00,Florida State,1
+41,0,3,Kitna,Jon,Jon Kitna,DAL,QB,6-2,220,0000-00-00,Central Washington,1
+42,0,4,Kolb,Kevin,Kevin Kolb,BUF,QB,6-3,218,0000-00-00,Houston,1
+43,0,4,Leftwich,Byron,Byron Leftwich,PIT,QB,6-5,250,1980-01-14,Marshall,1
+44,0,7,Leinart,Matt,Matt Leinart,OAK,QB,6-5,225,1983-05-11,USC,1
+45,0,0,Lemon,Cleo,Cleo Lemon,BAL,QB,6-2,215,0000-00-00,Arkansas State,1
+46,0,7,Losman,J.P.,J.P. Losman,SEA,QB,6-2,217,0000-00-00,Tulane,1
+47,0,0,Martin,Ingle,Ingle Martin,KC,QB,6-2,220,0000-00-00,Furman,1
+48,0,0,Martin,Jamie,Jamie Martin,SF,QB,6-2,205,0000-00-00,Weber State,1
+49,0,5,McNabb,Donovan,Donovan McNabb,MIN,QB,6-2,240,0000-00-00,Syracuse,1
+50,0,8,O'Connell,Kevin,Kevin O'Connell,LAC,QB,6-5,225,1985-05-25,San Diego State,1
+51,0,13,O'Sullivan,J.T.,J.T. O'Sullivan,OAK,QB,6-2,232,0000-00-00,California-Davis,1
+52,0,0,Orton,Kyle,Kyle Orton,BUF,QB,6-4,228,1982-11-14,Purdue,1
+53,0,0,Otis,Jeff,Jeff Otis,LAR,QB,6-2,208,0000-00-00,Columbia,1
+54,0,4,Palko,Tyler,Tyler Palko,KC,QB,6-1,215,0000-00-00,Pittsburgh,1
+55,0,5,Palmer,Jordan,Jordan Palmer,TEN,QB,6-5,230,0000-00-00,Texas-El Paso,1
+56,0,10,Pennington,Chad,Chad Pennington,MIA,QB,6-3,225,0000-00-00,Marshall,1
+57,0,3,Quinn,Brady,Brady Quinn,MIA,QB,6-3,235,0000-00-00,Notre Dame,1
+58,0,9,Ramsey,Patrick,Patrick Ramsey,MIN,QB,6-2,225,0000-00-00,Tulane,1
+59,0,7,Ratliff,Brett,Brett Ratliff,TB,QB,6-4,224,1985-08-08,Utah,1
+60,0,8,Redman,Chris,Chris Redman,ATL,QB,6-3,225,1977-07-07,Louisville,1
+61,0,18,Rosenfels,Sage,Sage Rosenfels,MIN,QB,6-4,225,1978-03-06,Iowa State,1
+62,0,0,Rowe,Jeff,Jeff Rowe,NE,QB,6-5,221,0000-00-00,Nevada-Reno,1
+63,0,0,Russell,JaMarcus,JaMarcus Russell,OAK,QB,6-6,260,1985-08-09,LSU,1
+64,0,0,Shockley,D.J.,D.J. Shockley,ATL,QB,6-0,218,0000-00-00,Georgia,1
+65,0,7,Simms,Chris,Chris Simms,TEN,QB,6-4,230,0000-00-00,Texas,1
+66,0,0,Smith,Paul,Paul Smith,JAC,QB,6-1,202,0000-00-00,Tulsa,1
+67,0,0,Smith,Troy,Troy Smith,PIT,QB,6-0,217,0000-00-00,Ohio State,1
+68,0,19,Sorgi,Jim,Jim Sorgi,NYG,QB,6-5,196,0000-00-00,Wisconsin,1
+69,0,6,St. Pierre,Brian,Brian St. Pierre,CAR,QB,6-3,224,0000-00-00,Boston College,1
+70,0,4,Thigpen,Tyler,Tyler Thigpen,CLE,QB,6-1,216,1984-04-14,Coastal Carolina,1
+71,0,0,Tuiasosopo,Marques,Marques Tuiasosopo,OAK,QB,6-1,220,0000-00-00,Washington,1
+72,0,7,Volek,Billy,Billy Volek,LAC,QB,6-2,214,0000-00-00,Fresno State,1
+73,0,9,Wallace,Seneca,Seneca Wallace,GB,QB,5-11,205,0000-00-00,Iowa State,1
+74,0,0,Walter,Andrew,Andrew Walter,OAK,QB,6-6,230,0000-00-00,Arizona State,1
+75,0,0,Warner,Kurt,Kurt Warner,ARI,QB,6-2,214,1971-06-22,Northern Iowa,1
+76,0,0,Woodson,Andre,Andre Woodson,WAS,QB,6-4,230,0000-00-00,Kentucky,1
+77,0,0,Wright,Anthony,Anthony Wright,NYG,QB,6-1,211,0000-00-00,South Carolina,1
+78,0,13,Young,Vince,Vince Young,GB,QB,6-5,232,0000-00-00,Texas,1
+79,0,29,Addai,Joseph,Joseph Addai,NE,RB,5-11,205,0000-00-00,LSU,1
+80,0,38,Ali,Charles,Charles Ali,ARI,RB,6-2,255,1984-08-23,Arkansas-Pine Bluff,1
+81,0,33,Anderson,Deon,Deon Anderson,MIA,RB,5-10,240,1983-01-27,Connecticut,1
+82,0,0,Arrington,J.J.,J.J. Arrington,PHI,RB,5-9,212,0000-00-00,California,1
+83,0,0,Askew,B.J.,B.J. Askew,TB,RB,6-3,233,0000-00-00,Michigan,1
+84,0,35,Ball,Lance,Lance Ball,DEN,RB,5-9,224,1985-06-19,Maryland,1
+85,0,24,Barber,Marion,Marion Barber,CHI,RB,5-11,218,1983-06-10,Minnesota,1
+86,0,0,Barnes,Darian,Darian Barnes,NO,RB,6-2,240,0000-00-00,Hampton,1
+87,0,44,Battle,Jackie,Jackie Battle,TEN,RB,6-2,240,0000-00-00,Houston,1
+88,0,22,Bell,Mike,Mike Bell,DET,RB,6-0,225,1983-04-23,Arizona,1
+89,0,0,Bell,Tatum,Tatum Bell,DEN,RB,5-11,213,0000-00-00,Oklahoma State,1
+90,0,32,Bennett,Michael,Michael Bennett,OAK,RB,5-9,205,1978-08-13,Wisconsin,1
+91,0,32,Benson,Cedric,Cedric Benson,GB,RB,5-11,227,1982-12-28,Texas,1
+92,0,46,Betts,Ladell,Ladell Betts,NO,RB,5-11,224,0000-00-00,Iowa,1
+93,0,0,Birmingham,DeCori,DeCori Birmingham,CAR,RB,5-10,210,0000-00-00,Arkansas,1
+94,0,27,Booker,Lorenzo,Lorenzo Booker,MIN,RB,5-10,201,1984-06-14,Florida State,1
+95,0,0,Boyd,Cory,Cory Boyd,DEN,RB,6-1,213,0000-00-00,South Carolina,1
+96,0,0,Brown,Chris,Chris Brown,HOU,RB,6-3,235,0000-00-00,Colorado,1
+97,0,30,Brown,Ronnie,Ronnie Brown,LAC,RB,6-0,223,0000-00-00,Auburn,1
+98,0,0,Brown,Thomas,Thomas Brown,CLE,RB,5-8,203,0000-00-00,Georgia,1
+99,0,28,Buckhalter,Correll,Correll Buckhalter,DEN,RB,6-0,223,0000-00-00,Nebraska,1
+100,0,34,Buckley,Eldra,Eldra Buckley,PHI,RB,5-9,207,1985-06-23,Tennessee-Chattanooga,1
+101,0,29,Bush,Michael,Michael Bush,ARI,RB,6-1,245,0000-00-00,Louisville,1
+102,0,0,Calhoun,Brian,Brian Calhoun,DET,RB,5-10,208,0000-00-00,Wisconsin,1
+103,0,28,Cartwright,Rock,Rock Cartwright,SF,RB,5-8,215,1979-12-03,Kansas State,1
+104,0,0,Cason,Aveion,Aveion Cason,DET,RB,5-10,215,0000-00-00,Illinois State,1
+105,0,46,Castille,Tim,Tim Castille,KC,RB,5-11,238,0000-00-00,Alabama,1
+106,0,30,Caulcrick,Jehuu,Jehuu Caulcrick,BUF,RB,6-0,250,1983-08-06,Michigan State,1
+107,0,0,Chatman,Jesse,Jesse Chatman,NYJ,RB,5-8,225,0000-00-00,Eastern Washington,1
+108,0,20,Choice,Tashard,Tashard Choice,BUF,RB,5-10,210,0000-00-00,Georgia Tech,1
+109,0,31,Clayton,Thomas,Thomas Clayton,ARI,RB,5-11,222,1984-04-26,Kansas State,1
+110,0,38,Cobbs,Patrick,Patrick Cobbs,NO,RB,5-8,205,1983-01-31,North Texas,1
+111,0,0,Coleman,Alonzo,Alonzo Coleman,DAL,RB,5-9,210,0000-00-00,Hampton,1
+112,0,45,Collins,Jed,Jed Collins,DAL,RB,6-1,252,1986-03-03,Washington State,1
+113,0,0,Cook,Jameel,Jameel Cook,TB,RB,5-10,237,0000-00-00,Illinois,1
+114,0,42,Cox,Mike,Mike Cox,ATL,RB,6-0,252,1985-07-11,Georgia Tech,1
+115,0,0,Cramer,Casey,Casey Cramer,TEN,RB,6-2,250,0000-00-00,Dartmouth,1
+116,0,0,Crosslin,Julius,Julius Crosslin,DAL,RB,5-11,245,0000-00-00,Oklahoma State,1
+117,0,0,Daniels,P.J.,P.J. Daniels,BAL,RB,5-10,210,0000-00-00,Georgia Tech,1
+118,0,34,Darby,Kenneth,Kenneth Darby,LAR,RB,5-10,219,0000-00-00,Alabama,1
+119,0,0,Davis,Carey,Carey Davis,WAS,RB,5-10,225,0000-00-00,Illinois,1
+120,0,43,Davis,Jason,Jason Davis,NYJ,RB,5-10,242,0000-00-00,Illinois,1
+121,0,0,Dawson,Clifton,Clifton Dawson,HOU,RB,5-10,212,0000-00-00,Harvard,1
+122,0,38,Dorsey,DeDe,DeDe Dorsey,DET,RB,5-11,210,0000-00-00,Lindenwood,1
+123,0,0,Dorsey,Dominique,Dominique Dorsey,WAS,RB,5-7,175,0000-00-00,Nevada-Las Vegas,1
+124,0,0,Droughns,Reuben,Reuben Droughns,NYG,RB,5-11,220,0000-00-00,Oregon,1
+125,0,0,Duckett,T.J.,T.J. Duckett,SEA,RB,6-0,254,0000-00-00,Michigan State,1
+126,0,0,Dunn,Warrick,Warrick Dunn,TB,RB,5-9,187,0000-00-00,Florida State,1
+127,0,36,Eckel,Kyle,Kyle Eckel,DEN,RB,5-11,237,0000-00-00,Navy,1
+128,0,0,Ervin,Allen,Allen Ervin,DET,RB,5-10,224,0000-00-00,Lambuth,1
+129,0,44,Evans,Heath,Heath Evans,NO,RB,6-0,250,0000-00-00,Auburn,1
+130,0,0,Evans,Jonathan,Jonathan Evans,WAS,RB,6-1,245,0000-00-00,Baylor,1
+131,0,25,Fargas,Justin,Justin Fargas,DEN,RB,6-1,220,0000-00-00,USC,1
+132,0,33,Faulk,Kevin,Kevin Faulk,NE,RB,5-8,202,0000-00-00,LSU,1
+133,0,0,Foster,DeShaun,DeShaun Foster,SF,RB,6-0,222,0000-00-00,UCLA,1
+134,0,0,Gado,Samkon,Samkon Gado,TEN,RB,5-10,227,0000-00-00,Liberty,1
+135,0,25,Ganther,Quinton,Quinton Ganther,BUF,RB,5-9,220,0000-00-00,Utah,1
+136,0,0,Goings,Nick,Nick Goings,CAR,RB,6-0,225,0000-00-00,Pittsburgh,1
+137,0,34,Graham,Earnest,Earnest Graham,TB,RB,5-9,225,0000-00-00,Florida,1
+138,0,25,Grant,Ryan,Ryan Grant,GB,RB,6-1,222,1982-12-09,Notre Dame,1
+139,0,0,Green,Ahman,Ahman Green,FA,RB,6-0,218,0000-00-00,Nebraska,1
+140,0,0,Green,Justin,Justin Green,ARI,RB,5-11,251,0000-00-00,Montana,1
+141,0,42,Green-Ellis,BenJarvus,BenJarvus Green-Ellis,CIN,RB,5-11,220,1985-07-02,Mississippi,1
+142,0,45,Griffith,Justin,Justin Griffith,HOU,RB,6-0,230,0000-00-00,Mississippi State,1
+143,0,45,Hall,Ahmard,Ahmard Hall,TEN,RB,5-11,241,1979-11-13,Texas,1
+144,0,0,Hall,Andre,Andre Hall,HOU,RB,5-10,212,0000-00-00,South Florida,1
+145,0,36,Hall,Bruce,Bruce Hall,BUF,RB,5-11,205,1985-03-18,Mississippi,1
+146,0,30,Hamilton,Lynell,Lynell Hamilton,NO,RB,6-0,235,0000-00-00,San Diego State,1
+147,0,0,Harris,Kay-Jay,Kay-Jay Harris,NYG,RB,6-0,240,0000-00-00,West Virginia,1
+148,0,36,Harrison,Jerome,Jerome Harrison,DET,RB,5-9,205,0000-00-00,Washington State,1
+149,0,32,Hart,Mike,Mike Hart,IND,RB,5-9,206,0000-00-00,Michigan,1
+150,0,39,Hedgecock,Madison,Madison Hedgecock,NYG,RB,6-3,266,0000-00-00,North Carolina,1
+151,0,40,Henry,Chris,Chris Henry,SEA,RB,5-11,234,0000-00-00,Arizona,1
+152,0,0,Herron,Noah,Noah Herron,CLE,RB,5-11,220,0000-00-00,Northwestern,1
+153,0,22,Hester,Jacob,Jacob Hester,DEN,RB,5-11,225,0000-00-00,LSU,1
+154,0,0,Hicks,Maurice,Maurice Hicks,MIN,RB,5-11,205,0000-00-00,North Carolina A&T,1
+155,0,36,Hilliard,Lex,Lex Hilliard,NYJ,RB,5-11,235,0000-00-00,Montana,1
+156,0,33,Hillis,Peyton,Peyton Hillis,NYG,RB,6-2,250,0000-00-00,Arkansas,1
+157,0,0,Hoover,Brad,Brad Hoover,CAR,RB,6-0,245,0000-00-00,Western Carolina,1
+158,0,27,Jackson,Brandon,Brandon Jackson,CLE,RB,5-10,215,0000-00-00,Nebraska,1
+159,0,34,Jacobs,Brandon,Brandon Jacobs,NYG,RB,6-4,264,0000-00-00,Southern Illinois,1
+160,0,0,James,Edgerrin,Edgerrin James,SEA,RB,6-0,219,0000-00-00,Miami (Fla.),1
+161,0,0,Johnson,James,James Johnson,PIT,RB,5-11,205,1984-09-06,Kansas State,1
+162,0,23,Johnson,Larry,Larry Johnson,MIA,RB,6-1,235,0000-00-00,Penn State,1
+163,0,0,Johnson,Rudi,Rudi Johnson,DET,RB,5-10,225,0000-00-00,Auburn,1
+164,0,23,Jones,Felix,Felix Jones,PIT,RB,5-10,215,0000-00-00,Arkansas,1
+165,0,33,Jones,Greg,Greg Jones,HOU,RB,6-1,251,1981-05-09,Florida State,1
+166,0,21,Jones,Julius,Julius Jones,NO,RB,5-10,208,0000-00-00,Notre Dame,1
+167,0,0,Jones,Kevin,Kevin Jones,CHI,RB,6-0,225,0000-00-00,Virginia Tech,1
+168,0,20,Jones,Thomas,Thomas Jones,KC,RB,5-10,212,0000-00-00,Virginia,1
+169,0,21,Jones-Drew,Maurice,Maurice Jones-Drew,OAK,RB,5-7,210,1985-03-23,UCLA,1
+170,0,0,Jordan,LaMont,LaMont Jordan,DEN,RB,5-10,242,0000-00-00,Maryland,1
+171,0,44,Karney,Mike,Mike Karney,LAR,RB,5-11,260,0000-00-00,Arizona State,1
+172,0,34,Latsko,Billy,Billy Latsko,LAC,RB,5-10,233,0000-00-00,Florida,1
+173,0,32,Lawrence,Matt,Matt Lawrence,BAL,RB,6-1,209,1985-05-05,Massachusetts,1
+174,0,44,Lawton,Luke,Luke Lawton,OAK,RB,6-0,240,0000-00-00,McNeese State,1
+175,0,44,Leach,Vonta,Vonta Leach,BAL,RB,6-0,260,0000-00-00,East Carolina,1
+176,0,30,Leonard,Brian,Brian Leonard,TB,RB,6-1,225,0000-00-00,Rutgers,1
+177,0,0,Lewis,Jamal,Jamal Lewis,CLE,RB,5-11,245,0000-00-00,Tennessee,1
+178,0,0,Little,Rafael,Rafael Little,TEN,RB,5-9,195,0000-00-00,Kentucky,1
+179,0,11,Logan,Stefan,Stefan Logan,DET,RB,5-6,180,1981-06-02,South Dakota,1
+180,0,20,Lumpkin,Kregg,Kregg Lumpkin,SEA,RB,5-11,228,1984-05-15,Georgia,1
+181,0,26,Maroney,Laurence,Laurence Maroney,DEN,RB,5-11,220,0000-00-00,Minnesota,1
+182,0,29,Mason,Marcus,Marcus Mason,LAC,RB,5-9,226,0000-00-00,Youngstown State,1
+183,0,0,McAllister,Deuce,Deuce McAllister,NO,RB,6-1,232,0000-00-00,Mississippi,1
+184,0,33,McClain,Le'Ron,Le'Ron McClain,LAC,RB,6-0,260,0000-00-00,Alabama,1
+185,0,26,McGahee,Willis,Willis McGahee,CLE,RB,6-0,235,0000-00-00,Miami (Fla.),1
+186,0,49,McHugh,Sean,Sean McHugh,PIT,TE,6-5,265,0000-00-00,Penn State,1
+187,0,38,McIntyre,Corey,Corey McIntyre,BUF,RB,6-0,245,1979-01-25,West Virginia,1
+188,0,38,McKie,Jason,Jason McKie,BAL,RB,5-11,247,0000-00-00,Temple,1
+189,0,28,Mendenhall,Rashard,Rashard Mendenhall,ARI,RB,5-10,225,0000-00-00,Illinois,1
+190,0,86,Mills,Garrett,Garrett Mills,NE,TE,6-1,235,1983-10-12,Tulsa,1
+191,0,0,Minor,Travis,Travis Minor,LAR,RB,5-10,203,0000-00-00,Florida State,1
+192,0,30,Moats,Ryan,Ryan Moats,MIN,RB,5-8,210,0000-00-00,Louisiana Tech,1
+193,0,26,Moore,Mewelde,Mewelde Moore,IND,RB,5-11,209,1982-07-24,Tulane,1
+194,0,28,Morris,Maurice,Maurice Morris,DET,RB,5-11,216,0000-00-00,Oregon,1
+195,0,34,Morris,Sammy,Sammy Morris,DAL,RB,6-0,220,0000-00-00,Texas Tech,1
+196,0,0,Neal,Lorenzo,Lorenzo Neal,BAL,RB,5-11,255,0000-00-00,Fresno State,1
+197,0,40,Norris,Moran,Moran Norris,HOU,RB,6-1,250,1978-06-16,Kansas,1
+198,0,34,Norwood,Jerious,Jerious Norwood,LAR,RB,5-11,205,0000-00-00,Mississippi State,1
+199,0,0,O'Neal,Oren,Oren O'Neal,OAK,RB,5-11,245,0000-00-00,Arkansas State,1
+200,0,33,Omon,Xavier,Xavier Omon,DEN,RB,5-11,227,1985-02-15,Northwest Missouri State,1
+201,0,24,Owens,Montell,Montell Owens,CHI,RB,5-10,225,1984-05-04,Maine,1
+202,0,39,Parker,Willie,Willie Parker,WAS,RB,5-10,212,0000-00-00,North Carolina,1
+203,0,0,Patrick,Allen,Allen Patrick,LAR,RB,6-1,196,0000-00-00,Oklahoma,1
+204,0,35,Pearman,Alvin,Alvin Pearman,TEN,RB,5-10,196,0000-00-00,Virginia,1
+205,0,0,Perry,Chris,Chris Perry,CIN,RB,6-0,224,0000-00-00,Michigan,1
+206,0,0,Peterson,Adrian,Adrian Peterson,SEA,RB,5-10,212,0000-00-00,Georgia Southern,1
+207,0,0,Pinnock,Andrew,Andrew Pinnock,DEN,RB,5-10,250,0000-00-00,South Carolina,1
+208,0,0,Pittman,Antonio,Antonio Pittman,LAR,RB,5-11,195,0000-00-00,Ohio State,1
+209,0,0,Pittman,Michael,Michael Pittman,DEN,RB,6-0,225,0000-00-00,Fresno State,1
+210,0,45,Polite,Lousaka,Lousaka Polite,ATL,RB,6-0,245,1981-09-14,Pittsburgh,1
+211,0,26,Portis,Clinton,Clinton Portis,WAS,RB,5-11,219,0000-00-00,Miami (Fla.),1
+212,0,0,Powdrell,Ryan,Ryan Powdrell,SEA,RB,5-11,254,0000-00-00,USC,1
+213,0,40,Rankin,Louis,Louis Rankin,OAK,RB,6-1,207,1985-05-04,Washington,1
+214,0,30,Rhodes,Dominic,Dominic Rhodes,IND,RB,5-9,203,0000-00-00,Midwestern State,1
+215,0,27,Rice,Ray,Ray Rice,BAL,RB,5-8,206,1987-01-22,Rutgers,1
+216,0,49,Richardson,Tony,Tony Richardson,NYJ,RB,6-1,240,0000-00-00,Auburn,1
+217,0,26,Robinson,Michael,Michael Robinson,SEA,RB,6-1,240,0000-00-00,Penn State,1
+218,0,0,Runnels,J.D.,J.D. Runnels,CIN,RB,5-11,237,0000-00-00,Oklahoma,1
+219,0,0,Russell,Gary,Gary Russell,OAK,RB,5-11,215,0000-00-00,Minnesota,1
+220,0,0,Sapp,Cecil,Cecil Sapp,HOU,RB,5-11,236,0000-00-00,Colorado State,1
+221,0,26,Savage,Dantrell,Dantrell Savage,CAR,RB,5-8,182,0000-00-00,Oklahoma State,1
+222,0,44,Schmitt,Owen,Owen Schmitt,OAK,RB,6-2,250,1985-02-13,West Virginia,1
+223,0,2,Simpson,Chad,Chad Simpson,WAS,RB,5-9,216,0000-00-00,Morgan State,1
+224,0,23,Slaton,Steve,Steve Slaton,MIA,RB,5-9,208,1986-01-04,West Virginia,1
+225,0,28,Smith,Clifton,Clifton Smith,CLE,RB,5-9,190,0000-00-00,Fresno State,1
+226,0,30,Smith,Kevin,Kevin Smith,DET,RB,6-1,217,0000-00-00,Central Florida,1
+227,0,0,Smith,Kolby,Kolby Smith,JAC,RB,5-11,219,0000-00-00,Louisville,1
+228,0,0,Smith,Terrelle,Terrelle Smith,DET,RB,6-0,246,0000-00-00,Arizona State,1
+229,0,44,Snelling,Jason,Jason Snelling,ATL,RB,5-11,234,0000-00-00,Virginia,1
+230,0,0,Sobomehin,Olaniyi,Olaniyi Sobomehin,NO,RB,6-1,230,0000-00-00,Portland State,1
+231,0,43,Sproles,Darren,Darren Sproles,PHI,RB,5-6,190,1983-06-20,Kansas State,1
+232,0,0,Stecker,Aaron,Aaron Stecker,ATL,RB,5-10,213,1975-11-13,Western Illinois,1
+233,0,0,Storer,Byron,Byron Storer,TB,RB,6-1,219,0000-00-00,California,1
+234,0,38,Tahi,Naufahu,Naufahu Tahi,MIN,RB,6-0,254,0000-00-00,Brigham Young,1
+235,0,29,Taylor,Chester,Chester Taylor,ARI,RB,5-11,213,0000-00-00,Toledo,1
+236,0,21,Taylor,Fred,Fred Taylor,NE,RB,6-1,228,0000-00-00,Florida,1
+237,0,0,Thomas,Marcus,Marcus Thomas,DEN,RB,6-0,215,0000-00-00,Texas-El Paso,1
+238,0,21,Tomlinson,LaDainian,LaDainian Tomlinson,NYJ,RB,5-10,215,1979-06-23,Texas Christian,1
+239,0,46,Torain,Ryan,Ryan Torain,NYG,RB,6-0,220,0000-00-00,Arizona State,1
+240,0,33,Turner,Michael,Michael Turner,ATL,RB,5-10,247,1982-02-13,Northern Illinois,1
+241,0,47,Vickers,Lawrence,Lawrence Vickers,DAL,RB,6-0,250,0000-00-00,Colorado,1
+242,0,0,Vincent,Chris,Chris Vincent,ARI,RB,6-1,218,0000-00-00,Oregon,1
+243,0,28,Vincent,Justin,Justin Vincent,PIT,RB,5-10,219,0000-00-00,LSU,1
+244,0,32,Ward,Derrick,Derrick Ward,HOU,RB,5-11,240,0000-00-00,Ottawa (Kans.),1
+245,0,28,Ware,D.J.,D.J. Ware,TB,RB,6-0,225,1985-02-18,Georgia,1
+246,0,33,Washington,Chauncey,Chauncey Washington,LAR,RB,5-11,222,0000-00-00,USC,1
+247,0,29,Washington,Leon,Leon Washington,TEN,RB,5-8,192,1982-08-29,Florida State,1
+248,0,0,Watson,Kenny,Kenny Watson,CIN,RB,6-0,220,0000-00-00,Penn State,1
+249,0,43,Weaver,Leonard,Leonard Weaver,PHI,RB,6-0,250,0000-00-00,Carson-Newman,1
+250,0,20,Westbrook,Brian,Brian Westbrook,SF,RB,5-10,203,0000-00-00,Villanova,1
+251,0,25,White,LenDale,LenDale White,DEN,RB,6-1,235,1984-12-20,USC,1
+252,0,33,Williams,Cadillac,Cadillac Williams,LAR,RB,5-11,218,0000-00-00,Auburn,1
+253,0,34,Williams,Ricky,Ricky Williams,BAL,RB,5-10,230,0000-00-00,Texas,1
+254,0,25,Wolfe,Garrett,Garrett Wolfe,CHI,RB,5-7,185,0000-00-00,Northern Illinois,1
+255,0,0,Wright,Dwayne,Dwayne Wright,PIT,RB,5-11,228,0000-00-00,Fresno State,1
+256,0,31,Wright,Jason,Jason Wright,ARI,RB,5-10,212,0000-00-00,Northwestern,1
+257,0,35,Wynn,DeShawn,DeShawn Wynn,NO,RB,5-10,232,0000-00-00,Florida,1
+258,0,34,Young,Albert,Albert Young,JAC,RB,5-10,209,1985-02-25,Iowa,1
+259,0,0,Young,Selvin,Selvin Young,DEN,RB,5-11,215,0000-00-00,Texas,1
+260,0,85,Aiken,Sam,Sam Aiken,CLE,WR,6-2,220,0000-00-00,North Carolina,1
+261,0,85,Allen,Jake,Jake Allen,CLE,WR,6-4,196,0000-00-00,Mississippi College,1
+262,0,88,Allison,Aundrae,Aundrae Allison,TB,WR,6-0,198,1984-06-25,East Carolina,1
+263,0,0,Alridge,Anthony,Anthony Alridge,WAS,WR,5-9,185,0000-00-00,Houston,1
+264,0,89,Anderson,David,David Anderson,HOU,WR,5-10,193,1983-07-28,Colorado State,1
+265,0,86,Armstrong,Anthony,Anthony Armstrong,CLE,WR,5-10,185,0000-00-00,West Texas A&M,1
+266,0,13,Aromashodu,Devin,Devin Aromashodu,CHI,WR,6-2,201,0000-00-00,Auburn,1
+267,0,87,Arrington,Adrian,Adrian Arrington,NO,WR,6-3,192,1985-11-07,Michigan,1
+268,0,17,Avery,Donnie,Donnie Avery,KC,WR,5-11,200,1984-06-12,Houston,1
+269,0,0,Baker,Dallas,Dallas Baker,PIT,WR,6-3,206,0000-00-00,Florida,1
+270,0,16,Banks,Gary,Gary Banks,LAC,WR,6-0,198,0000-00-00,Troy,1
+271,0,19,Baskett,Hank,Hank Baskett,MIN,WR,6-4,220,0000-00-00,New Mexico,1
+272,0,81,Battle,Arnaz,Arnaz Battle,PIT,WR,6-1,208,0000-00-00,Notre Dame,1
+273,0,0,Bennett,Drew,Drew Bennett,BAL,WR,6-5,196,0000-00-00,UCLA,1
+274,0,0,Bennett,Earl,Earl Bennett,CLE,WR,6-0,206,0000-00-00,Vanderbilt,1
+275,0,87,Berrian,Bernard,Bernard Berrian,MIN,WR,6-1,185,0000-00-00,Fresno State,1
+276,0,15,Bess,Davone,Davone Bess,CLE,WR,5-10,195,0000-00-00,Hawaii,1
+277,0,15,Biddle,Taye,Taye Biddle,MIN,WR,6-1,185,0000-00-00,Mississippi,1
+278,0,10,Bodiford,Shaun,Shaun Bodiford,OAK,WR,5-11,186,1982-05-04,Portland State,1
+279,0,0,Booker,Marty,Marty Booker,ATL,WR,6-0,205,0000-00-00,Louisiana-Monroe,1
+280,0,0,Bradford,Mark,Mark Bradford,SF,WR,6-2,205,0000-00-00,Stanford,1
+281,0,16,Bradley,Mark,Mark Bradley,NO,WR,6-1,201,0000-00-00,Oklahoma,1
+282,0,84,Branch,Deion,Deion Branch,NE,WR,5-9,195,0000-00-00,Louisville,1
+283,0,85,Breaston,Steve,Steve Breaston,NO,WR,6-0,189,0000-00-00,Michigan,1
+284,0,0,Broussard,John,John Broussard,DET,WR,6-1,181,0000-00-00,San Jose State,1
+285,0,15,Brown,Reggie,Reggie Brown,TB,WR,6-1,197,0000-00-00,Georgia,1
+286,0,0,Bruce,Isaac,Isaac Bruce,SF,WR,6-0,188,0000-00-00,Memphis,1
+287,0,81,Bryant,Antonio,Antonio Bryant,CIN,WR,6-1,211,0000-00-00,Pittsburgh,1
+288,0,0,Bumpus,Michael,Michael Bumpus,SEA,WR,5-11,194,0000-00-00,Washington State,1
+289,0,0,Burgess,Rudy,Rudy Burgess,CHI,WR,5-10,186,0000-00-00,Arizona State,1
+290,0,13,Burleson,Nate,Nate Burleson,CLE,WR,6-0,198,0000-00-00,Nevada,1
+291,0,80,Burress,Plaxico,Plaxico Burress,PIT,WR,6-5,232,0000-00-00,Michigan State,1
+292,0,14,Burton,Keenan,Keenan Burton,LAR,WR,6-0,206,0000-00-00,Kentucky,1
+293,0,17,Camarillo,Greg,Greg Camarillo,NO,WR,6-2,200,1982-04-18,Stanford,1
+294,0,0,Campbell,Kelly,Kelly Campbell,TB,WR,5-10,175,0000-00-00,Georgia Tech,1
+295,0,0,Carter,Drew,Drew Carter,OAK,WR,6-3,200,0000-00-00,Ohio State,1
+296,0,0,Carter,Jason,Jason Carter,CAR,WR,6-0,205,0000-00-00,Texas A&M,1
+297,0,84,Chambers,Chris,Chris Chambers,KC,WR,5-11,210,0000-00-00,Wisconsin,1
+298,0,0,Chatman,Antonio,Antonio Chatman,CIN,WR,5-8,185,0000-00-00,Cincinnati,1
+299,0,87,Clark,Brian,Brian Clark,DET,WR,6-2,204,0000-00-00,North Carolina State,1
+300,0,89,Clayton,Mark,Mark Clayton,LAR,WR,5-10,190,1982-07-02,Oklahoma,1
+301,0,83,Clayton,Michael,Michael Clayton,NYG,WR,6-4,215,1982-10-13,LSU,1
+302,0,17,Clowney,David,David Clowney,BUF,WR,6-0,188,1985-07-07,Virginia Tech,1
+303,0,84,Colbert,Keary,Keary Colbert,KC,WR,6-1,205,0000-00-00,USC,1
+304,0,87,Coles,Laveranues,Laveranues Coles,NYJ,WR,5-11,200,0000-00-00,Florida State,1
+305,0,15,Copper,Terrance,Terrance Copper,KC,WR,6-0,207,0000-00-00,East Carolina,1
+306,0,12,Crayton,Patrick,Patrick Crayton,LAC,WR,6-0,205,0000-00-00,Northwestern Oklahoma State,1
+307,0,0,Cribbs,Josh,Josh Cribbs,IND,WR,6-1,192,0000-00-00,Kent State,1
+308,0,0,Curry,Ronald,Ronald Curry,LAR,WR,6-2,210,0000-00-00,North Carolina,1
+309,0,17,Curtis,Kevin,Kevin Curtis,TEN,WR,6-0,186,1978-07-17,Utah State,1
+310,0,0,Darling,Devard,Devard Darling,HOU,WR,6-1,213,1982-04-16,Washington State,1
+311,0,11,Davis,Andre,Andre Davis,HOU,WR,6-1,200,0000-00-00,Virginia Tech,1
+312,0,0,Davis,Chris,Chris Davis,CIN,WR,5-10,181,0000-00-00,Florida State,1
+313,0,84,Davis,Buster,Buster Davis,LAC,WR,6-1,210,0000-00-00,LSU,1
+314,0,81,Davis,Rashied,Rashied Davis,CHI,WR,5-9,187,1979-07-24,San Jose State,1
+315,0,85,Doucet,Early,Early Doucet,ARI,WR,6-0,212,1985-10-28,LSU,1
+316,0,80,Driver,Donald,Donald Driver,GB,WR,6-0,194,1975-02-02,Alcorn State,1
+317,0,0,Ealy,Biren,Biren Ealy,GB,WR,6-3,207,0000-00-00,Houston,1
+318,0,17,Edwards,Braylon,Braylon Edwards,NYJ,WR,6-3,214,0000-00-00,Michigan,1
+319,0,0,Ellis,Devale,Devale Ellis,CLE,WR,5-10,174,0000-00-00,Hofstra,1
+320,0,88,Engram,Bobby,Bobby Engram,CLE,WR,5-10,192,0000-00-00,Penn State,1
+321,0,83,Evans,Lee,Lee Evans,JAC,WR,6-0,210,1981-03-11,Wisconsin,1
+322,0,13,Figurs,Yamon,Yamon Figurs,TEN,WR,5-11,185,1982-01-10,Kansas State,1
+323,0,0,Filani,Joel,Joel Filani,TB,WR,6-2,206,0000-00-00,Texas Tech,1
+324,0,86,Finneran,Brian,Brian Finneran,ATL,WR,6-5,210,0000-00-00,Villanova,1
+325,0,0,Floyd,Marquis,Marquis Floyd,SEA,WR,6-0,190,0000-00-00,West Georgia,1
+326,0,0,Foster,Jayson,Jayson Foster,DEN,WR,5-7,175,0000-00-00,Georgia Southern,1
+327,0,18,Fowler,Eric,Eric Fowler,DET,WR,6-3,210,0000-00-00,Grand Valley State,1
+328,0,0,Franklin,Will,Will Franklin,OAK,WR,6-0,210,0000-00-00,Missouri,1
+329,0,85,Furrey,Mike,Mike Furrey,WAS,WR,6-0,192,0000-00-00,Northern Iowa,1
+330,0,10,Gaffney,Jabar,Jabar Gaffney,MIA,WR,6-2,200,1980-12-01,Florida,1
+331,0,12,Gage,Justin,Justin Gage,TEN,WR,6-4,204,1981-01-24,Missouri,1
+332,0,84,Galloway,Joey,Joey Galloway,WAS,WR,5-11,197,0000-00-00,Ohio State,1
+333,0,0,Giguere,Samuel,Samuel Giguere,NYG,WR,5-11,215,1985-07-11,Unknown,1
+334,0,0,Gonzalez,Anthony,Anthony Gonzalez,NE,WR,6-0,193,0000-00-00,Ohio State,1
+335,0,0,Green,Skyler,Skyler Green,NO,WR,5-9,190,0000-00-00,LSU,1
+336,0,0,Hackett,D.J.,D.J. Hackett,WAS,WR,6-2,208,0000-00-00,Colorado,1
+337,0,80,Hagan,Derek,Derek Hagan,TEN,WR,6-2,210,0000-00-00,Arizona State,1
+338,0,0,Hagans,Marques,Marques Hagans,WAS,WR,5-10,205,0000-00-00,Virginia,1
+339,0,0,Hall,Dante,Dante Hall,LAR,WR,5-8,187,0000-00-00,Texas A&M,1
+340,0,0,Hall,Roy,Roy Hall,NO,WR,6-3,240,0000-00-00,Ohio State,1
+341,0,0,Hankton,Cortez,Cortez Hankton,TB,WR,6-0,200,0000-00-00,Texas Southern,1
+342,0,0,Hannon,Chris,Chris Hannon,BAL,WR,6-3,205,0000-00-00,Tennessee,1
+343,0,84,Hardy,James,James Hardy,BAL,WR,6-5,220,1985-12-24,Indiana,1
+344,0,82,Harper,Justin,Justin Harper,BAL,WR,6-3,226,1985-02-24,Virginia Tech,1
+345,0,0,Harrison,Marvin,Marvin Harrison,IND,WR,6-0,185,1972-08-25,Syracuse,1
+346,0,18,Hass,Mike,Mike Hass,SEA,WR,6-1,210,0000-00-00,Oregon State,1
+347,0,15,Hawkins,Lavelle,Lavelle Hawkins,TB,WR,5-11,194,0000-00-00,California,1
+348,0,0,Hawthorne,C.J.,C.J. Hawthorne,BUF,WR,5-11,168,0000-00-00,Hawaii,1
+349,0,87,Henderson,Devery,Devery Henderson,WAS,WR,5-11,200,0000-00-00,LSU,1
+350,0,0,Henry,Chris,Chris Henry,CIN,WR,6-4,200,1983-05-17,West Virginia,1
+351,0,0,Henry,Marcus,Marcus Henry,CAR,WR,6-4,212,0000-00-00,Kansas,1
+353,0,15,Higgins,Johnnie Lee,Johnnie Lee Higgins,PHI,WR,5-11,185,0000-00-00,Texas-El Paso,1
+354,0,0,Hill,Jason,Jason Hill,NYJ,WR,6-0,202,0000-00-00,Washington State,1
+355,0,0,Hilliard,Ike,Ike Hilliard,TB,WR,5-11,210,0000-00-00,Florida,1
+356,0,0,Hixon,Domenik,Domenik Hixon,CHI,WR,6-2,205,0000-00-00,Akron,1
+357,0,17,Holland,Jonathan,Jonathan Holland,OAK,WR,6-1,195,0000-00-00,Louisiana Tech,1
+358,0,14,Holmes,Santonio,Santonio Holmes,CHI,WR,5-11,192,0000-00-00,Ohio State,1
+359,0,0,Holt,Glenn,Glenn Holt,DET,WR,6-1,193,0000-00-00,Kentucky,1
+360,0,84,Holt,Torry,Torry Holt,NE,WR,6-0,200,0000-00-00,North Carolina State,1
+361,0,84,Houshmandzadeh,T.J.,T.J. Houshmandzadeh,OAK,WR,6-2,203,0000-00-00,Oregon State,1
+362,0,17,Hubbard,Paul,Paul Hubbard,BUF,WR,6-2,225,1985-06-12,Wisconsin,1
+363,0,15,Huggins,Felton,Felton Huggins,BUF,WR,6-2,195,1983-02-15,Southeastern Louisiana,1
+364,0,86,Hughes,Nate,Nate Hughes,DET,WR,6-2,195,0000-00-00,Alcorn State,1
+365,0,81,Hurd,Sam,Sam Hurd,CHI,WR,6-3,200,0000-00-00,Northern Illinois,1
+366,0,17,Jackson,Chad,Chad Jackson,OAK,WR,6-1,223,1985-03-06,Florida,1
+367,0,0,Jackson,Darrell,Darrell Jackson,DEN,WR,5-11,210,0000-00-00,Florida,1
+368,0,89,Jackson,Dexter,Dexter Jackson,NYJ,WR,5-9,182,0000-00-00,Appalachian State,1
+369,0,0,Jackson,Nate,Nate Jackson,CLE,WR,6-3,235,0000-00-00,Menlo College,1
+370,0,83,Jackson,Vincent,Vincent Jackson,TB,WR,6-5,230,0000-00-00,Northern Colorado,1
+371,0,80,Jarrett,Dwayne,Dwayne Jarrett,CAR,WR,6-4,219,0000-00-00,USC,1
+372,0,0,Jefferson,Mike,Mike Jefferson,DAL,WR,6-1,206,0000-00-00,Montana State,1
+373,0,10,Jenkins,Darnell,Darnell Jenkins,NE,WR,5-10,191,1982-12-31,Miami (Fla.),1
+374,0,0,Jenkins,Justin,Justin Jenkins,BUF,WR,6-0,207,0000-00-00,Mississippi State,1
+375,0,10,Jenkins,Michael,Michael Jenkins,NE,WR,6-4,214,0000-00-00,Ohio State,1
+376,0,0,Jennings,Adam,Adam Jennings,NYG,WR,5-9,180,0000-00-00,Fresno State,1
+377,0,89,Johnson,Bryant,Bryant Johnson,HOU,WR,6-3,212,0000-00-00,Penn State,1
+378,0,83,Johnson,Jaymar,Jaymar Johnson,ARI,WR,6-0,183,1984-07-10,Jackson State,1
+379,0,11,Johnson,Stevie,Stevie Johnson,LAC,WR,6-2,207,0000-00-00,Kentucky,1
+380,0,0,Jones,Brandon,Brandon Jones,BAL,WR,6-1,212,1982-10-06,Oklahoma,1
+381,0,0,Jones,C.J.,C.J. Jones,DEN,WR,5-11,195,0000-00-00,Iowa,1
+382,0,0,Jones,Mark,Mark Jones,TEN,WR,5-9,185,0000-00-00,Tennessee,1
+383,0,0,Jones,Nate,Nate Jones,LAR,WR,6-2,195,0000-00-00,Texas,1
+384,0,17,Jones,Onrea,Onrea Jones,CHI,WR,5-11,202,1983-12-22,Hampton,1
+385,0,0,Jurevicius,Joe,Joe Jurevicius,CLE,WR,6-5,230,0000-00-00,Penn State,1
+386,0,12,Kelly,Malcolm,Malcolm Kelly,WAS,WR,6-4,226,1986-12-30,Oklahoma,1
+387,0,82,Kent,Jordan,Jordan Kent,LAR,WR,6-4,219,0000-00-00,Oregon,1
+388,0,0,Kilmer,Ethan,Ethan Kilmer,MIA,WR,6-0,205,0000-00-00,Penn State,1
+389,0,0,Leggett,Lance,Lance Leggett,CLE,WR,6-3,205,0000-00-00,Miami (Fla.),1
+390,0,0,Lelie,Ashley,Ashley Lelie,KC,WR,6-3,195,0000-00-00,Hawaii,1
+391,0,17,Lewis,Greg,Greg Lewis,MIN,WR,6-0,185,0000-00-00,Illinois,1
+392,0,84,Lloyd,Brandon,Brandon Lloyd,SF,WR,6-0,200,1981-07-05,Illinois,1
+393,0,15,London,Brandon,Brandon London,PIT,WR,6-4,210,0000-00-00,Massachusetts,1
+394,0,86,Long,Lance,Lance Long,DET,WR,5-11,186,0000-00-00,Mississippi State,1
+395,0,0,Looker,Dane,Dane Looker,DET,WR,6-0,194,0000-00-00,Washington,1
+396,0,0,Lowber,Todd,Todd Lowber,MIA,WR,6-3,205,0000-00-00,Ramapo,1
+397,0,0,Lucas,Chad,Chad Lucas,LAR,WR,6-1,201,0000-00-00,Alabama State,1
+398,0,0,Madsen,John,John Madsen,CLE,TE,6-5,240,0000-00-00,Utah,1
+399,0,86,Manningham,Mario,Mario Manningham,NYG,WR,5-11,185,1986-05-25,Michigan,1
+400,0,15,Marshall,Brandon,Brandon Marshall,NYG,WR,6-5,232,1984-03-23,UCF,1
+401,0,82,Martin,Ruvell,Ruvell Martin,BUF,WR,6-4,214,1982-08-10,Saginaw Valley State,1
+402,0,0,Martinez,Glenn,Glenn Martinez,HOU,WR,6-1,190,0000-00-00,Saginaw Valley State,1
+403,0,0,Maxwell,Marcus,Marcus Maxwell,SEA,WR,6-3,210,0000-00-00,Oregon,1
+404,0,0,McBride,Shaheer,Shaheer McBride,PHI,WR,6-2,205,0000-00-00,Delaware State,1
+405,0,0,McCareins,Justin,Justin McCareins,TEN,WR,6-2,215,0000-00-00,Northern Illinois,1
+406,0,0,McDonald,Shaun,Shaun McDonald,PIT,WR,5-10,183,0000-00-00,Arizona State,1
+407,0,0,McMahan,Kevin,Kevin McMahan,CAR,WR,6-2,192,0000-00-00,Maine,1
+408,0,0,McMullen,Billy,Billy McMullen,DET,WR,6-4,215,0000-00-00,Virginia,1
+409,0,0,Meachem,Robert,Robert Meachem,NO,WR,6-2,215,0000-00-00,Tennessee,1
+410,0,82,Moore,Evan,Evan Moore,SEA,TE,6-6,250,1985-01-03,Stanford,1
+411,0,80,Moore,Kenny,Kenny Moore,PIT,WR,5-11,195,1985-02-19,Wake Forest,1
+412,0,0,Morey,Sean,Sean Morey,SEA,WR,5-11,193,0000-00-00,Brown,1
+413,0,84,Moss,Randy,Randy Moss,SF,WR,6-4,210,0000-00-00,Marshall,1
+414,0,89,Moss,Santana,Santana Moss,WAS,WR,5-10,193,1979-06-01,Miami (Fla.),1
+415,0,83,Moss,Sinorice,Sinorice Moss,PHI,WR,5-8,185,1983-12-28,Miami (Fla.),1
+416,0,0,Muhammad,Muhsin,Muhsin Muhammad,CAR,WR,6-2,215,0000-00-00,Michigan State,1
+417,0,19,Naanee,Legedu,Legedu Naanee,MIA,WR,6-2,215,1983-09-16,Boise State,1
+418,0,0,Nance,Martin,Martin Nance,PIT,WR,6-3,212,0000-00-00,Miami (Ohio),1
+419,0,86,Northcutt,Dennis,Dennis Northcutt,DET,WR,5-11,172,0000-00-00,Arizona,1
+420,0,15,Obomanu,Ben,Ben Obomanu,NYJ,WR,6-1,204,0000-00-00,Auburn,1
+421,0,85,Johnson,Chad,Chad Johnson,MIA,WR,6-1,188,0000-00-00,Oregon State,1
+422,0,14,Osgood,Kassim,Kassim Osgood,SF,WR,6-5,220,0000-00-00,San Diego State,1
+423,0,10,Owens,Terrell,Terrell Owens,SEA,WR,6-3,224,0000-00-00,Tennessee-Chattanooga,1
+424,0,12,Parrish,Roscoe,Roscoe Parrish,TB,WR,5-9,175,1982-07-16,Miami (Fla.),1
+425,0,0,Patten,David,David Patten,NE,WR,5-10,190,0000-00-00,Western Carolina,1
+426,0,18,Payne,Logan,Logan Payne,BAL,WR,6-2,205,1985-01-21,Minnesota,1
+427,0,0,Perry,Tab,Tab Perry,MIA,WR,6-3,215,0000-00-00,UCLA,1
+428,0,0,Price,Maurice,Maurice Price,TB,WR,6-1,197,1985-09-11,Charleston Southern,1
+429,0,14,Purify,Maurice,Maurice Purify,CIN,WR,6-3,222,0000-00-00,Nebraska,1
+430,0,82,Randle El,Antwaan,Antwaan Randle El,PIT,WR,5-10,185,0000-00-00,Indiana,1
+431,0,0,Raymond,Paul,Paul Raymond,CLE,WR,5-10,185,0000-00-00,Brown,1
+432,0,82,Reed,Josh,Josh Reed,LAC,WR,5-10,210,0000-00-00,LSU,1
+433,0,25,Reynaud,Darius,Darius Reynaud,TEN,RB,5-9,201,1984-12-29,West Virginia,1
+434,0,18,Rice,Sidney,Sidney Rice,SEA,WR,6-4,202,0000-00-00,South Carolina,1
+435,0,0,Rideau,Brandon,Brandon Rideau,CHI,WR,6-3,198,0000-00-00,Kansas,1
+436,0,0,Robinson,Kevin,Kevin Robinson,KC,WR,6-0,196,0000-00-00,Utah State,1
+437,0,0,Robinson,Koren,Koren Robinson,SEA,WR,6-1,205,0000-00-00,North Carolina State,1
+438,0,81,Robinson,Laurent,Laurent Robinson,JAC,WR,6-2,205,1985-05-20,Illinois State,1
+439,0,15,Roby,Courtney,Courtney Roby,ATL,WR,6-0,189,0000-00-00,Indiana,1
+441,0,0,Rucker,Micah,Micah Rucker,NYG,WR,6-6,221,0000-00-00,Eastern Illinois,1
+442,0,0,Russell,Cliff,Cliff Russell,DEN,WR,5-11,190,0000-00-00,Utah,1
+443,0,0,Sam,Lorne,Lorne Sam,GB,WR,6-3,220,0000-00-00,Texas-El Paso,1
+444,0,0,Sam,P.K.,P.K. Sam,BUF,WR,6-3,210,0000-00-00,Florida State,1
+445,0,0,Sanders,Steve,Steve Sanders,ARI,WR,6-3,205,0000-00-00,Bowling Green State,1
+446,0,19,Schilens,Chaz,Chaz Schilens,DET,WR,6-4,225,0000-00-00,San Diego State,1
+447,0,0,Shepherd,Edell,Edell Shepherd,DEN,WR,6-1,175,0000-00-00,San Jose State,1
+448,0,0,Shields,Arman,Arman Shields,OAK,WR,6-1,195,0000-00-00,Richmond,1
+449,0,0,Simmons,Mark,Mark Simmons,HOU,WR,5-10,185,0000-00-00,Kansas,1
+450,0,16,Smith,Brad,Brad Smith,PHI,WR,6-2,213,1983-12-12,Missouri,1
+451,0,11,Smith,Marcus,Marcus Smith,BAL,WR,6-1,225,1985-01-11,New Mexico,1
+452,0,12,Smith,Steve,Steve Smith,TB,WR,5-11,195,1985-05-06,USC,1
+453,0,10,Smith,Taj,Taj Smith,IND,WR,6-0,192,1983-09-30,Syracuse,1
+454,0,18,Spurlock,Micheal,Micheal Spurlock,CHI,WR,5-11,210,0000-00-00,Mississippi,1
+455,0,14,Stallworth,Donte',Donte' Stallworth,WAS,WR,6-0,200,0000-00-00,Tennessee,1
+456,0,86,Stanback,Isaiah,Isaiah Stanback,JAC,TE,6-2,228,0000-00-00,Washington,1
+457,0,0,Standeford,John,John Standeford,CIN,WR,6-4,200,1982-04-15,Purdue,1
+458,0,0,Stanley,Derek,Derek Stanley,LAR,WR,5-11,182,0000-00-00,Wis.-Whitewater,1
+459,0,10,Steptoe,Syndric,Syndric Steptoe,CLE,WR,5-9,200,0000-00-00,Arizona,1
+460,0,80,Stokley,Brandon,Brandon Stokley,BAL,WR,6-0,194,0000-00-00,Louisiana-Lafayette,1
+461,0,83,Stovall,Maurice,Maurice Stovall,JAC,TE,6-5,220,1985-02-21,Notre Dame,1
+462,0,17,Stuckey,Chansi,Chansi Stuckey,ARI,WR,6-0,196,0000-00-00,Clemson,1
+463,0,16,Swain,Brett,Brett Swain,SEA,WR,6-0,200,0000-00-00,San Diego State,1
+464,0,80,Sweed,Limas,Limas Sweed,PIT,WR,6-4,220,1984-12-25,Texas,1
+465,0,0,Taylor,Courtney,Courtney Taylor,SEA,WR,6-1,205,0000-00-00,Auburn,1
+466,0,0,Taylor,Travis,Travis Taylor,DET,WR,6-1,210,0000-00-00,Florida,1
+467,0,11,Thomas,Devin,Devin Thomas,DET,WR,6-2,221,0000-00-00,Michigan State,1
+468,0,0,Thorpe,Craphonso,Craphonso Thorpe,TEN,WR,6-0,187,0000-00-00,Florida State,1
+469,0,0,Thrash,James,James Thrash,WAS,WR,6-0,204,0000-00-00,Missouri Southern State,1
+470,0,0,Toomer,Amani,Amani Toomer,KC,WR,6-3,203,0000-00-00,Michigan,1
+471,0,0,Tyree,David,David Tyree,BAL,WR,6-0,206,0000-00-00,Syracuse,1
+472,0,83,Urban,Jerheme,Jerheme Urban,KC,WR,6-3,207,0000-00-00,Trinity (Tex.),1
+473,0,0,Urrutia,Mario,Mario Urrutia,TB,WR,6-6,232,0000-00-00,Louisville,1
+474,0,19,Wade,Bobby,Bobby Wade,WAS,WR,5-10,195,0000-00-00,Arizona,1
+475,0,0,Walker,Javon,Javon Walker,MIN,WR,6-3,215,0000-00-00,Florida State,1
+476,0,10,Sims-Walker,Mike,Mike Sims-Walker,LAR,WR,6-2,212,0000-00-00,Central Florida,1
+477,0,87,Walter,Kevin,Kevin Walter,TEN,WR,6-3,218,0000-00-00,Eastern Michigan,1
+478,0,86,Ward,Hines,Hines Ward,PIT,WR,6-0,205,1976-03-08,Georgia,1
+479,0,0,Warren,Paris,Paris Warren,NO,WR,6-0,213,0000-00-00,Utah,1
+480,0,87,Washington,Kelley,Kelley Washington,LAC,WR,6-3,217,1979-08-21,Tennessee,1
+481,0,19,Watkins,Todd,Todd Watkins,NYG,WR,6-3,195,1983-06-22,Brigham Young,1
+482,0,15,Wayne,Reggie,Reggie Wayne,NE,WR,6-0,203,1978-11-17,Miami (FL),1
+483,0,0,Webb,Jeff,Jeff Webb,KC,WR,6-2,211,0000-00-00,San Diego State,1
+485,0,0,Whittaker,Huey,Huey Whittaker,NYJ,WR,6-4,234,0000-00-00,South Florida,1
+486,0,85,Wilford,Ernest,Ernest Wilford,JAC,WR,6-4,235,0000-00-00,Virginia Tech,1
+487,0,0,Williams,Brandon,Brandon Williams,PIT,WR,5-11,170,0000-00-00,Wisconsin,1
+488,0,8,Williams,Chandler,Chandler Williams,KC,WR,5-11,176,1985-08-09,Florida International,1
+489,0,88,Williams,Demetrius,Demetrius Williams,JAC,WR,6-2,202,1983-03-28,Oregon,1
+490,0,0,Williams,Edward,Edward Williams,CLE,WR,6-4,210,0000-00-00,Lane,1
+491,0,0,Williams,Harry,Harry Williams,HOU,WR,6-2,187,0000-00-00,Tuskegee,1
+492,0,17,Williams,Paul,Paul Williams,HOU,WR,6-1,196,1983-12-02,Fresno State,1
+493,0,0,Williams,Reggie,Reggie Williams,SEA,WR,6-4,212,0000-00-00,Washington,1
+494,0,11,Williams,Roy,Roy Williams,CHI,WR,6-3,215,0000-00-00,Texas,1
+495,0,84,Williamson,Troy,Troy Williamson,JAC,WR,6-1,203,0000-00-00,South Carolina,1
+496,0,12,Willis,Matt,Matt Willis,DET,WR,6-0,190,0000-00-00,UCLA,1
+497,0,37,Wilson,George,George Wilson,BUF,WR,6-0,212,1981-03-14,Arkansas,1
+498,0,0,Wilson,Travis,Travis Wilson,DAL,WR,6-1,210,0000-00-00,Oklahoma,1
+499,0,0,Woods,D'Juan,D'Juan Woods,NO,WR,6-1,210,0000-00-00,Oklahoma State,1
+500,0,12,Wright,Wallace,Wallace Wright,TB,WR,6-1,197,1984-02-01,North Carolina,1
+501,0,17,Zeigler,Dominique,Dominique Zeigler,SF,WR,6-3,185,1984-10-11,Baylor,1
+502,0,0,Anderson,Courtney,Courtney Anderson,HOU,TE,6-6,270,0000-00-00,San Jose State,1
+503,0,89,Angulo,Richard,Richard Angulo,CHI,TE,6-8,260,0000-00-00,Western New Mexico,1
+504,0,86,Bajema,Billy,Billy Bajema,BAL,TE,6-4,259,0000-00-00,Oklahoma State,1
+505,0,86,Baker,Chris,Chris Baker,SEA,TE,6-3,261,0000-00-00,Michigan State,1
+506,0,87,Becht,Anthony,Anthony Becht,KC,TE,6-6,270,1977-08-08,West Virginia,1
+507,0,84,Bergen,Adam,Adam Bergen,DEN,TE,6-4,267,0000-00-00,Lehigh,1
+508,0,50,Binn,David,David Binn,LAC,TE,6-3,228,1972-02-06,California,1
+509,0,80,Boss,Kevin,Kevin Boss,KC,TE,6-6,255,1984-01-11,Western Oregon,1
+510,0,0,Brown,Chris,Chris Brown,MIA,RB,6-0,239,0000-00-00,Tennessee,1
+511,0,0,Bruener,Mark,Mark Bruener,HOU,TE,6-4,253,0000-00-00,Washington,1
+512,0,0,Butler,Eric,Eric Butler,OAK,TE,6-2,263,0000-00-00,Mississippi State,1
+513,0,0,Campbell,Dan,Dan Campbell,NO,TE,6-5,265,0000-00-00,Texas A&M,1
+514,0,0,Campbell,Mark,Mark Campbell,NO,TE,6-6,260,0000-00-00,Michigan,1
+515,0,89,Carlson,John,John Carlson,ARI,TE,6-5,248,0000-00-00,Notre Dame,1
+516,0,0,Cieslak,Brad,Brad Cieslak,CLE,TE,6-3,260,0000-00-00,Northern Illinois,1
+517,0,87,Clark,Dallas,Dallas Clark,BAL,TE,6-3,252,0000-00-00,Iowa,1
+518,0,88,Clark,Desmond,Desmond Clark,CHI,TE,6-3,249,1977-04-20,Wake Forest,1
+519,0,85,Coats,Daniel,Daniel Coats,NYG,TE,6-3,264,1984-04-16,Brigham Young,1
+520,0,47,Cooley,Chris,Chris Cooley,WAS,TE,6-3,243,0000-00-00,Utah State,1
+521,0,87,Cottam,Brad,Brad Cottam,KC,TE,6-7,269,0000-00-00,Tennessee,1
+522,0,82,Crumpler,Alge,Alge Crumpler,NE,TE,6-2,275,0000-00-00,North Carolina,1
+523,0,88,Curtis,Tony,Tony Curtis,WAS,TE,6-5,251,1983-02-11,Portland State,1
+524,0,0,Davis,Charles,Charles Davis,LAC,TE,6-6,260,1983-03-13,Purdue,1
+525,0,83,Davis,Fred,Fred Davis,NE,TE,6-4,247,0000-00-00,USC,1
+526,0,0,DeVree,Tyson,Tyson DeVree,IND,TE,6-6,245,1984-11-12,Colorado,1
+527,0,58,Dearth,James,James Dearth,NE,TE,6-4,265,1976-01-22,Tarleton State,1
+528,0,0,Dekker,Jon,Jon Dekker,PIT,TE,6-5,250,0000-00-00,Princeton,1
+529,0,0,Dinkins,Darnell,Darnell Dinkins,NO,TE,6-4,260,0000-00-00,Pittsburgh,1
+530,0,81,Dreessen,Joel,Joel Dreessen,DEN,TE,6-4,245,0000-00-00,Colorado State,1
+531,0,83,Dugan,Jeff,Jeff Dugan,MIN,TE,6-4,258,1981-04-08,Maryland,1
+532,0,88,Estandia,Greg,Greg Estandia,CLE,TE,6-8,266,0000-00-00,Nevada-Las Vegas,1
+533,0,82,Fine,Derek,Derek Fine,HOU,TE,6-3,247,0000-00-00,Kansas,1
+534,0,88,Finley,Jermichael,Jermichael Finley,GB,TE,6-5,247,1987-03-26,Texas,1
+535,0,49,Finley,J.J.,J.J. Finley,CAR,TE,6-6,250,0000-00-00,Oklahoma,1
+536,0,0,Fitzsimmons,Casey,Casey Fitzsimmons,DET,TE,6-4,260,0000-00-00,Carroll (Mont.),1
+537,0,0,Franks,Bubba,Bubba Franks,NYJ,TE,6-6,265,0000-00-00,Miami (Fla.),1
+538,0,43,Gafford,Thomas,Thomas Gafford,KC,TE,6-2,250,0000-00-00,Houston,1
+539,0,0,Gaines,Michael,Michael Gaines,HOU,TE,6-2,267,0000-00-00,Central Florida,1
+540,0,89,Gilmore,John,John Gilmore,NO,TE,6-5,257,0000-00-00,Penn State,1
+541,0,88,Gonzalez,Tony,Tony Gonzalez,ATL,TE,6-5,247,1976-02-27,California,1
+542,0,86,Graham,Daniel,Daniel Graham,NO,TE,6-3,257,1978-11-16,Colorado,1
+543,0,0,Halterman,Aaron,Aaron Halterman,MIA,TE,6-5,265,0000-00-00,Indiana,1
+544,0,0,Hannah,Rodney,Rodney Hannah,DAL,TE,6-6,258,0000-00-00,Houston,1
+545,0,0,Hartsock,Ben,Ben Hartsock,CAR,TE,6-4,265,0000-00-00,Ohio State,1
+546,0,44,Haynos,Joey,Joey Haynos,TEN,TE,6-8,270,1984-08-28,Maryland,1
+547,0,86,Heap,Todd,Todd Heap,ARI,TE,6-5,252,1980-03-16,Arizona State,1
+548,0,0,Heiden,Steve,Steve Heiden,CLE,TE,6-5,270,0000-00-00,South Dakota State,1
+549,0,89,Heller,Will,Will Heller,DET,TE,6-6,275,1981-02-28,Georgia Tech,1
+550,0,88,Humphrey,Tory,Tory Humphrey,OAK,TE,6-2,257,1983-01-20,Central Michigan,1
+551,0,86,Jennings,Brian,Brian Jennings,SF,TE,6-5,242,0000-00-00,Arizona State,1
+552,0,87,Johnson,Darcy,Darcy Johnson,LAR,TE,6-5,252,0000-00-00,Central Florida,1
+553,0,0,Kapanui,Kolo,Kolo Kapanui,CIN,TE,6-3,270,0000-00-00,West Texas A&M,1
+554,0,81,Keller,Dustin,Dustin Keller,MIA,TE,6-2,255,0000-00-00,Purdue,1
+555,0,89,Kelly,Reggie,Reggie Kelly,ATL,TE,6-4,257,0000-00-00,Mississippi State,1
+556,0,87,King,Jeff,Jeff King,ARI,TE,6-3,260,0000-00-00,Virginia Tech,1
+557,0,40,Kleinsasser,Jimmy,Jimmy Kleinsasser,MIN,TE,6-3,272,0000-00-00,North Dakota,1
+558,0,87,Klopfenstein,Joe,Joe Klopfenstein,BUF,TE,6-5,262,0000-00-00,Colorado,1
+559,0,0,Lawrie,Nate,Nate Lawrie,SF,TE,6-6,255,1981-10-07,Yale,1
+560,0,82,Leach,Mike,Mike Leach,ARI,TE,6-2,235,1976-10-18,William & Mary,1
+561,0,86,Lee,Donald,Donald Lee,CIN,TE,6-4,248,1980-08-31,Mississippi State,1
+562,0,0,Listorti,Brad,Brad Listorti,NE,TE,6-4,251,0000-00-00,Massachusetts,1
+563,0,86,Manumaleuna,Brandon,Brandon Manumaleuna,CHI,TE,6-2,295,0000-00-00,Arizona,1
+564,0,80,Martin,David,David Martin,BUF,TE,6-4,264,0000-00-00,Tennessee,1
+565,0,82,Matthews,Michael,Michael Matthews,IND,TE,6-4,270,1983-10-09,Georgia Tech,1
+566,0,81,McMichael,Randy,Randy McMichael,LAC,TE,6-3,248,1979-06-28,Georgia,1
+567,0,0,Miller,Billy,Billy Miller,NO,TE,6-3,252,0000-00-00,USC,1
+568,0,86,Miller,Zach,Zach Miller,SEA,TE,6-5,255,0000-00-00,Arizona State,1
+569,0,0,Milner,Martrez,Martrez Milner,NO,TE,6-4,260,0000-00-00,Georgia,1
+570,0,0,Mines,Fontel,Fontel Mines,CHI,TE,6-4,244,0000-00-00,Virginia,1
+571,0,0,Mix,Anthony,Anthony Mix,TB,TE,6-5,243,0000-00-00,Auburn,1
+572,0,0,Mustard,Chad,Chad Mustard,DEN,TE,6-6,277,0000-00-00,North Dakota,1
+573,0,0,Newton,Joe,Joe Newton,SEA,TE,6-7,258,0000-00-00,Oregon State,1
+574,0,47,Nordin,Jake,Jake Nordin,DET,TE,6-3,262,0000-00-00,Northern Illinois,1
+575,0,0,Ortega,Buck,Buck Ortega,NO,TE,6-4,250,0000-00-00,Miami (Fla.),1
+576,0,82,Owens,John,John Owens,OAK,TE,6-3,255,0000-00-00,Notre Dame,1
+577,0,89,Patrick,Ben,Ben Patrick,ARI,TE,6-3,264,0000-00-00,Delaware,1
+578,0,81,Peelle,Justin,Justin Peelle,SF,TE,6-4,251,1979-03-15,Oregon,1
+579,0,86,Petrowski,Jamie,Jamie Petrowski,CAR,TE,6-4,262,0000-00-00,Indiana State,1
+580,0,0,Pociask,Jason,Jason Pociask,DAL,TE,6-3,259,1983-02-09,Wisconsin,1
+581,0,0,Pollard,Marcus,Marcus Pollard,ATL,TE,6-3,255,0000-00-00,Bradley,1
+582,0,88,Pope,Leonard,Leonard Pope,CHI,TE,6-8,264,0000-00-00,Georgia,1
+583,0,0,Putzier,Jeb,Jeb Putzier,DEN,TE,6-4,256,0000-00-00,Boise State,1
+584,0,0,Rader,Jason,Jason Rader,ATL,TE,6-4,263,0000-00-00,Marshall,1
+585,0,47,Robinson,Gijon,Gijon Robinson,DET,TE,6-1,255,0000-00-00,Missouri Western State,1
+586,0,0,Robinson,Jeff,Jeff Robinson,SEA,TE,6-4,250,0000-00-00,Idaho,1
+587,0,84,Royal,Robert,Robert Royal,CLE,TE,6-4,257,0000-00-00,LSU,1
+588,0,85,Rucker,Martin,Martin Rucker,KC,TE,6-5,251,0000-00-00,Missouri,1
+589,0,86,Ryan,Sean,Sean Ryan,TEN,TE,6-5,260,0000-00-00,Boston College,1
+590,0,0,Santi,Tom,Tom Santi,IND,TE,6-3,250,0000-00-00,Virginia,1
+591,0,83,Scaife,Bo,Bo Scaife,CIN,TE,6-3,249,1981-01-06,Texas,1
+592,0,85,Scheffler,Tony,Tony Scheffler,DET,TE,6-5,255,0000-00-00,Western Michigan,1
+593,0,0,Schobel,Matt,Matt Schobel,PHI,TE,6-5,247,0000-00-00,Texas Christian,1
+594,0,83,Schouman,Derek,Derek Schouman,NO,TE,6-2,223,1985-03-11,Boise State,1
+595,0,45,Sellers,Mike,Mike Sellers,WAS,RB,6-3,272,0000-00-00,Walla Walla CC WA,1
+596,0,0,Sherrod,Dezmond,Dezmond Sherrod,HOU,TE,6-2,250,0000-00-00,Mississippi State,1
+597,0,0,Sherry,Matt,Matt Sherry,CIN,TE,6-4,250,0000-00-00,Villanova,1
+598,0,81,Shiancoe,Visanthe,Visanthe Shiancoe,BAL,TE,6-4,250,0000-00-00,Morgan State,1
+599,0,80,Shockey,Jeremy,Jeremy Shockey,CAR,TE,6-5,251,0000-00-00,Miami (Fla.),1
+600,0,0,Shor,Alex,Alex Shor,ARI,TE,6-8,255,0000-00-00,Syracuse,1
+601,0,0,Smith,L.J.,L.J. Smith,BAL,TE,6-3,245,0000-00-00,Rutgers,1
+602,0,0,Smolko,Isaac,Isaac Smolko,BAL,TE,6-5,258,0000-00-00,Penn State,1
+603,0,81,Spach,Stephen,Stephen Spach,LAR,TE,6-4,260,0000-00-00,Fresno State,1
+604,0,89,Spaeth,Matt,Matt Spaeth,PIT,TE,6-7,262,0000-00-00,Minnesota,1
+605,0,0,St. Louis,Brad,Brad St. Louis,CIN,TE,6-3,243,0000-00-00,Missouri State,1
+606,0,86,Stevens,Jerramy,Jerramy Stevens,TB,TE,6-7,260,0000-00-00,Washington,1
+607,0,86,Stewart,Tony,Tony Stewart,OAK,TE,6-5,260,0000-00-00,Penn State,1
+608,0,0,Strong,Darrell,Darrell Strong,OAK,TE,6-5,265,0000-00-00,Pittsburgh,1
+609,0,88,Stupar,Jonathan,Jonathan Stupar,BAL,TE,6-3,254,1984-07-24,Virginia,1
+610,0,0,Sypniewski,Quinn,Quinn Sypniewski,BAL,TE,6-6,270,0000-00-00,Colorado,1
+611,0,83,Tamme,Jacob,Jacob Tamme,ATL,TE,6-3,230,0000-00-00,Kentucky,1
+612,0,0,Tereshinski,John,John Tereshinski,SEA,TE,6-3,245,0000-00-00,Wake Forest,1
+613,0,85,Thomas,David,David Thomas,NO,TE,6-3,248,1983-07-05,Texas,1
+614,0,0,Tuman,Jerame,Jerame Tuman,ARI,TE,6-4,253,0000-00-00,Michigan,1
+615,0,0,Utecht,Ben,Ben Utecht,CIN,TE,6-6,245,0000-00-00,Minnesota,1
+616,0,0,Walker,Aaron,Aaron Walker,CLE,TE,6-6,260,0000-00-00,Florida,1
+617,0,0,Wilcox,Daniel,Daniel Wilcox,BAL,TE,6-1,250,0000-00-00,Appalachian State,1
+618,0,81,Winslow,Kellen,Kellen Winslow,NYJ,TE,6-4,240,0000-00-00,Miami (Fla.),1
+619,0,0,Wrighster,George,George Wrighster,NYG,TE,6-3,265,0000-00-00,Oregon,1
+620,0,0,Yoder,Todd,Todd Yoder,WAS,TE,6-4,251,0000-00-00,Vanderbilt,1
+621,0,82,Zelenka,Joe,Joe Zelenka,ATL,TE,6-3,260,1976-03-09,Wake Forest,1
+622,0,89,Zinger,Keith,Keith Zinger,NYJ,TE,6-4,258,1984-10-09,LSU,1
+623,0,2,Akers,David,David Akers,DET,K,5-10,200,1974-12-09,Louisville,1
+624,0,2,Bironas,Rob,Rob Bironas,TEN,K,6-0,208,0000-00-00,Georgia Southern,1
+625,0,2,Brown,Kris,Kris Brown,DAL,K,5-11,215,0000-00-00,Nebraska,1
+626,0,3,Carney,John,John Carney,NO,K,5-11,185,0000-00-00,Notre Dame,1
+627,0,2,Coutu,Brandon,Brandon Coutu,JAC,K,5-10,195,0000-00-00,Georgia,1
+628,0,0,Elam,Jason,Jason Elam,ATL,K,5-11,195,0000-00-00,Hawaii,1
+629,0,0,Feely,Jay,Jay Feely,CHI,K,5-10,208,0000-00-00,Michigan,1
+630,0,0,Gramatica,Martin,Martin Gramatica,NO,K,5-8,170,0000-00-00,Kansas State,1
+631,0,4,Hanson,Jason,Jason Hanson,DET,K,6-0,190,1970-06-17,Washington State,1
+632,0,10,Kaeding,Nate,Nate Kaeding,MIA,K,6-0,187,0000-00-00,Iowa,1
+633,0,4,Lindell,Rian,Rian Lindell,TB,K,6-3,227,0000-00-00,Washington State,1
+634,0,8,Lloyd,Rhys,Rhys Lloyd,NYG,K,5-11,231,1982-06-05,Minnesota,1
+635,0,0,Longwell,Ryan,Ryan Longwell,SEA,K,6-0,200,0000-00-00,California,1
+636,0,10,Mare,Olindo,Olindo Mare,CHI,K,5-11,185,0000-00-00,Syracuse,1
+637,0,0,Mehlhaff,Taylor,Taylor Mehlhaff,MIN,K,5-10,184,0000-00-00,Wisconsin,1
+638,0,6,Nedney,Joe,Joe Nedney,SF,K,6-5,220,0000-00-00,San Jose State,1
+639,0,3,Rayner,Dave,Dave Rayner,BUF,K,6-2,215,0000-00-00,Michigan State,1
+640,0,3,Reed,Jeff,Jeff Reed,SEA,K,5-11,225,1979-04-09,North Carolina,1
+641,0,0,Scobee,Josh,Josh Scobee,NO,K,6-1,200,0000-00-00,Louisiana Tech,1
+642,0,0,Stover,Matt,Matt Stover,IND,K,5-11,180,0000-00-00,Louisiana Tech,1
+643,0,6,Suisham,Shaun,Shaun Suisham,PIT,K,6-0,200,0000-00-00,Bowling Green,1
+644,0,1,Tynes,Lawrence,Lawrence Tynes,TB,K,6-1,194,0000-00-00,Troy,1
+645,0,9,Weatherford,Steven,Steven Weatherford,JAC,K,6-3,215,0000-00-00,Illinois,1
+646,0,0,Davenport,Najeh,Najeh Davenport,IND,RB,6-1,247,0000-00-00,Miami (Fla.),1
+647,0,0,Pope,P.J.,P.J. Pope,DEN,RB,5-9,205,0000-00-00,Bowling Green State,1
+648,0,0,Ball,Reggie,Reggie Ball,DET,WR,5-11,195,0000-00-00,Georgia Tech,1
+649,0,0,Bomar,Rhett,Rhett Bomar,OAK,QB,6-2,225,0000-00-00,Sam Houston State,1
+650,0,5,Brandstater,Tom,Tom Brandstater,LAR,QB,6-5,222,0000-00-00,Fresno State,1
+651,0,8,Davis,Nate,Nate Davis,IND,QB,6-1,226,1987-05-05,Ball State,1
+652,0,3,McGee,Stephen,Stephen McGee,HOU,QB,6-3,227,0000-00-00,Texas A&M,1
+653,0,9,Null,Keith,Keith Null,CAR,QB,6-4,219,0000-00-00,West Texas A&M,1
+654,0,17,Painter,Curtis,Curtis Painter,NYG,QB,6-4,230,0000-00-00,Purdue,1
+655,0,0,Teel,Mike,Mike Teel,CHI,QB,6-3,230,0000-00-00,Rutgers,1
+656,0,5,White,Pat,Pat White,WAS,QB,6-0,190,0000-00-00,West Virginia,1
+657,0,33,Brown,Aaron,Aaron Brown,CIN,RB,6-1,200,1985-10-10,Texas Christian,1
+658,0,33,Brown,Andre,Andre Brown,HOU,RB,6-0,227,1986-12-15,North Carolina State,1
+659,0,34,Brown,Donald,Donald Brown,NE,RB,5-10,207,0000-00-00,Connecticut,1
+660,0,29,Coffee,Glen,Glen Coffee,SF,RB,6-0,209,0000-00-00,Alabama,1
+661,0,24,Davis,James,James Davis,WAS,RB,5-11,218,1986-01-01,Clemson,1
+662,0,43,Fiammetta,Tony,Tony Fiammetta,CHI,RB,6-0,250,1986-08-22,Syracuse,1
+663,0,23,Goodson,Mike,Mike Goodson,NYJ,RB,6-0,210,0000-00-00,Texas A&M,1
+664,0,23,Greene,Shonn,Shonn Greene,TEN,RB,5-11,233,1985-08-21,Iowa,1
+665,0,0,Haynes,Verron,Verron Haynes,ATL,RB,5-9,222,0000-00-00,Georgia,1
+666,0,27,Johnson,Gartrell,Gartrell Johnson,ATL,RB,5-10,219,1986-06-21,Colorado State,1
+667,0,0,Johnson,Jeremi,Jeremi Johnson,CIN,RB,5-11,275,0000-00-00,Western Kentucky,1
+668,0,45,Johnson,Quinn,Quinn Johnson,TEN,RB,6-1,263,1986-09-30,LSU,1
+669,0,0,Kreider,Dan,Dan Kreider,ARI,RB,5-11,250,0000-00-00,New Hampshire,1
+670,0,0,Moore,Kestahn,Kestahn Moore,TEN,RB,5-10,214,1987-04-13,Florida,1
+671,0,28,Moreno,Knowshon,Knowshon Moreno,MIA,RB,5-11,218,1987-07-16,Georgia,1
+672,0,47,Ogbonnaya,Chris,Chris Ogbonnaya,NYG,RB,6-0,225,1986-05-20,Texas,1
+673,0,21,Ringer,Javon,Javon Ringer,TEN,RB,5-9,213,1987-02-02,Michigan State,1
+674,0,34,Scott,Bernard,Bernard Scott,BAL,RB,5-10,195,1984-02-10,Abilene Christian,1
+675,0,34,Stephens-Howling,LaRod,LaRod Stephens-Howling,PIT,RB,5-7,185,1987-04-26,Pittsburgh,1
+676,0,38,Summers,Frank,Frank Summers,BUF,RB,5-9,248,1985-09-06,Nevada-Las Vegas,1
+677,0,22,Vakapuna,Fui,Fui Vakapuna,NYJ,RB,6-0,257,0000-00-00,Brigham Young,1
+678,0,26,Wells,Beanie,Beanie Wells,ARI,RB,6-2,229,1988-08-07,Ohio State,1
+679,0,43,Williams,Eddie,Eddie Williams,WAS,RB,6-1,249,1987-08-22,Idaho,1
+680,0,30,Williams,Javarris,Javarris Williams,DAL,RB,5-10,223,1986-04-08,Tennessee State,1
+681,0,9,Barden,Ramses,Ramses Barden,JAC,WR,6-6,224,0000-00-00,Cal Poly-S.L.O.,1
+682,0,0,Bayes,Shawn,Shawn Bayes,OAK,WR,5-10,180,1987-07-08,Kent State,1
+684,0,3,Butler,Deon,Deon Butler,LAC,WR,5-10,182,0000-00-00,Penn State,1
+685,0,6,Collie,Austin,Austin Collie,NE,WR,6-0,204,1985-11-11,Brigham Young,1
+686,0,16,Dillard,Jarett,Jarett Dillard,ARI,WR,5-11,190,0000-00-00,Rice,1
+687,0,0,Edison,Dominique,Dominique Edison,DAL,WR,6-2,201,1986-07-16,Stephen F. Austin St.,1
+688,0,0,Foster,Brooks,Brooks Foster,MIA,WR,6-1,204,1986-04-09,North Carolina,1
+689,0,0,Gant,Horace,Horace Gant,LAR,WR,6-3,214,0000-00-00,St. Olaf,1
+690,0,83,Hartline,Brian,Brian Hartline,CLE,WR,6-2,200,0000-00-00,Ohio State,1
+691,0,19,Iglesias,Juaquin,Juaquin Iglesias,HOU,WR,6-0,205,1987-08-22,Oklahoma,1
+692,0,15,Johnson,Manuel,Manuel Johnson,DAL,WR,5-11,200,1986-10-14,Oklahoma,1
+693,0,0,Kinder,Derek,Derek Kinder,CHI,WR,6-1,202,0000-00-00,Pittsburgh,1
+694,0,13,Knox,Johnny,Johnny Knox,CHI,WR,6-0,185,1986-11-03,Abilene Christian,1
+695,0,14,Lawrence,Quinten,Quinten Lawrence,KC,WR,6-0,184,1984-09-21,McNeese State,1
+696,0,13,Massaquoi,Mohamed,Mohamed Massaquoi,NYJ,WR,6-2,207,0000-00-00,Georgia,1
+697,0,11,McKinley,Kenny,Kenny McKinley,DEN,WR,6-0,183,0000-00-00,South Carolina,1
+698,0,16,Miller,Nick,Nick Miller,PHI,WR,5-9,180,0000-00-00,Southern Utah,1
+699,0,19,Mitchell,Marko,Marko Mitchell,MIN,WR,6-4,218,0000-00-00,Nevada-Reno,1
+700,0,17,Robiskie,Brian,Brian Robiskie,TEN,WR,6-4,212,0000-00-00,Ohio State,1
+701,0,0,Shelton,Travis,Travis Shelton,DEN,WR,5-11,185,0000-00-00,Temple,1
+702,0,18,Stroughter,Sammie,Sammie Stroughter,TB,WR,5-10,189,1986-01-03,Oregon State,1
+703,0,0,Swift,Nate,Nate Swift,JAC,WR,6-2,195,0000-00-00,Nebraska,1
+704,0,88,Turner,Patrick,Patrick Turner,NYJ,WR,6-5,220,1987-05-19,USC,1
+705,0,11,Underwood,Tiquan,Tiquan Underwood,CAR,WR,6-1,185,0000-00-00,Rutgers,1
+706,0,15,Williams,Derrick,Derrick Williams,PIT,WR,5-11,197,1986-07-06,Penn State,1
+707,0,0,Wright,Rodney,Rodney Wright,SF,WR,5-9,181,0000-00-00,Fresno State,1
+708,0,0,Agnone,Robert,Robert Agnone,ATL,TE,6-6,256,0000-00-00,Delaware,1
+709,0,47,Beckum,Travis,Travis Beckum,NYG,TE,6-3,234,1987-01-24,Wisconsin,1
+710,0,0,Branson,Marquez,Marquez Branson,ATL,TE,6-3,248,1987-02-14,Central Arkansas,1
+711,0,80,Drew,Davon,Davon Drew,BAL,TE,6-4,260,1985-12-09,East Carolina,1
+712,0,0,Frischknecht,Devin,Devin Frischknecht,GB,TE,6-3,258,0000-00-00,Washington State,1
+713,0,87,Gronkowski,Dan,Dan Gronkowski,CLE,TE,6-5,255,0000-00-00,Maryland,1
+714,0,87,Hill,Anthony,Anthony Hill,PHI,TE,6-6,277,1985-01-02,North Carolina State,1
+715,0,82,Ingram,Cornelius,Cornelius Ingram,DEN,TE,6-4,250,1985-06-10,Florida,1
+716,0,60,Louis,Lance,Lance Louis,CHI,TE,6-3,305,1985-04-24,San Diego State,1
+717,0,86,Morrah,Cameron,Cameron Morrah,DEN,TE,6-3,251,0000-00-00,California,1
+718,0,0,Nalbone,John,John Nalbone,SEA,TE,6-4,255,0000-00-00,Monmouth (N.J.),1
+719,0,89,Nelson,Shawn,Shawn Nelson,BUF,TE,6-5,240,1985-10-05,Southern Mississippi,1
+720,0,82,O'Connell,Jake,Jake O'Connell,DEN,TE,6-3,250,0000-00-00,Miami (Ohio),1
+721,0,0,O'Neill,Chris,Chris O'Neill,OAK,TE,6-3,250,0000-00-00,Boise State,1
+722,0,85,Quinn,Richard,Richard Quinn,NO,TE,6-4,264,0000-00-00,North Carolina,1
+723,0,19,Buehler,David,David Buehler,NYG,K,6-2,230,0000-00-00,USC,1
+724,0,0,Czech,Piotr,Piotr Czech,PIT,K,6-5,210,0000-00-00,Wagner,1
+725,0,12,Cantwell,Hunter,Hunter Cantwell,BAL,QB,6-4,236,1985-12-30,Louisville,1
+726,0,11,Carpenter,Rudy,Rudy Carpenter,DAL,QB,6-2,215,1986-04-15,Arizona State,1
+727,0,0,Crane,Chris,Chris Crane,IND,QB,6-4,236,0000-00-00,Boston College,1
+728,0,0,DiMichele,Adam,Adam DiMichele,PHI,QB,6-1,202,0000-00-00,Temple,1
+729,0,0,Mortensen,Alex,Alex Mortensen,TEN,QB,6-1,222,0000-00-00,Arkansas,1
+730,0,0,Pizzotti,Chris,Chris Pizzotti,GB,QB,6-5,225,0000-00-00,Harvard,1
+731,0,0,Reilly,Mike,Mike Reilly,SEA,QB,6-3,212,0000-00-00,Central Washington,1
+732,0,0,Willy,Drew,Drew Willy,LAC,QB,6-3,217,1986-11-13,Buffalo,1
+733,0,4,Parker Wilson,John,John Parker Wilson,PIT,QB,6-2,215,0000-00-00,Alabama,1
+734,0,24,Bell,Kahlil,Kahlil Bell,NYJ,RB,5-11,219,0000-00-00,UCLA,1
+735,0,38,Bolen,Brock,Brock Bolen,CLE,RB,6-0,232,0000-00-00,Louisville,1
+736,0,30,Brinkley,Curtis,Curtis Brinkley,CHI,RB,5-9,208,0000-00-00,Syracuse,1
+737,0,32,Broughton,Nehemiah,Nehemiah Broughton,ARI,RB,5-11,255,0000-00-00,The Citadel,1
+738,0,0,Cuff,Omar,Omar Cuff,NE,RB,5-10,195,0000-00-00,Delaware,1
+739,0,36,Donaldson,Herb,Herb Donaldson,TEN,RB,5-11,221,1985-12-13,Western Illinois,1
+740,0,44,Ferguson,Rodney,Rodney Ferguson,BUF,RB,6-0,234,0000-00-00,New Mexico,1
+741,0,32,Hill,P.J.,P.J. Hill,NO,RB,5-10,218,0000-00-00,Wisconsin,1
+742,0,32,Huggins,Kareem,Kareem Huggins,TB,RB,5-9,198,0000-00-00,Hofstra,1
+743,0,0,Johnson,Ian,Ian Johnson,SF,RB,5-11,212,1986-10-10,Boise State,1
+744,0,37,Johnson,Jeremiah,Jeremiah Johnson,DEN,RB,5-9,210,0000-00-00,Oregon,1
+745,0,48,Johnson,Jerome,Jerome Johnson,ARI,RB,6-1,258,0000-00-00,Nevada-Reno,1
+746,0,0,Kimble,Anthony,Anthony Kimble,NYJ,RB,6-0,215,0000-00-00,Stanford,1
+747,0,0,Kirtman,David,David Kirtman,SEA,RB,6-0,238,0000-00-00,USC,1
+748,0,0,Lattimore,Keon,Keon Lattimore,SF,RB,5-11,222,0000-00-00,Maryland,1
+749,0,0,Lee,Jamall,Jamall Lee,CAR,RB,6-1,225,0000-00-00,Bishop,1
+750,0,0,Lucky,Marlon,Marlon Lucky,CIN,RB,5-11,218,0000-00-00,Nebraska,1
+751,0,0,Mendenhall,Walter,Walter Mendenhall,CIN,RB,6-0,227,0000-00-00,Illinois State,1
+752,0,0,Moore,Devin,Devin Moore,DET,RB,5-9,190,0000-00-00,Wyoming,1
+753,0,36,Pressley,Chris,Chris Pressley,CIN,RB,5-11,260,1986-08-08,Wisconsin,1
+754,0,33,Redman,Isaac,Isaac Redman,PIT,RB,6-0,230,1984-11-10,Bowie State,1
+755,0,0,Rentmeester,Bill,Bill Rentmeester,SF,RB,6-0,247,0000-00-00,Wisconsin,1
+756,0,30,Sheets,Kory,Kory Sheets,OAK,RB,5-11,208,1985-03-31,Purdue,1
+757,0,30,Sutton,Tyrell,Tyrell Sutton,SEA,RB,5-8,213,1986-12-19,Northwestern,1
+758,0,45,Ta'ufo'ou,Will,Will Ta'ufo'ou,JAC,RB,5-11,247,1986-06-19,California,1
+759,0,30,Vaughan,Josh,Josh Vaughan,ATL,RB,6-0,225,1986-12-03,Richmond,1
+760,0,0,Walker,Darius,Darius Walker,DEN,RB,5-11,205,0000-00-00,Notre Dame,1
+761,0,0,Beavers,Larry,Larry Beavers,NO,WR,5-10,186,1985-10-07,Wesleyan,1
+762,0,0,Bergeron,Troy,Troy Bergeron,DAL,WR,6-2,195,0000-00-00,Middle Tennessee State,1
+763,0,0,Black,Steven,Steven Black,PIT,WR,6-3,213,0000-00-00,Memphis,1
+764,0,0,Boldin,D.J.,D.J. Boldin,DET,WR,5-11,210,0000-00-00,Wake Forest,1
+765,0,0,Byers,Jarrett,Jarrett Byers,LAR,WR,5-10,191,0000-00-00,Northeastern State (Okla.),1
+766,0,0,Carr,Greg,Greg Carr,LAC,WR,6-5,217,0000-00-00,Florida State,1
+767,0,0,Carter,Patrick,Patrick Carter,MIA,WR,6-3,215,1985-02-06,Louisville,1
+768,0,0,Carter,Tim,Tim Carter,LAR,WR,6-0,185,0000-00-00,Auburn,1
+769,0,18,Chery,Jason,Jason Chery,GB,WR,5-10,185,0000-00-00,Louisiana-Lafayette,1
+770,0,11,Collins,Dobson,Dobson Collins,PHI,WR,6-2,189,0000-00-00,Gardner-Webb,1
+771,0,14,Cosby,Quan,Quan Cosby,IND,WR,5-9,195,1982-12-23,Texas,1
+772,0,17,Davis,Britt,Britt Davis,NE,WR,6-3,215,1986-04-23,Northern Illinois,1
+773,0,0,Dupree,Maurice,Maurice Dupree,JAC,WR,5-10,168,0000-00-00,Jacksonville State,1
+774,0,0,Eloi,Keith,Keith Eloi,WAS,WR,5-10,190,0000-00-00,Nebraska-Omaha,1
+775,0,15,Gant,Ed,Ed Gant,TB,WR,6-3,200,1987-01-24,North Alabama,1
+776,0,0,Garvin,Michael Ray,Michael Ray Garvin,ARI,WR,5-8,182,0000-00-00,Florida State,1
+777,0,13,Grisham,Tyler,Tyler Grisham,DEN,WR,5-11,180,1987-06-11,Clemson,1
+778,0,13,Guice,Dudley,Dudley Guice,IND,WR,6-3,209,0000-00-00,Northwestern State-Louisiana,1
+779,0,0,Harris,JaRon,JaRon Harris,GB,WR,6-0,200,0000-00-00,South Dakota State,1
+780,0,0,Harris,Kenneth,Kenneth Harris,DET,WR,6-3,215,0000-00-00,Georgia,1
+781,0,0,Hawkins,Julian,Julian Hawkins,DAL,WR,6-2,215,0000-00-00,Boise State,1
+782,0,19,Heckendorf,Kole,Kole Heckendorf,IND,WR,6-2,191,0000-00-00,North Dakota State,1
+783,0,0,Johnson,Taurus,Taurus Johnson,WAS,WR,6-1,205,0000-00-00,South Florida,1
+784,0,0,Jones,Michael,Michael Jones,ARI,WR,6-4,212,0000-00-00,Arizona State,1
+785,0,0,Kelly,Aaron,Aaron Kelly,ATL,WR,6-5,203,0000-00-00,Clemson,1
+786,0,85,Martin,Charly,Charly Martin,JAC,WR,6-1,212,0000-00-00,West Texas A&M,1
+787,0,0,Matthews,John,John Matthews,SF,WR,6-0,200,0000-00-00,San Diego,1
+788,0,0,McDermott,Brett,Brett McDermott,IND,WR,6-0,201,0000-00-00,Holy Cross,1
+789,0,0,Monk,Marcus,Marcus Monk,CAR,WR,6-4,212,0000-00-00,Arkansas,1
+790,0,0,Moore,Nick,Nick Moore,LAR,WR,6-2,186,0000-00-00,Toledo,1
+791,0,0,Morris,Phillip,Phillip Morris,TEN,WR,6-3,175,0000-00-00,South Carolina State,1
+792,0,0,Mougey,Darren,Darren Mougey,ARI,WR,6-5,219,0000-00-00,San Diego State,1
+793,0,83,Nunn,Terrence,Terrence Nunn,TB,WR,6-0,195,0000-00-00,Nebraska,1
+794,0,15,Ogletree,Kevin,Kevin Ogletree,NYG,WR,6-1,195,1987-08-05,Virginia,1
+795,0,0,Ortiz,Robert,Robert Ortiz,NE,WR,6-1,188,0000-00-00,San Diego State,1
+796,0,89,Orton,Greg,Greg Orton,NE,WR,6-3,199,0000-00-00,Purdue,1
+797,0,0,Parker,Samie,Samie Parker,OAK,WR,5-11,185,0000-00-00,Oregon,1
+798,0,0,Perretta,Vinny,Vinny Perretta,MIN,WR,5-9,186,0000-00-00,Boise State,1
+799,0,0,Peterman,Eric,Eric Peterman,CHI,WR,6-1,202,0000-00-00,Northwestern,1
+800,0,0,Peterson,Todd,Todd Peterson,JAC,WR,6-4,215,0000-00-00,Nebraska,1
+801,0,0,Richmond,David,David Richmond,CIN,WR,6-2,192,0000-00-00,San Jose State,1
+802,0,19,Riley,Eron,Eron Riley,NYJ,WR,6-3,207,1987-08-05,Duke,1
+803,0,0,Shelton,Trent,Trent Shelton,WAS,WR,6-0,202,0000-00-00,Baylor,1
+804,0,0,Simon,Matt,Matt Simon,NO,WR,6-1,199,0000-00-00,Northern Illinois,1
+805,0,0,Smith,Rodgeriqus,Rodgeriqus Smith,LAC,WR,6-0,200,0000-00-00,Auburn,1
+806,0,41,Ventrone,Raymond,Raymond Ventrone,NE,WR,5-10,200,1982-10-21,Villanova,1
+807,0,0,White,Shun,Shun White,NE,WR,5-8,195,0000-00-00,Navy,1
+808,0,82,Williams,Chris,Chris Williams,CHI,WR,5-8,175,0000-00-00,New Mexico State,1
+809,0,11,Williams,Isaiah,Isaiah Williams,TEN,WR,6-2,201,0000-00-00,Maryland,1
+810,0,14,Williams,Pat,Pat Williams,BAL,WR,6-1,204,1986-01-13,Colorado,1
+811,0,87,Williams,Roydell,Roydell Williams,WAS,WR,6-0,178,0000-00-00,Tulane,1
+812,0,0,Bullock,J'Nathan,J'Nathan Bullock,NYJ,TE,6-5,240,0000-00-00,Cleveland State,1
+813,0,0,Butler,Carson,Carson Butler,NE,TE,6-4,260,1987-08-21,Michigan,1
+814,0,86,Byrd,Dominique,Dominique Byrd,SEA,TE,6-3,255,0000-00-00,USC,1
+815,0,81,Cloherty,Colin,Colin Cloherty,ATL,TE,6-2,252,0000-00-00,Brown,1
+816,0,0,Conover,Sean,Sean Conover,LAR,TE,6-5,275,0000-00-00,Bucknell,1
+817,0,84,Crabtree,Tom,Tom Crabtree,NO,TE,6-4,245,0000-00-00,Miami (Ohio),1
+818,0,0,Davie,Andrew,Andrew Davie,CAR,TE,6-6,275,0000-00-00,Arkansas,1
+819,0,88,Foschi,J.P.,J.P. Foschi,CIN,TE,6-3,265,0000-00-00,Georgia Tech,1
+820,0,49,Hill,Darius,Darius Hill,CIN,TE,6-7,250,0000-00-00,Ball State,1
+821,0,0,Lorenzen,Tyler,Tyler Lorenzen,NO,TE,6-5,234,1985-12-24,Connecticut,1
+822,0,0,McCall,Travis,Travis McCall,BUF,TE,6-2,276,0000-00-00,Alabama,1
+823,0,87,Myers,Rob,Rob Myers,WAS,TE,6-4,239,0000-00-00,Utah State,1
+824,0,83,Purvis,Ryan,Ryan Purvis,NYG,TE,6-4,261,1986-05-08,Boston College,1
+825,0,0,Simmons,Jack,Jack Simmons,NYJ,TE,6-4,246,0000-00-00,Minnesota,1
+826,0,83,Sperry,Kory,Kory Sperry,ARI,TE,6-5,265,1985-04-10,Colorado State,1
+827,0,0,Douglass,Parker,Parker Douglass,NYJ,K,5-8,170,0000-00-00,South Dakota State,1
+828,0,0,Romero,Alex,Alex Romero,SF,K,5-9,180,0000-00-00,Nicholls State,1
+829,0,0,Swank,Sam,Sam Swank,JAC,K,6-0,193,1985-10-05,Wake Forest,1
+830,0,0,Pass,Patrick,Patrick Pass,NE,RB,5-10,217,0000-00-00,Georgia,1
+831,0,0,Curran,Dan,Dan Curran,SEA,RB,6-0,240,0000-00-00,New Hampshire,1
+832,0,0,Kobel,Craig,Craig Kobel,NYJ,RB,6-2,265,0000-00-00,South Florida,1
+833,0,79,Brown,Kareem,Kareem Brown,NYJ,TE,6-4,285,0000-00-00,Miami (Fla.),1
+834,0,0,Boeckman,Todd,Todd Boeckman,JAC,QB,6-5,244,0000-00-00,Ohio State,1
+835,0,9,Andrus,Shane,Shane Andrus,SF,K,5-10,190,0000-00-00,Murray State,1
+836,0,15,Strickland,Andy,Andy Strickland,ATL,WR,6-0,197,1987-09-02,Wofford,1
+837,0,85,Mason,Derrick,Derrick Mason,HOU,WR,5-10,197,0000-00-00,Michigan State,1
+838,0,0,Owens,Richard,Richard Owens,NYJ,TE,6-4,273,0000-00-00,Louisville,1
+839,0,88,Vickers,Lee,Lee Vickers,WAS,TE,6-6,275,0000-00-00,North Alabama,1
+840,0,0,Godfrey,Bradon,Bradon Godfrey,BAL,WR,6-3,197,0000-00-00,Utah,1
+841,0,0,Harper,Rod,Rod Harper,PHI,WR,6-0,209,1985-03-26,Murray State,1
+842,0,16,Holley,Jesse,Jesse Holley,NE,WR,6-2,220,1984-01-08,North Carolina,1
+843,0,0,Reid,Willie,Willie Reid,DAL,WR,5-10,192,0000-00-00,Florida State,1
+844,0,0,Smith,Shaine,Shaine Smith,BUF,WR,6-2,189,0000-00-00,Hofstra,1
+845,0,0,Walker,Sean,Sean Walker,LAR,WR,6-0,178,0000-00-00,Vanderbilt,1
+846,0,0,Williams,Bobby,Bobby Williams,HOU,WR,6-2,194,0000-00-00,North Alabama,1
+847,0,13,Denmark,Clarence,Clarence Denmark,JAC,WR,5-11,185,0000-00-00,Arkansas-Monticello,1
+848,0,0,Ferguson,Robert,Robert Ferguson,ATL,WR,6-1,219,0000-00-00,Texas A&M,1
+849,0,0,Francies,Chris,Chris Francies,SF,WR,6-1,193,0000-00-00,Texas-El Paso,1
+850,0,0,Robinson,James,James Robinson,CLE,WR,6-3,200,0000-00-00,Butler Co. CC PA,1
+851,0,0,Sippio,Bobby,Bobby Sippio,DET,WR,6-3,215,0000-00-00,Western Kentucky,1
+852,0,45,Maui'a,Reagan,Reagan Maui'a,ARI,RB,6-0,260,1984-07-06,Hawaii,1
+853,0,0,Kowalewski,Joe,Joe Kowalewski,MIA,TE,6-4,250,0000-00-00,Syracuse,1
+854,0,4,Favre,Brett,Brett Favre,MIN,QB,6-2,222,1969-10-10,Southern Mississippi,1
+855,0,38,Davis,Tristan,Tristan Davis,WAS,RB,5-10,211,0000-00-00,Auburn,1
+856,0,34,Jennings,Chris,Chris Jennings,NYJ,RB,5-10,219,1985-12-12,Arizona,1
+857,0,0,Taylor,Chris,Chris Taylor,NO,RB,6-0,224,0000-00-00,Indiana,1
+858,0,10,Booty,John David,John David Booty,HOU,QB,6-3,208,0000-00-00,USC,1
+859,0,83,Pruitt,Julius,Julius Pruitt,MIA,WR,6-2,212,0000-00-00,Ouachita Baptist,1
+860,0,50,Jones,Edgar,Edgar Jones,WAS,TE,6-3,262,1984-12-01,Southeast Missouri State,1
+861,0,41,Havner,Spencer,Spencer Havner,GB,TE,6-3,250,1983-02-02,UCLA,1
+862,0,0,Boyd,Shane,Shane Boyd,IND,QB,6-1,232,0000-00-00,Kentucky,1
+863,0,86,Potter,Zach,Zach Potter,HOU,TE,6-7,269,0000-00-00,Nebraska,1
+864,0,0,Gamble,Joel,Joel Gamble,TEN,RB,6-2,260,0000-00-00,Shippensburg,1
+865,0,10,Brown,Levi,Levi Brown,BUF,QB,6-4,225,1987-03-11,Troy,1
+866,0,4,Canfield,Sean,Sean Canfield,NO,QB,6-4,223,1986-11-12,Oregon State,1
+867,0,3,Crompton,Jonathan,Jonathan Crompton,WAS,QB,6-3,225,1987-07-25,Tennessee,1
+868,0,0,LeFevour,Dan,Dan LeFevour,TB,QB,6-3,230,0000-00-00,Central Michigan,1
+869,0,16,Pike,Tony,Tony Pike,CAR,QB,6-6,222,1986-03-10,Cincinnati,1
+870,0,5,Robinson,Zac,Zac Robinson,CIN,QB,6-3,208,0000-00-00,Oklahoma State,1
+871,0,8,Skelton,John,John Skelton,TEN,QB,6-6,250,0000-00-00,Fordham,1
+872,0,11,Smith,Rusty,Rusty Smith,TEN,QB,6-5,226,1987-01-28,Florida Atlantic,1
+873,0,11,Tebow,Tim,Tim Tebow,PHI,QB,6-3,245,1987-08-14,Florida,1
+874,0,44,Best,Jahvid,Jahvid Best,DET,RB,5-10,199,0000-00-00,California,1
+875,0,49,D'Imperio,Ryan,Ryan D'Imperio,NYG,RB,6-3,240,1987-08-15,Rutgers,1
+876,0,20,Dwyer,Jonathan,Jonathan Dwyer,ARI,RB,5-11,229,1989-07-26,Georgia Tech,1
+877,0,20,Hardesty,Montario,Montario Hardesty,CLE,RB,6-0,225,1987-02-01,Tennessee,1
+878,0,39,Karim,Deji,Deji Karim,HOU,RB,5-8,209,0000-00-00,Southern Illinois,1
+879,0,0,Lumbala,Rolly,Rolly Lumbala,MIA,RB,6-2,238,0000-00-00,Idaho,1
+880,0,0,Mallett,Martell,Martell Mallett,NYG,RB,6-0,210,0000-00-00,Arkansas-Pine Bluff,1
+881,0,24,Mathews,Ryan,Ryan Mathews,PHI,RB,6'0',220,1987-10-10,Fresno State,1
+882,0,22,McKnight,Joe,Joe McKnight,KC,RB,5-11,205,0000-00-00,USC,1
+883,0,30,Nance,Dimitri,Dimitri Nance,ATL,RB,5-10,219,1988-02-18,Arizona State,1
+884,0,0,Scott,Charles,Charles Scott,NYG,RB,6-0,238,1988-08-08,LSU,1
+885,0,34,Tate,Ben,Ben Tate,PIT,RB,5-10,220,1988-08-21,Auburn,1
+886,0,16,Austin,Terrence,Terrence Austin,DET,WR,5-11,171,0000-00-00,UCLA,1
+887,0,81,Briscoe,Dezmon,Dezmon Briscoe,DAL,WR,6-2,210,1989-08-31,Kansas,1
+888,0,16,Buckley,Tim,Tim Buckley,ATL,WR,6-1,185,1988-08-19,Alcorn State,1
+889,0,42,Dickerson,Dorin,Dorin Dickerson,TEN,TE,6-1,226,0000-00-00,Pittsburgh,1
+890,0,0,Dillon,Charles,Charles Dillon,GB,WR,6-0,202,0000-00-00,Washington State,1
+891,0,80,Edwards,Armanti,Armanti Edwards,CHI,WR,5-11,190,1988-03-08,Appalachian State,1
+892,0,6,Gettis,David,David Gettis,TB,WR,6-3,220,0000-00-00,Baylor,1
+893,0,13,Gilyard,Mardy,Mardy Gilyard,KC,WR,6-1,187,0000-00-00,Cincinnati,1
+894,0,0,Grice-Mullen,Ryan,Ryan Grice-Mullen,MIA,WR,5-11,180,0000-00-00,Hawaii,1
+895,0,14,Hall,Chad,Chad Hall,JAC,WR,5-8,187,0000-00-00,Air Force,1
+896,0,0,Harvey,Brandyn,Brandyn Harvey,ARI,WR,6-4,205,1987-11-06,Villanova,1
+897,0,82,Konz,Jameson,Jameson Konz,DEN,TE,6-3,234,0000-00-00,Kent State,1
+899,0,80,Meier,Kerry,Kerry Meier,ATL,WR,6-3,220,0000-00-00,Kansas,1
+900,0,0,Price,Taylor,Taylor Price,SEA,WR,6-1,195,0000-00-00,Ohio U.,1
+901,0,10,Reed,David,David Reed,SF,WR,6-0,190,0000-00-00,Utah,1
+902,0,86,Ryan,Titus,Titus Ryan,NYJ,WR,6-0,193,0000-00-00,Concordia (AL),1
+903,0,15,Shipley,Jordan,Jordan Shipley,JAC,WR,6-0,188,0000-00-00,Texas,1
+904,0,15,Taylor,Larry,Larry Taylor,NYJ,WR,5-6,177,0000-00-00,Connecticut,1
+905,0,19,Toone,Tim,Tim Toone,NO,WR,5-10,175,0000-00-00,Weber State,1
+906,0,17,Williams,Mike,Mike Williams,SEA,WR,6-5,235,0000-00-00,USC,1
+907,0,0,Wolfe,Ryan,Ryan Wolfe,ATL,WR,6-2,210,0000-00-00,Nevada-Las Vegas,1
+908,0,0,Banks,Leroy,Leroy Banks,KC,TE,6-3,243,0000-00-00,Southern Mississippi,1
+909,0,82,Byham,Nate,Nate Byham,TB,TE,6-4,264,1988-06-27,Pittsburgh,1
+910,0,88,Eldridge,Brody,Brody Eldridge,CHI,TE,6-5,265,0000-00-00,Oklahoma,1
+911,0,83,Epps,Dedrick,Dedrick Epps,NYJ,TE,6-3,250,0000-00-00,Miami (Fla.),1
+912,0,81,Hernandez,Aaron,Aaron Hernandez,NE,TE,6-1,245,1989-11-06,Florida,1
+913,0,0,Morris,Dennis,Dennis Morris,LAC,TE,6-2,253,1987-02-15,Louisiana Tech,1
+914,0,48,Onobun,Fendi,Fendi Onobun,JAC,TE,6-6,260,1986-11-17,Houston,1
+915,0,82,Palmer,Michael,Michael Palmer,PIT,TE,6-5,252,1988-01-18,Clemson,1
+916,0,88,Pitta,Dennis,Dennis Pitta,BAL,TE,6'4',238,1985-06-29,BYU,1
+917,0,5,Carter,Todd,Todd Carter,KC,K,6-1,190,1986-06-07,Grand Valley State,1
+918,0,0,Hughes,Connor,Connor Hughes,DAL,K,5-10,172,0000-00-00,Virginia,1
+919,0,1,Lindholm,Garrett,Garrett Lindholm,LAR,K,5-9,190,0000-00-00,Tarleton State,1
+920,0,6,Medlock,Justin,Justin Medlock,CAR,K,5-11,200,0000-00-00,UCLA,1
+921,0,3,Schmitt,Ricky,Ricky Schmitt,TEN,K,6-3,217,1985-08-17,Shepherd,1
+922,0,0,Brown,Jarrett,Jarrett Brown,CLE,QB,6-3,224,1987-09-21,West Virginia,1
+923,0,6,Hall,Max,Max Hall,ARI,QB,6-1,205,1985-10-01,Brigham Young,1
+924,0,0,Harris,Trevor,Trevor Harris,JAC,QB,6-2,223,0000-00-00,Edinboro,1
+925,0,0,Hiller,Tim,Tim Hiller,IND,QB,6-4,229,0000-00-00,Western Michigan,1
+926,0,0,Nichols,Matt,Matt Nichols,DAL,QB,6-2,222,0000-00-00,Eastern Washington,1
+927,0,0,Randolph,Dominic,Dominic Randolph,NYG,QB,6-3,223,0000-00-00,Holy Cross,1
+928,0,0,Snead,Jevan,Jevan Snead,TB,QB,6-3,219,0000-00-00,Mississippi,1
+929,0,0,Baker,Toney,Toney Baker,DEN,RB,5-10,225,0000-00-00,North Carolina State,1
+930,0,0,Brown,Carlos,Carlos Brown,NYJ,RB,6-0,212,0000-00-00,Michigan,1
+931,0,0,Clapp,Matt,Matt Clapp,DET,RB,6-2,246,1986-12-06,Oklahoma,1
+932,0,0,Eason,Cordera,Cordera Eason,CIN,RB,6-0,233,0000-00-00,Mississippi,1
+933,0,44,Gronkowski,Chris,Chris Gronkowski,LAC,RB,6-2,245,0000-00-00,Arizona,1
+934,0,38,Jackson,Rashawn,Rashawn Jackson,CAR,RB,6-1,239,1987-01-15,Virginia,1
+935,0,45,James,Javarris,Javarris James,ARI,RB,6-0,208,0000-00-00,Miami (Fla.),1
+936,0,26,Johnson,Stafon,Stafon Johnson,TEN,RB,5-11,222,1988-02-06,USC,1
+937,0,0,Kackert,Chad,Chad Kackert,JAC,RB,5-9,199,0000-00-00,New Hampshire,1
+938,0,82,McCoy,Jamie,Jamie McCoy,PIT,TE,6-3,240,0000-00-00,Texas A&M,1
+939,0,0,Miller,Lonyae,Lonyae Miller,BAL,RB,6-0,216,0000-00-00,Fresno State,1
+940,0,36,Minor,Brandon,Brandon Minor,DEN,RB,6-1,203,1988-07-24,Michigan,1
+941,0,0,Moline,Chane,Chane Moline,OAK,RB,6-0,250,0000-00-00,UCLA,1
+942,0,35,Porter,Quinn,Quinn Porter,LAR,RB,6-0,205,0000-00-00,Stillman,1
+943,0,38,Smith,Alfonso,Alfonso Smith,SF,RB,6-1,209,1987-01-23,Kentucky,1
+944,0,0,Taylor,Rendrick,Rendrick Taylor,TB,RB,6-2,265,1987-04-03,Clemson,1
+945,0,41,Tonga,Manase,Manase Tonga,OAK,RB,5-11,245,1984-02-28,Brigham Young,1
+946,0,35,Toston,Keith,Keith Toston,JAC,RB,5-11,214,0000-00-00,Oklahoma State,1
+947,0,38,Tronzo,Joe,Joe Tronzo,TEN,RB,5-11,242,1987-06-10,Louisville,1
+948,0,25,Williams,Keiland,Keiland Williams,WAS,RB,5-11,230,0000-00-00,LSU,1
+949,0,0,Arnett,Alric,Alric Arnett,DET,WR,6-2,188,0000-00-00,West Virginia,1
+950,0,0,Barnes,Freddie,Freddie Barnes,CHI,WR,5-11,210,0000-00-00,Bowling Green State,1
+951,0,83,Brooks,Chris,Chris Brooks,IND,WR,6-2,215,1987-02-05,Nebraska,1
+952,0,0,Brown,Tim,Tim Brown,ARI,WR,5-8,165,0000-00-00,Rutgers,1
+953,0,14,Calhoun,Duke,Duke Calhoun,OAK,WR,6-2,200,0000-00-00,Memphis,1
+954,0,80,Cruz,Victor,Victor Cruz,CHI,WR,6'0',204,1986-11-11,Massachusetts,1
+955,0,85,Curry,Dominique,Dominique Curry,CAR,TE,6-2,223,0000-00-00,California (PA),1
+956,0,13,Farnham,Buddy,Buddy Farnham,NE,WR,6-0,185,1987-05-22,Brown,1
+957,0,0,Gore,Shawn,Shawn Gore,GB,WR,6-0,200,0000-00-00,Bishop's University,1
+958,0,13,Grant,Bakari,Bakari Grant,SF,WR,6-3,195,0000-00-00,California-Davis,1
+959,0,0,Gunnell,Rich,Rich Gunnell,KC,WR,5-11,197,0000-00-00,Boston College,1
+960,0,84,Guy,Trent,Trent Guy,CAR,WR,5-8,171,1987-08-22,Louisville,1
+961,0,83,Haggerty,Johnathan,Johnathan Haggerty,NE,WR,6-1,195,0000-00-00,Southwestern Oklahoma State,1
+962,0,0,Hall,Vic,Vic Hall,NYJ,WR,5-9,185,0000-00-00,Virginia,1
+963,0,0,Hamilton,Marquis,Marquis Hamilton,MIN,WR,6-3,222,0000-00-00,Iowa State,1
+964,0,13,Horne,Jeremy,Jeremy Horne,NYG,WR,6-2,193,0000-00-00,Massachusetts,1
+965,0,0,Hudgins,Terrell,Terrell Hudgins,DAL,WR,6-2,225,0000-00-00,Elon,1
+966,0,12,James,Brandon,Brandon James,IND,WR,5-7,176,0000-00-00,Florida,1
+967,0,19,Jones,Donald,Donald Jones,NE,WR,6-0,208,0000-00-00,Youngstown State,1
+968,0,14,Jurovich,Kevin,Kevin Jurovich,SF,WR,6-0,188,1986-06-30,San Jose State,1
+969,0,83,Komar,Max,Max Komar,CHI,WR,5-11,202,0000-00-00,Idaho,1
+970,0,83,McRae,Brandon,Brandon McRae,LAR,WR,6-3,208,0000-00-00,Mississippi State,1
+971,0,17,Moore,Michael,Michael Moore,DET,WR,6-2,210,0000-00-00,Georgia,1
+972,0,0,Owens,Rod,Rod Owens,NE,WR,6-0,183,0000-00-00,Florida State,1
+973,0,0,Parks,Contrevious,Contrevious Parks,DET,WR,5-10,190,0000-00-00,Stephen F. Austin St.,1
+974,0,0,Perry,Jared,Jared Perry,PHI,WR,6-1,178,0000-00-00,Missouri,1
+975,0,0,Rhea,Aaron,Aaron Rhea,BUF,WR,6-1,202,0000-00-00,Stephen F. Austin St.,1
+976,0,13,Roosevelt,Naaman,Naaman Roosevelt,BUF,WR,6-0,200,0000-00-00,Buffalo,1
+977,0,14,Sewall,Bobby,Bobby Sewall,TB,WR,6-1,197,0000-00-00,Brown,1
+978,0,0,Small,Ray,Ray Small,IND,WR,5-11,180,0000-00-00,Ohio State,1
+979,0,87,Stewart,Juamorris,Juamorris Stewart,PIT,WR,6-3,198,0000-00-00,Southern University,1
+980,0,0,Thomas,Roren,Roren Thomas,JAC,WR,5-10,172,0000-00-00,Lindenwood,1
+981,0,15,Tucker,Verran,Verran Tucker,KC,WR,6-1,204,1988-06-26,California,1
+982,0,16,Wallace,Roberto,Roberto Wallace,TEN,WR,6-4,222,0000-00-00,San Diego State,1
+983,0,15,West,Chastin,Chastin West,DET,WR,6-1,217,1987-05-01,Fresno State,1
+984,0,15,White,Blair,Blair White,IND,WR,6-2,205,0000-00-00,Michigan State,1
+985,0,0,Williams,Stephen,Stephen Williams,MIA,WR,6-5,215,0000-00-00,Toledo,1
+986,0,0,Young,Oliver,Oliver Young,CAR,WR,6-2,196,0000-00-00,South Carolina State,1
+987,0,86,Ballard,Jake,Jake Ballard,ARI,TE,6-6,275,0000-00-00,Ohio State,1
+988,0,40,Caussin,Mike,Mike Caussin,WAS,TE,6-5,243,1987-02-26,James Madison,1
+989,0,46,Dickson,Richard,Richard Dickson,DET,TE,6-2,245,1987-11-17,LSU,1
+990,0,0,Geer,Riar,Riar Geer,TEN,TE,6-4,250,1986-12-19,Colorado,1
+991,0,0,George,Andrew,Andrew George,BUF,TE,6-4,247,0000-00-00,Brigham Young,1
+992,0,87,Mastrud,Jeron,Jeron Mastrud,CHI,TE,6-6,255,1987-12-17,Kansas State,1
+993,0,86,Overbay,Nathan,Nathan Overbay,BAL,TE,6-5,260,0000-00-00,Eastern Washington,1
+994,0,0,Pfahler,Steve,Steve Pfahler,TEN,TE,6-4,254,0000-00-00,Montana,1
+995,0,0,Sicko,Scott,Scott Sicko,DAL,TE,6-4,255,0000-00-00,New Hampshire,1
+996,0,0,Tow-Arnett,Nick,Nick Tow-Arnett,SEA,TE,6-3,248,0000-00-00,Minnesota,1
+997,0,0,Lawrence,Hunter,Hunter Lawrence,TB,K,6-0,187,0000-00-00,Texas,1
+998,0,4,Pettrey,Aaron,Aaron Pettrey,CIN,K,6-2,199,1986-06-17,Ohio State,1
+999,0,8,Harrell,Graham,Graham Harrell,NYJ,QB,6-2,215,0000-00-00,Texas Tech,1
+1000,0,0,Corcoran,Jack,Jack Corcoran,SF,RB,6-1,230,1987-06-26,Rutgers,1
+1001,0,0,McNeal,Shawnbrey,Shawnbrey McNeal,LAC,RB,5-9,190,1988-10-17,Southern Methodist,1
+1002,0,42,Steele,Curtis,Curtis Steele,BAL,RB,6-0,200,0000-00-00,Memphis,1
+1003,0,16,Banks,Brandon,Brandon Banks,WAS,WR,5'7',153,1987-12-21,Kansas State,1
+1004,0,0,Billings,Montez,Montez Billings,NO,WR,6-1,181,1986-06-15,Auburn,1
+1005,0,0,Crawford,London,London Crawford,HOU,WR,6-2,205,0000-00-00,Arkansas,1
+1006,0,15,Goodman,Richard,Richard Goodman,LAC,WR,6-0,192,0000-00-00,Florida State,1
+1007,0,17,Hodge,Shay,Shay Hodge,CIN,WR,6-1,209,0000-00-00,Mississippi,1
+1008,0,14,Tanner,Andy,Andy Tanner,NO,WR,6-0,183,1988-05-16,Midwestern State,1
+1010,0,0,Williams,Jeremy,Jeremy Williams,PHI,WR,6-0,206,0000-00-00,Tulane,1
+1011,0,0,Allan,Michael,Michael Allan,SEA,TE,6-6,254,0000-00-00,Whitworth,1
+1012,0,0,Farr,DajLeon,DajLeon Farr,DAL,TE,6-5,256,0000-00-00,Memphis,1
+1013,0,0,Slate,Cody,Cody Slate,KC,TE,6-4,229,1987-08-14,Marshall,1
+1014,0,49,Miller,Brit,Brit Miller,LAR,RB,6-1,253,1986-09-15,Illinois,1
+1015,0,45,Unga,Harvey,Harvey Unga,CHI,RB,6-0,237,0000-00-00,Brigham Young,1
+1016,0,87,Bright,Eugene,Eugene Bright,PIT,TE,6-4,268,1985-04-18,Purdue,1
+1017,0,0,Stull,Bill,Bill Stull,KC,QB,6-3,215,0000-00-00,Pittsburgh,1
+1018,0,0,Anderson,Andre',Andre' Anderson,BUF,RB,6-0,212,0000-00-00,Tulane,1
+1019,0,49,Klecko,Dan,Dan Klecko,ATL,RB,5-11,275,0000-00-00,Temple,1
+1020,0,0,Boateng,Nyan,Nyan Boateng,NYG,WR,6-1,204,0000-00-00,California,1
+1021,0,0,Guillory,Bobby,Bobby Guillory,SF,WR,5-10,180,0000-00-00,Central Missouri State,1
+1022,0,5,Markshausen,Zeke,Zeke Markshausen,KC,WR,5-11,185,1987-01-26,Northwestern,1
+1023,0,0,Mathews,Greg,Greg Mathews,LAR,WR,6-3,207,1988-01-28,Michigan,1
+1024,0,14,Townsel,Derrick,Derrick Townsel,HOU,WR,5-9,175,1988-07-12,Murray State,1
+1025,0,84,Alexander,Danario,Danario Alexander,LAC,WR,6-5,217,1988-08-07,Missouri,1
+1026,0,76,Reitz,Joe,Joe Reitz,IND,TE,6-7,320,1985-08-24,Western Michigan,1
+1027,0,87,Wilson,Kris,Kris Wilson,BAL,TE,6-2,245,0000-00-00,Pittsburgh,1
+1028,0,17,Perrilloux,Ryan,Ryan Perrilloux,NYG,QB,6-3,204,0000-00-00,Jacksonville State,1
+1029,0,16,Arceneaux,Emmanuel,Emmanuel Arceneaux,MIN,WR,6-2,215,0000-00-00,Alcorn State,1
+1030,1,16,Hawkins,Andrew,Andrew Hawkins,NE,WR,5'7',180,1986-03-10,Toledo,1
+1031,0,0,Lyons,Wes,Wes Lyons,PIT,WR,6-8,233,0000-00-00,West Virginia,1
+1032,0,13,Windsor,Rod,Rod Windsor,CLE,WR,6-2,205,0000-00-00,Western New Mexico,1
+1033,0,69,Piurowski,Caz,Caz Piurowski,SEA,TE,6-7,271,0000-00-00,Florida State,1
+1034,0,7,Enderle,Nathan,Nathan Enderle,LAC,QB,6-4,240,0000-00-00,Idaho,1
+1035,0,10,Locker,Jake,Jake Locker,TEN,QB,6-3,223,0000-00-00,Washington,1
+1036,0,0,McElroy,Greg,Greg McElroy,CIN,QB,6-2,225,0000-00-00,Alabama,1
+1037,0,35,Allen,Anthony,Anthony Allen,BAL,RB,6-1,223,0000-00-00,Georgia Tech,1
+1038,0,20,Batch,Baron,Baron Batch,PIT,RB,5-10,210,0000-00-00,Texas Tech,1
+1039,0,44,Bradford,Allen,Allen Bradford,SEA,RB,5-11,235,0000-00-00,USC,1
+1040,0,34,Carter,Delone,Delone Carter,BAL,RB,5-9,232,0000-00-00,Syracuse,1
+1041,0,40,Chapas,Shaun,Shaun Chapas,BAL,RB,6-2,241,0000-00-00,Georgia,1
+1042,0,33,Finley,Jay,Jay Finley,CIN,RB,5-11,203,0000-00-00,Baylor,1
+1043,0,25,Green,Alex,Alex Green,NYJ,RB,6-2,220,0000-00-00,Hawaii,1
+1044,0,23,Harper,Jamie,Jamie Harper,TEN,RB,5-11,233,0000-00-00,Clemson,1
+1045,0,39,Havili,Stanley,Stanley Havili,IND,RB,6-0,243,0000-00-00,USC,1
+1046,0,26,Helu,Roy,Roy Helu,OAK,RB,5-11,220,0000-00-00,Nebraska,1
+1047,0,48,Marecic,Owen,Owen Marecic,CLE,RB,6-0,245,0000-00-00,Stanford,1
+1048,0,33,Scott,Da'Rel,Da'Rel Scott,NYG,RB,5-11,210,0000-00-00,Maryland,1
+1049,0,34,White,Johnny,Johnny White,GB,RB,5-10,202,0000-00-00,North Carolina,1
+1050,0,34,Williams,Ryan,Ryan Williams,DAL,RB,5-9,207,0000-00-00,Virginia Tech,1
+1051,0,86,Ausberry,David,David Ausberry,OAK,TE,6-4,250,0000-00-00,USC,1
+1052,0,84,Baldwin,Jonathan,Jonathan Baldwin,SF,WR,6-4,230,0000-00-00,Pittsburgh,1
+1053,0,0,Brown,Vincent,Vincent Brown,NO,WR,5-11,190,0000-00-00,San Diego State,1
+1054,0,15,Burton,Stephen,Stephen Burton,JAC,WR,6-1,224,0000-00-00,West Texas A&M,1
+1055,0,12,Jernigan,Jerrel,Jerrel Jernigan,NYG,WR,5-8,189,0000-00-00,Troy,1
+1056,0,80,Johnson,Ronald,Ronald Johnson,PHI,WR,5-10,185,0000-00-00,USC,1
+1057,0,0,McKnight,Scotty,Scotty McKnight,NYJ,WR,5-11,185,0000-00-00,Colorado,1
+1058,0,19,Pilares,Kealoha,Kealoha Pilares,CAR,WR,5-10,200,0000-00-00,Hawaii,1
+1059,0,19,Sampson,DeMarco,DeMarco Sampson,BUF,WR,6-2,204,0000-00-00,San Diego State,1
+1060,0,16,Young,Titus,Titus Young,DET,WR,5-11,174,0000-00-00,Boise State,1
+1061,0,89,Gordon,Richard,Richard Gordon,DEN,TE,6-4,265,0000-00-00,Miami,1
+1062,0,88,Hardy,Daniel,Daniel Hardy,TB,TE,6-4,249,0000-00-00,Idaho,1
+1064,0,6,Henery,Alex,Alex Henery,DET,K,6-1,177,0000-00-00,Nebraska,1
+1065,0,0,Hartline,Mike,Mike Hartline,NE,QB,6-6,210,0000-00-00,Kentucky,1
+1066,0,2,Portis,Josh,Josh Portis,SEA,QB,6-3,211,0000-00-00,California (PA),1
+1067,0,0,Vittatoe,Trevor,Trevor Vittatoe,IND,QB,6-2,220,0000-00-00,Texas-El Paso,1
+1068,0,2,Weber,Adam,Adam Weber,TB,QB,6-3,210,0000-00-00,Minnesota,1
+1069,0,25,Allen,Armando,Armando Allen,CHI,RB,5-8,190,0000-00-00,Notre Dame,1
+1070,0,28,Berry,Damien,Damien Berry,BAL,RB,5-10,223,0000-00-00,Miami (Fla.),1
+1071,0,38,Clay,John,John Clay,PIT,RB,6-1,233,0000-00-00,Wisconsin,1
+1072,0,0,Cooper,Graig,Graig Cooper,PHI,RB,5-10,205,0000-00-00,Miami (Fla.),1
+1073,0,36,Evans,Darren,Darren Evans,TEN,RB,6-0,232,0000-00-00,Virginia Tech,1
+1074,0,42,Fannin,Mario,Mario Fannin,DEN,RB,5-11,224,0000-00-00,Auburn,1
+1075,0,24,Griffin,John,John Griffin,NYJ,RB,5-11,208,0000-00-00,Massachusetts,1
+1076,0,35,Hall,Korey,Korey Hall,NO,RB,6-0,236,0000-00-00,Boise State,1
+1077,0,41,Madu,Mossis,Mossis Madu,NYJ,RB,6-0,197,0000-00-00,Oklahoma,1
+1078,0,40,Medlin,Richard,Richard Medlin,ATL,RB,5-11,200,0000-00-00,Fayetteville State,1
+1079,0,39,Murphy,Richard,Richard Murphy,JAC,RB,6-1,215,0000-00-00,LSU,1
+1080,0,33,Saine,Brandon,Brandon Saine,GB,RB,5-11,220,0000-00-00,Ohio State,1
+1081,0,36,Smith,Armond,Armond Smith,CAR,RB,5-9,195,0000-00-00,Union College (KY),1
+1082,0,34,Spann,Chad,Chad Spann,NYJ,RB,5-9,198,0000-00-00,Northern Illinois,1
+1083,0,40,Sylvester,Austin,Austin Sylvester,DEN,RB,6-1,248,0000-00-00,Washington,1
+1084,0,48,Tanner,Phillip,Phillip Tanner,SF,RB,5-10,208,0000-00-00,Middle Tennessee,1
+1085,0,30,Wide,Eddie,Eddie Wide,LAR,RB,5-10,195,0000-00-00,Utah,1
+1086,0,13,Adams,Darvin,Darvin Adams,CAR,WR,6-2,195,0000-00-00,Auburn,1
+1087,0,89,Adams,Kris,Kris Adams,NYG,WR,6-3,194,0000-00-00,Texas-El Paso,1
+1088,0,19,Beiler,Tyler,Tyler Beiler,PIT,WR,6-0,190,0000-00-00,Bridgewater College,1
+1089,0,0,Binns,Armon,Armon Binns,KC,WR,6-3,211,0000-00-00,Cincinnati,1
+1090,0,9,Bogan,Dontavia,Dontavia Bogan,SF,WR,6-1,188,0000-00-00,South Florida,1
+1091,0,19,Borel,Diondre,Diondre Borel,TEN,WR,6-0,199,0000-00-00,Utah State,1
+1092,0,0,Bradley,Rodney,Rodney Bradley,BAL,WR,5-11,190,0000-00-00,Hawaii,1
+1093,0,18,Campbell,Michael,Michael Campbell,NYJ,WR,6-2,205,0000-00-00,Temple,1
+1094,0,89,Cox,Landon,Landon Cox,TB,WR,6-3,220,0000-00-00,Northern Illinois,1
+1095,0,19,Davis,Drew,Drew Davis,ATL,WR,6-1,205,0000-00-00,Oregon,1
+1096,0,82,DePalma,Dan,Dan DePalma,LAC,WR,5-11,192,0000-00-00,West Chester,1
+1097,0,15,Dell,Mark,Mark Dell,DEN,WR,6-2,195,0000-00-00,Michigan State,1
+1098,0,8,Ellingson,Greg,Greg Ellingson,TB,WR,6-3,197,0000-00-00,Florida International,1
+1099,0,11,Fayson,Jarred,Jarred Fayson,NO,WR,6-0,214,0000-00-00,Illinois,1
+1100,0,6,Gilreath,David,David Gilreath,SEA,WR,5-10,169,0000-00-00,Wisconsin,1
+1101,0,11,Goodwin,D'Andre,D'Andre Goodwin,DEN,WR,5-11,188,0000-00-00,Washington,1
+1102,0,17,Gurley,Tori,Tori Gurley,BUF,WR,6-4,230,0000-00-00,South Carolina,1
+1103,0,84,Hamler,Jamel,Jamel Hamler,PHI,WR,6-2,195,0000-00-00,Fresno State,1
+1104,0,18,Harris,Marcus,Marcus Harris,NYG,WR,6-1,187,0000-00-00,Murray State,1
+1105,0,13,Hastings,Joe,Joe Hastings,MIA,WR,6-0,185,0000-00-00,Washburn,1
+1106,0,17,Hazelton,Vidal,Vidal Hazelton,NYJ,WR,6-2,209,0000-00-00,Cincinnati,1
+1107,0,0,Jean,Lestar,Lestar Jean,MIN,WR,6-3,202,0000-00-00,Florida Atlantic,1
+1108,0,14,Jones,Derrick,Derrick Jones,OAK,WR,6-0,195,0000-00-00,California (PA),1
+1109,0,19,Kenney,Cameron,Cameron Kenney,DEN,WR,6-1,193,0000-00-00,Oklahoma,1
+1110,0,19,Kirkendoll,James,James Kirkendoll,TEN,WR,5-10,186,0000-00-00,Texas,1
+1111,0,0,Livas,Phillip,Phillip Livas,BAL,WR,5-7,179,0000-00-00,Louisiana Tech,1
+1112,0,0,Manno,Chris,Chris Manno,CAR,WR,5-10,185,0000-00-00,Hofstra,1
+1113,0,16,McGee,Eddie,Eddie McGee,OAK,WR,6-3,210,0000-00-00,Illinois,1
+1114,0,15,Murdock,O.J.,O.J. Murdock,TEN,WR,5-11,200,0000-00-00,Fort Hays State,1
+1115,0,85,Newsome,Jamar,Jamar Newsome,DAL,WR,6-1,206,0000-00-00,Central Florida,1
+1116,0,15,Radway,Raymond,Raymond Radway,LAR,WR,6-3,204,0000-00-00,Abilene Christian,1
+1117,0,11,Sanzenbacher,Dane,Dane Sanzenbacher,CIN,WR,5-11,184,0000-00-00,Ohio State,1
+1118,0,48,Scales,Cordarol,Cordarol Scales,NYJ,WR,6-4,239,1988-02-11,Utah State,1
+1119,0,16,Smithson,Shaky,Shaky Smithson,GB,WR,5-11,202,0000-00-00,Utah,1
+1120,0,17,Spencer,Owen,Owen Spencer,CLE,WR,6-3,185,0000-00-00,North Carolina State,1
+1121,0,13,Taylor,Kerry,Kerry Taylor,JAC,WR,6-0,200,0000-00-00,Arizona State,1
+1122,0,0,Toliver,Terrence,Terrence Toliver,CHI,WR,6-5,204,0000-00-00,LSU,1
+1123,0,1,Webber,Raymond,Raymond Webber,MIA,WR,6-2,237,0000-00-00,Arkansas-Pine Bluff,1
+1124,0,15,Williams,LaQuan,LaQuan Williams,BAL,WR,6-0,195,0000-00-00,Maryland,1
+1125,0,14,Young,Jimmy,Jimmy Young,PIT,WR,6-0,204,0000-00-00,Texas Christian,1
+1126,0,86,Adams,Kyle,Kyle Adams,CHI,TE,6-4,255,0000-00-00,Purdue,1
+1127,0,45,Baker,Josh,Josh Baker,NYJ,RB,6-3,244,0000-00-00,Northwest Missouri State,1
+1128,0,87,Brackett,Brett,Brett Brackett,TEN,TE,6-5,246,0000-00-00,Penn State,1
+1129,0,86,Cochart,Colin,Colin Cochart,DAL,TE,6-4,249,0000-00-00,South Dakota State,1
+1130,0,86,Cosby,DeMarco,DeMarco Cosby,TEN,TE,6-3,240,0000-00-00,Central Missouri State,1
+1131,0,85,Franklin,Collin,Collin Franklin,TB,TE,6-5,252,0000-00-00,Iowa State,1
+1132,0,87,Gallarda,Tommy,Tommy Gallarda,ATL,TE,6-5,262,0000-00-00,Boise State,1
+1133,0,81,Graham,Cameron,Cameron Graham,LAR,TE,6-3,244,0000-00-00,Louisville,1
+1134,0,5,Guidugli,Ben,Ben Guidugli,NYG,RB,6-1,248,0000-00-00,Cincinnati,1
+1135,0,47,Higgins,Michael,Michael Higgins,MIN,TE,6-5,242,0000-00-00,Nebraska-Omaha,1
+1136,0,84,Hopkins,Chris,Chris Hopkins,NYG,TE,6-5,277,0000-00-00,Toledo,1
+1137,0,0,McNeill,Mike,Mike McNeill,CAR,TE,6-4,240,0000-00-00,Nebraska,1
+1138,0,82,Pianalto,Zack,Zack Pianalto,CAR,TE,6-4,250,0000-00-00,North Carolina,1
+1139,0,47,Saunders,Weslye,Weslye Saunders,IND,TE,6-5,261,0000-00-00,South Carolina,1
+1140,0,44,Skelton,Steve,Steve Skelton,ARI,TE,6-5,250,0000-00-00,Fordham,1
+1141,0,87,Smith,Andre,Andre Smith,CLE,TE,6-5,270,0000-00-00,Virginia Tech,1
+1142,0,85,Smith,Greg,Greg Smith,CAR,TE,6-4,255,0000-00-00,Texas,1
+1143,0,28,Taylor,Brandon,Brandon Taylor,LAC,TE,5-11,209,0000-00-00,LSU,1
+1144,0,88,Webb,Martell,Martell Webb,CLE,TE,6-3,276,0000-00-00,Michigan,1
+1145,0,89,Yeatman,Will,Will Yeatman,MIA,TE,6-6,270,0000-00-00,Maryland,1
+1146,0,2,Koepplin,Chris,Chris Koepplin,NE,K,6-3,215,0000-00-00,Massachusetts,1
+1147,0,3,Weber,Thomas,Thomas Weber,CIN,K,6-0,204,0000-00-00,Arizona State,1
+1148,0,7,Wolfert,Jeff,Jeff Wolfert,CLE,K,6-2,185,0000-00-00,Missouri,1
+1149,0,38,King,Caleb,Caleb King,MIN,RB,5-11,212,0000-00-00,Georgia,1
+1150,0,25,Leshoure,Mikel,Mikel Leshoure,DET,RB,6-0,233,0000-00-00,Illinois,1
+1151,0,33,Powell,William,William Powell,ARI,RB,5-9,207,0000-00-00,Kansas State,1
+1152,0,2,Kasay,John,John Kasay,NO,K,5-10,210,0000-00-00,Georgia,1
+1153,0,1,Rackers,Neil,Neil Rackers,WAS,K,6-1,207,0000-00-00,Illinois,1
+1154,0,48,Snow,Justin,Justin Snow,IND,TE,6-3,240,0000-00-00,Baylor,1
+1155,0,34,Mughelli,Ovie,Ovie Mughelli,LAR,RB,6-1,250,0000-00-00,Wake Forest,1
+1156,0,5,Bosher,Matt,Matt Bosher,ATL,K,6-0,208,0000-00-00,Miami (Fla.),1
+1157,0,4,Corp,Aaron,Aaron Corp,MIA,QB,6-4,195,0000-00-00,Richmond,1
+1158,0,35,Douglas,Chris,Chris Douglas,BUF,RB,5-9,212,0000-00-00,Missouri State,1
+1159,0,1,Potter,John,John Potter,WAS,K,6-1,219,0000-00-00,Western Michigan,1
+1160,0,35,Messam,Jerome,Jerome Messam,MIA,RB,6-4,250,0000-00-00,Graceland,1
+1161,0,89,Cunningham,B.J.,B.J. Cunningham,PHI,WR,6-2,215,0000-00-00,Michigan State,1
+1162,0,8,Fuller,Jeff,Jeff Fuller,SEA,WR,6-4,223,0000-00-00,Texas A&M,1
+1163,0,14,Moye,Derek,Derek Moye,PIT,WR,6-5,210,0000-00-00,Penn State,1
+1164,0,87,Brown,Les,Les Brown,MIA,TE,6-4,245,0000-00-00,Westminster (UT),1
+1165,0,46,Larsen,Spencer,Spencer Larsen,TB,RB,6-2,245,0000-00-00,Arizona,1
+1166,0,7,Ebert,Jeremy,Jeremy Ebert,ATL,WR,6-0,195,0000-00-00,Northwestern,1
+1167,0,13,Roark,Matt,Matt Roark,NE,WR,6-5,220,0000-00-00,Kentucky,1
+1168,0,0,Herman,Brad,Brad Herman,NE,TE,6-5,255,0000-00-00,Iowa,1
+1169,0,2,Kinne,G.J.,G.J. Kinne,NYG,QB,6-2,218,0000-00-00,Tulsa,1
+1170,0,42,Ganaway,Terrance,Terrance Ganaway,LAR,RB,6-1,240,0000-00-00,Baylor,1
+1171,0,0,Adams,Royce,Royce Adams,NYJ,WR,6-0,190,0000-00-00,Purdue,1
+1172,0,87,Ganaway,DaMarcus,DaMarcus Ganaway,NYJ,WR,6-2,185,0000-00-00,Kentucky Wesleyan,1
+1173,0,18,Pollard,Royce,Royce Pollard,NYJ,WR,6-1,175,0000-00-00,Hawaii,1
+1174,0,89,White,Jordan,Jordan White,NYJ,WR,6-0,215,0000-00-00,Western Michigan,1
+1175,0,82,Smith,Hayden,Hayden Smith,NYJ,TE,6-6,255,0000-00-00,Metro State,1
+1176,0,0,Benford,Tim,Tim Benford,PIT,WR,5-11,198,0000-00-00,Tennessee Tech,1
+1177,0,0,Coale,Danny,Danny Coale,PIT,WR,6-0,187,0000-00-00,Virginia Tech,1
+1178,0,1,Kemp,Donavon,Donavon Kemp,SEA,WR,6-1,195,0000-00-00,Texas-El Paso,1
+1179,0,35,Scott,Darrell,Darrell Scott,DAL,WR,6-2,225,0000-00-00,South Florida,1
+1180,0,0,Bryan,George,George Bryan,DAL,TE,6-5,265,0000-00-00,North Carolina State,1
+1181,0,85,Szczerba,Andrew,Andrew Szczerba,ATL,TE,6-6,256,0000-00-00,Penn State,1
+1182,0,0,Rogers,Jake,Jake Rogers,CLE,K,6-2,220,0000-00-00,Cincinnati,1
+1183,0,22,Wilson,David,David Wilson,NYG,RB,5-9,205,0000-00-00,Virginia Tech,1
+1184,0,99,Robinson,Adrien,Adrien Robinson,NYJ,TE,6-4,264,0000-00-00,Cincinnati,1
+1185,0,15,McNutt,Marvin,Marvin McNutt,CAR,WR,6-2,225,0000-00-00,Iowa,1
+1186,0,34,Bailey,Antwon,Antwon Bailey,WAS,RB,5-7,195,0000-00-00,Syracuse,1
+1187,0,23,Creer,Lennon,Lennon Creer,WAS,RB,6-1,216,0000-00-00,Louisiana Tech,1
+1188,0,17,Hanks,Darius,Darius Hanks,WAS,WR,6-0,187,0000-00-00,Alabama,1
+1189,0,19,Hernandez,Brian,Brian Hernandez,WAS,WR,6-0,183,0000-00-00,Utah,1
+1190,0,14,Kirkland,Sam,Sam Kirkland,WAS,WR,6-0,190,0000-00-00,Kent State,1
+1191,0,87,Reliford,Beau,Beau Reliford,WAS,TE,6-6,269,0000-00-00,Florida State,1
+1192,0,17,Page,Eric,Eric Page,TB,WR,5-10,180,0000-00-00,Toledo,1
+1193,0,38,Bannon,Shane,Shane Bannon,KC,RB,6-3,245,0000-00-00,Yale,1
+1194,0,42,McCluskey,James,James McCluskey,OAK,RB,6-2,250,0000-00-00,Boston College,1
+1195,0,13,Carswell,Brandon,Brandon Carswell,SF,WR,6-1,201,0000-00-00,USC,1
+1196,0,81,Mayo,Thomas,Thomas Mayo,NYJ,WR,6-2,205,0000-00-00,California (PA),1
+1197,0,80,Hardy,Andre,Andre Hardy,ARI,TE,6-6,245,0000-00-00,Cal State-Fullerton,1
+1199,0,3,Lindley,Ryan,Ryan Lindley,IND,QB,6-3,232,0000-00-00,San Diego State,1
+1200,0,44,Bell,Cameron,Cameron Bell,SF,RB,6-2,252,0000-00-00,Northern Illinois,1
+1201,0,33,Hampton,Jewel,Jewel Hampton,SF,RB,5-9,210,0000-00-00,Southern Illinois,1
+1202,0,81,Tyms,Brian,Brian Tyms,IND,WR,6-3,204,0000-00-00,Florida A&M,1
+1203,0,33,Turbin,Robert,Robert Turbin,IND,RB,5-10,216,1989-12-02,Utah State,1
+1204,0,19,Tuinei,Lavasier,Lavasier Tuinei,NE,WR,6-4,220,0000-00-00,Oregon,1
+1205,0,5,Wiggs,Carson,Carson Wiggs,SEA,K,6-1,222,0000-00-00,Purdue,1
+1206,0,47,Anderson,Todd,Todd Anderson,LAR,RB,6-1,267,0000-00-00,Michigan State,1
+1207,0,36,Middleton,Calvin,Calvin Middleton,LAR,RB,5-11,220,0000-00-00,Jacksonville State,1
+1208,0,35,Schwieger,Nick,Nick Schwieger,LAR,RB,5-10,210,0000-00-00,Dartmouth,1
+1209,0,14,Johnson,Nick,Nick Johnson,LAR,WR,5-11,187,0000-00-00,Henderson State,1
+1210,0,86,Peterson,Deangelo,Deangelo Peterson,DEN,TE,6-4,235,0000-00-00,LSU,1
+1211,0,9,Hansen,Tyler,Tyler Hansen,CIN,QB,6-1,225,0000-00-00,Colorado,1
+1212,0,0,Stewart,Rodney,Rodney Stewart,CIN,RB,5-6,175,0000-00-00,Colorado,1
+1213,0,12,Hilton,Justin,Justin Hilton,TEN,WR,6-2,190,0000-00-00,Indiana State,1
+1214,0,83,Rogers,Taveon,Taveon Rogers,CIN,WR,5-11,200,0000-00-00,New Mexico State,1
+1215,0,49,Green,William,William Green,CLE,RB,6-3,250,0000-00-00,Florida,1
+1216,0,33,Richardson,Trent,Trent Richardson,BAL,RB,5-9,225,0000-00-00,Alabama,1
+1217,0,88,Cooper,Josh,Josh Cooper,CLE,WR,5-10,190,0000-00-00,Oklahoma State,1
+1218,0,0,Reed,Bert,Bert Reed,PIT,WR,5-10,183,0000-00-00,Florida State,1
+1219,0,85,Saffold,Jermaine,Jermaine Saffold,CLE,WR,6-0,200,0000-00-00,Missouri State,1
+1220,0,25,Rainey,Chris,Chris Rainey,IND,RB,5-9,180,0000-00-00,Florida,1
+1221,0,0,Adams,Mike,Mike Adams,PIT,WR,6-7,323,0000-00-00,Ohio State,1
+1222,0,18,Clemons,Toney,Toney Clemons,CAR,WR,6-2,205,0000-00-00,Colorado,1
+1223,0,0,Dixon,Connor,Connor Dixon,PIT,WR,6-5,212,0000-00-00,Duquesne,1
+1224,0,3,Maze,Marquis,Marquis Maze,PIT,WR,5-8,186,0000-00-00,Alabama,1
+1225,0,40,Bryant,James,James Bryant,DET,RB,6-3,257,0000-00-00,Louisville,1
+1226,0,43,Green,Stephfon,Stephfon Green,DET,RB,5-10,193,0000-00-00,Penn State,1
+1227,0,0,Burrell,Troy,Troy Burrell,DET,WR,5-10,182,0000-00-00,Wayne State (Mich.),1
+1228,0,83,Edwards,Patrick,Patrick Edwards,DET,WR,5-9,175,0000-00-00,Houston,1
+1229,0,0,Karstetter,Jared,Jared Karstetter,DET,WR,6-4,213,0000-00-00,Washington State,1
+1230,0,80,Gottlieb,Alex,Alex Gottlieb,ARI,TE,6-4,255,0000-00-00,William & Mary,1
+1231,0,45,Wells,Austin,Austin Wells,DET,TE,6-3,255,0000-00-00,Northern Iowa,1
+1232,0,2,Dimke,Derek,Derek Dimke,NO,K,6-0,180,0000-00-00,Illinois,1
+1233,0,9,Coleman,B.J.,B.J. Coleman,GB,QB,6-3,231,0000-00-00,Tennessee-Chattanooga,1
+1234,0,0,Hill,Nick,Nick Hill,GB,QB,6-3,210,0000-00-00,Southern Illinois,1
+1235,0,40,Cooper,Nicholas,Nicholas Cooper,GB,RB,5-10,249,0000-00-00,Winston-Salem State,1
+1236,0,26,Tyler,Marc,Marc Tyler,GB,RB,5-11,226,0000-00-00,USC,1
+1237,0,40,Hoese,Jon,Jon Hoese,OAK,RB,6-2,248,0000-00-00,Minnesota,1
+1238,0,13,Moss,Dale,Dale Moss,CHI,WR,6-3,215,0000-00-00,South Dakota State,1
+1239,0,0,Reynolds,Darius,Darius Reynolds,GB,WR,6-2,206,0000-00-00,Iowa State,1
+1240,0,6,Rivers,Marcus,Marcus Rivers,BAL,WR,6-3,218,0000-00-00,Buffalo,1
+1241,0,0,Ford,Cameron,Cameron Ford,GB,TE,6-4,255,0000-00-00,Wake Forest,1
+1242,0,45,Lair,Eric,Eric Lair,GB,TE,6-2,238,0000-00-00,Minnesota,1
+1243,0,85,Childs,Greg,Greg Childs,MIN,WR,6-3,217,0000-00-00,Arkansas,1
+1244,0,12,Jorden,Kamar,Kamar Jorden,MIN,WR,6-3,200,0000-00-00,Bowling Green State,1
+1245,0,0,Harnish,Chandler,Chandler Harnish,ARI,QB,6-2,222,0000-00-00,Northern Illinois,1
+1246,0,0,Ballard,Vick,Vick Ballard,NO,RB,5-10,224,0000-00-00,Mississippi State,1
+1247,0,15,Brazill,LaVon,LaVon Brazill,IND,WR,5-11,194,0000-00-00,Ohio U.,1
+1248,0,8,Sambrano,Jabin,Jabin Sambrano,ATL,WR,5-11,190,0000-00-00,Montana,1
+1249,0,14,Blackmon,Justin,Justin Blackmon,JAC,WR,6-1,210,0000-00-00,Oklahoma State,1
+1250,0,18,Elliott,Kevin,Kevin Elliott,BUF,WR,6-3,205,0000-00-00,Florida A&M,1
+1251,0,0,Forcier,Chris,Chris Forcier,JAC,WR,6-3,200,0000-00-00,Furman,1
+1252,0,61,Hall,D.J.,D.J. Hall,JAC,WR,6-1,312,0000-00-00,Texas State,1
+1253,0,85,Veldman,Matt,Matt Veldman,DET,TE,6-7,255,0000-00-00,North Dakota State,1
+1254,0,0,Stephens,Nick,Nick Stephens,BAL,QB,6-3,221,0000-00-00,Tarleton State,1
+1255,0,0,Whiting,Darryl,Darryl Whiting,TEN,RB,6-3,235,0000-00-00,Fordham,1
+1256,0,81,Aguilar,Devin,Devin Aguilar,TEN,WR,5-11,200,0000-00-00,Washington,1
+1257,0,82,Deadder,Chase,Chase Deadder,TEN,WR,6-4,224,0000-00-00,Sacramento State,1
+1258,0,16,Evans,LaQuinton,LaQuinton Evans,TEN,WR,6-1,203,0000-00-00,Southern University,1
+1259,0,12,Woods,D.J.,D.J. Woods,TEN,WR,5-11,180,0000-00-00,Cincinnati,1
+1260,0,84,Thompson,Taylor,Taylor Thompson,TEN,TE,6-6,268,0000-00-00,SMU,1
+1261,0,4,Davis,Dominique,Dominique Davis,ATL,QB,6-3,210,0000-00-00,East Carolina,1
+1262,0,33,Ewing,Bradie,Bradie Ewing,JAC,RB,5-11,243,0000-00-00,Wisconsin,1
+1263,0,15,Calvin,Michael,Michael Calvin,ATL,WR,6-3,215,0000-00-00,California,1
+1264,0,16,Jackson,Marcus,Marcus Jackson,ATL,WR,6-1,195,0000-00-00,Lamar,1
+1265,0,0,Pearcy,Cody,Cody Pearcy,ATL,WR,5-11,160,0000-00-00,Huntingdon College,1
+1266,0,18,Rodgers,James,James Rodgers,ATL,WR,5-7,188,0000-00-00,Oregon State,1
+1267,0,87,Brown,LaMark,LaMark Brown,MIN,WR,6-4,221,0000-00-00,Minnesota State-Mankato,1
+1268,0,86,Nissley,Adam,Adam Nissley,ATL,TE,6-6,267,0000-00-00,Central Florida,1
+1269,0,15,Adams,Joe,Joe Adams,HOU,WR,5-11,185,0000-00-00,Arkansas,1
+1270,0,0,Beyah,Malcolm,Malcolm Beyah,NO,WR,5-11,182,0000-00-00,Middle Tennessee State,1
+1271,0,15,Hardy,Kevin,Kevin Hardy,NYG,WR,6-0,182,0000-00-00,The Citadel,1
+1272,0,81,Byrne,Jake,Jake Byrne,LAC,TE,6-4,258,0000-00-00,Wisconsin,1
+1273,0,39,Curtis,De'Anthony,De'Anthony Curtis,TB,RB,5-9,211,0000-00-00,Arkansas,1
+1274,0,36,Smith,Michael,Michael Smith,NYJ,RB,5-9,205,0000-00-00,Utah State,1
+1275,0,38,Johnson,Cody,Cody Johnson,TB,RB,5-11,252,0000-00-00,Texas,1
+1276,0,14,Shoemaker,Tyler,Tyler Shoemaker,KC,WR,6-1,213,0000-00-00,Boise State,1
+1277,0,81,Dunsmore,Drake,Drake Dunsmore,TB,TE,6-3,235,0000-00-00,Northwestern,1
+1278,0,88,Noble,Danny,Danny Noble,JAC,TE,6-5,248,0000-00-00,Toledo,1
+1279,0,47,Urban,Tyler,Tyler Urban,NE,TE,6-5,249,0000-00-00,West Virginia,1
+1280,0,0,Linthicum,Brian,Brian Linthicum,NYJ,TE,6-5,245,0000-00-00,Michigan State,1
+1281,0,38,Martinek,Joe,Joe Martinek,NYG,RB,6-0,225,0000-00-00,Rutgers,1
+1282,0,6,Collins,Brandon,Brandon Collins,NYG,WR,5-11,180,0000-00-00,Southeastern Louisiana,1
+1283,0,89,Douglas,David,David Douglas,TB,WR,6-1,205,0000-00-00,Arizona,1
+1284,0,0,Harris,Jacory,Jacory Harris,PHI,QB,6-4,200,0000-00-00,Miami (Fla.),1
+1285,0,88,Akpla,Elvis,Elvis Akpla,PHI,WR,6-1,190,0000-00-00,Montana State,1
+1286,0,17,Jacobson,McKay,McKay Jacobson,PHI,WR,5-11,199,0000-00-00,Brigham Young,1
+1287,0,14,Johnson,Damaris,Damaris Johnson,TEN,WR,5-8,175,0000-00-00,Tulsa,1
+1288,0,0,Pflugrad,Aaron,Aaron Pflugrad,PHI,WR,5-10,182,0000-00-00,Arizona State,1
+1289,0,45,Eachus,Nate,Nate Eachus,KC,RB,5-10,212,0000-00-00,Colgate,1
+1290,0,49,Gentry,Taylor,Taylor Gentry,KC,RB,6-2,250,0000-00-00,North Carolina State,1
+1291,0,17,Kinnie,Brandon,Brandon Kinnie,KC,WR,6-3,220,0000-00-00,Nebraska,1
+1292,0,48,Biere,Tim,Tim Biere,ATL,TE,6-4,260,0000-00-00,Kansas,1
+1293,0,0,Szymanski,Matt,Matt Szymanski,KC,K,6-1,196,0000-00-00,Southern Methodist,1
+1294,0,0,Robinson,Tre'Shawn,Tre'Shawn Robinson,OAK,RB,5-11,250,0000-00-00,Idaho,1
+1295,0,87,Session,Tray,Tray Session,OAK,WR,6-2,195,0000-00-00,Nevada,1
+1296,0,81,Efaw,Kyle,Kyle Efaw,OAK,TE,6-4,250,0000-00-00,Boise State,1
+1297,0,3,Carmona,Eddy,Eddy Carmona,OAK,K,5-10,203,0000-00-00,Harding,1
+1298,0,16,Lee,Jarrett,Jarrett Lee,LAC,QB,6-1,210,0000-00-00,LSU,1
+1299,0,34,Hayes,Michael,Michael Hayes,LAC,RB,5-8,200,0000-00-00,Houston,1
+1300,0,35,Marah,Mohamed,Mohamed Marah,LAC,RB,6-0,240,0000-00-00,San Jose State,1
+1301,0,3,Barnes,Jason,Jason Barnes,LAC,WR,6-3,210,0000-00-00,South Carolina,1
+1302,0,81,Cox,Paul,Paul Cox,PIT,WR,6-5,205,0000-00-00,Mississippi Valley State,1
+1303,0,84,Embree,Taylor,Taylor Embree,LAC,WR,6-3,210,0000-00-00,UCLA,1
+1304,0,7,Payne,Phillip,Phillip Payne,LAC,WR,6-3,210,0000-00-00,Nevada-Las Vegas,1
+1305,0,13,Willie,Michael,Michael Willie,BAL,WR,6-2,220,0000-00-00,Arizona State,1
+1306,0,38,Crank,Jared,Jared Crank,ARI,RB,6-2,238,0000-00-00,Purdue,1
+1307,0,16,Arukwe,Stanley,Stanley Arukwe,NYJ,WR,5-11,184,0000-00-00,Troy,1
+1308,0,16,Gray,Tre,Tre Gray,ARI,WR,5-10,175,0000-00-00,Richmond,1
+1309,0,0,Wilson,Marc,Marc Wilson,ARI,WR,5-11,186,0000-00-00,St. Anselm,1
+1310,0,9,Brantley,John,John Brantley,BAL,QB,6-3,218,0000-00-00,Florida,1
+1311,0,1,Stewart,Chester,Chester Stewart,BAL,QB,6-3,220,0000-00-00,Temple,1
+1312,0,39,Berryhill,Jamison,Jamison Berryhill,BAL,RB,5-11,239,0000-00-00,Texas,1
+1313,0,0,Pendergrass,Brandon,Brandon Pendergrass,BAL,RB,5-9,200,0000-00-00,Wake Forest,1
+1314,0,85,Goda,Devin,Devin Goda,BAL,WR,6-2,218,0000-00-00,Slippery Rock,1
+1315,0,13,Graham,Dorian,Dorian Graham,BAL,WR,5-9,188,0000-00-00,Syracuse,1
+1316,0,89,Balasavage,Matt,Matt Balasavage,BAL,TE,6-4,250,0000-00-00,Temple,1
+1317,0,87,Figgins,Bruce,Bruce Figgins,BAL,TE,6-4,278,0000-00-00,Georgia,1
+1318,0,0,Brooks,Jourdan,Jourdan Brooks,CLE,RB,6-0,237,0000-00-00,Morgan State,1
+1319,0,35,Thomas,Adonis,Adonis Thomas,CLE,RB,5-9,185,0000-00-00,Toledo,1
+1320,0,32,Hrapmann,Danny,Danny Hrapmann,MIA,K,5-9,164,0000-00-00,Southern Mississippi,1
+1321,0,2,Blanchard,Matt,Matt Blanchard,CHI,QB,6-3,225,0000-00-00,UW-Whitewater,1
+1322,0,39,Alexander,Alvester,Alvester Alexander,PIT,RB,5-11,204,0000-00-00,Wyoming,1
+1323,0,19,Anderson,Joe,Joe Anderson,CHI,WR,6-1,196,0000-00-00,Texas Southern,1
+1324,0,13,Crump,Terriun,Terriun Crump,TB,WR,6-2,223,0000-00-00,Western Illinois,1
+1325,0,87,Summers,Chris,Chris Summers,BUF,WR,6-5,215,0000-00-00,Liberty,1
+1326,0,85,Venson,Brandon,Brandon Venson,CHI,TE,6-3,245,0000-00-00,Illinois State,1
+1327,0,16,Teggart,Dave,Dave Teggart,CHI,K,6-1,203,0000-00-00,Connecticut,1
+1328,0,15,Miles,Wallace,Wallace Miles,DET,WR,6-0,191,0000-00-00,North Carolina A&T,1
+1329,0,7,Gilleylen,Curenski,Curenski Gilleylen,GB,WR,5-11,213,0000-00-00,Nebraska,1
+1330,0,21,Ford,Jason,Jason Ford,PIT,RB,5-10,251,0000-00-00,Illinois,1
+1331,0,23,Meggett,Davin,Davin Meggett,IND,RB,5-8,219,0000-00-00,Maryland,1
+1332,0,89,Jackson,Jerrell,Jerrell Jackson,KC,WR,6-0,192,0000-00-00,Missouri,1
+1333,0,0,Jones,Dwight,Dwight Jones,NYJ,WR,6-3,230,0000-00-00,North Carolina,1
+1334,0,84,Louis,Mario,Mario Louis,HOU,WR,6-0,195,0000-00-00,Grambling State,1
+1335,0,0,Brock,Logan,Logan Brock,HOU,TE,6-3,244,0000-00-00,Texas Christian,1
+1336,0,0,Legree,David,David Legree,IND,QB,6-4,249,0000-00-00,Hampton,1
+1337,0,43,Meisner,Lee,Lee Meisner,ATL,RB,6-0,245,0000-00-00,Southern Colorado,1
+1338,0,88,Stafford,Kenny,Kenny Stafford,MIA,WR,6-4,204,0000-00-00,Toledo,1
+1339,0,49,White,Aron,Aron White,ATL,TE,6-4,239,0000-00-00,Georgia,1
+1340,0,0,McCarty,Princeton,Princeton McCarty,CAR,RB,5-7,197,0000-00-00,Idaho,1
+1341,0,38,Poole,Tauren,Tauren Poole,PIT,RB,5-10,210,0000-00-00,Tennessee,1
+1342,0,38,Rowells,Lyndon,Lyndon Rowells,CAR,RB,5-9,215,0000-00-00,Humboldt State,1
+1343,0,0,Green,Jared,Jared Green,OAK,WR,6-1,186,0000-00-00,Southern University,1
+1344,0,0,Kemp,Wes,Wes Kemp,CAR,WR,6-3,233,0000-00-00,Missouri,1
+1345,0,4,Wallace,Rico,Rico Wallace,CAR,WR,6-3,215,0000-00-00,Shenandoah (Va.),1
+1346,0,0,Givens,Chris,Chris Givens,NO,WR,6-2,203,0000-00-00,Miami (Ohio),1
+1347,0,15,Session,Derek,Derek Session,BUF,WR,6-1,225,0000-00-00,Maine,1
+1348,0,0,Melillo,Nick,Nick Melillo,NE,TE,6-2,226,0000-00-00,Kentucky,1
+1349,0,43,Lloyd,Tarren,Tarren Lloyd,NYJ,TE,6-7,258,0000-00-00,Utah State,1
+1350,0,13,Weaver,Aaron,Aaron Weaver,KC,WR,6-2,220,0000-00-00,Syracuse,1
+1351,0,10,Newhall-Caballero,Kyle,Kyle Newhall-Caballero,OAK,QB,6-3,220,0000-00-00,Brown,1
+1352,0,89,Crump,Gino,Gino Crump,ARI,WR,6-2,210,0000-00-00,Arizona,1
+1353,0,16,Anyiam,Hubert,Hubert Anyiam,CAR,WR,6-0,205,0000-00-00,Oklahoma State,1
+1354,0,80,Rosario,Nelson,Nelson Rosario,CAR,TE,6-5,225,0000-00-00,UCLA,1
+1355,0,0,Doyle,Patrick,Patrick Doyle,LAC,TE,6-4,245,0000-00-00,San Diego,1
+1356,0,87,Love,A.J.,A.J. Love,MIN,WR,6-2,208,0000-00-00,South Florida,1
+1357,0,17,Avila,Michael,Michael Avila,CAR,WR,5-8,165,0000-00-00,San Jose State,1
+1358,0,0,Bryant,Lamont,Lamont Bryant,TEN,WR,6-5,225,0000-00-00,Morgan State,1
+1359,0,16,Lewis,Armahd,Armahd Lewis,TB,WR,5-9,171,0000-00-00,Central Washington,1
+1360,0,13,Gilbert,Charles,Charles Gilbert,JAC,WR,5-11,167,0000-00-00,Concordia (Minn.),1
+1361,0,1,Folk,Erik,Erik Folk,ATL,K,5-11,185,0000-00-00,Washington,1
+1362,0,45,Boyce,Dorson,Dorson Boyce,WAS,RB,6-1,237,0000-00-00,Washington,1
+1363,0,35,Brown,Zach,Zach Brown,BUF,RB,5-10,220,0000-00-00,Pittsburgh,1
+1364,0,4,Collins,Joe,Joe Collins,NYJ,WR,6-3,200,0000-00-00,Weber State,1
+1365,0,35,Wesley,Ed,Ed Wesley,DAL,RB,5-9,200,0000-00-00,Texas Christian,1
+1366,0,10,Little,David,David Little,DAL,WR,6-2,187,0000-00-00,Midwestern State,1
+1367,0,86,Jones,Tiger,Tiger Jones,PHI,WR,5-11,191,0000-00-00,Louisville,1
+1368,0,86,Miller,Anthony,Anthony Miller,ATL,TE,6-4,260,0000-00-00,California,1
+1369,0,15,Muhammad,Dre,Dre Muhammad,OAK,WR,5-10,180,0000-00-00,Indiana,1
+1370,0,23,Bennett,Duane,Duane Bennett,GB,RB,5-9,213,0000-00-00,Minnesota,1
+1371,0,17,Brewer,Andy,Andy Brewer,GB,WR,6-3,215,0000-00-00,Northwestern,1
+1372,0,18,Clark,Marques,Marques Clark,NO,WR,6-1,175,0000-00-00,Henderson State,1
+1373,0,35,Demps,Jeff,Jeff Demps,IND,RB,5-7,191,0000-00-00,Florida,1
+1374,0,48,Brinkley,Beau,Beau Brinkley,TEN,TE,6-4,260,1990-01-25,Missouri,1
+1375,0,40,Smith,Drew,Drew Smith,BUF,RB,6-2,225,0000-00-00,Albany,1
+1376,0,0,Kaufman,Brandon,Brandon Kaufman,BUF,WR,6-5,215,0000-00-00,Eastern Washington,1
+1377,0,0,Norrell,Kevin,Kevin Norrell,BUF,WR,5-10,200,0000-00-00,Stony Brook,1
+1378,0,0,Rogers,Da'Rick,Da'Rick Rogers,KC,WR,6-3,215,0000-00-00,Tennessee Tech,1
+1379,0,48,Bryan,Rupert,Rupert Bryan,MIA,RB,6-1,248,0000-00-00,Florida International,1
+1380,0,41,Liaina,Ina,Ina Liaina,GB,RB,6-0,250,0000-00-00,San Jose State,1
+1381,0,15,Bumphis,Chad,Chad Bumphis,JAC,WR,5-10,202,0000-00-00,Mississippi State,1
+1382,0,13,Collins,Jasper,Jasper Collins,CIN,WR,5-11,188,0000-00-00,Mount Union,1
+1383,0,0,Stockemer,Taylor,Taylor Stockemer,MIA,WR,6-4,210,0000-00-00,Arkansas State,1
+1384,0,0,Hines,Quentin,Quentin Hines,NE,RB,5-11,190,0000-00-00,Akron,1
+1385,0,0,Shavers,Akeem,Akeem Shavers,NE,RB,5-11,203,0000-00-00,Purdue,1
+1386,0,39,Bartholomew,Ben,Ben Bartholomew,NE,RB,6-2,252,0000-00-00,Tennessee,1
+1387,0,22,Harrison,Mark,Mark Harrison,KC,WR,6-3,230,0000-00-00,Rutgers,1
+1388,0,87,Moe,T.J.,T.J. Moe,LAR,WR,5-11,204,0000-00-00,Missouri,1
+1389,0,49,Ford,Brandon,Brandon Ford,NE,TE,6-3,240,0000-00-00,Clemson,1
+1390,0,5,Ruffer,David,David Ruffer,NE,K,6-1,192,0000-00-00,Notre Dame,1
+1391,0,0,Davis,Marcus,Marcus Davis,NYJ,WR,6-4,228,0000-00-00,Virginia Tech,1
+1392,0,9,Rogers,Zach,Zach Rogers,NYJ,WR,6-0,172,0000-00-00,Tennessee,1
+1394,0,83,Stroud,K.J.,K.J. Stroud,NYJ,WR,6-3,205,0000-00-00,Bethune-Cookman,1
+1395,0,48,Shanahan,Mike,Mike Shanahan,NYJ,TE,6-4,241,0000-00-00,Pittsburgh,1
+1397,0,13,Williams,Dalton,Dalton Williams,DAL,QB,6-3,222,0000-00-00,Akron,1
+1398,0,28,Lawrence,Kendial,Kendial Lawrence,DAL,RB,5-9,193,0000-00-00,Missouri,1
+1399,0,10,Amos,Anthony,Anthony Amos,DAL,WR,5-11,178,0000-00-00,Middle Tennessee State,1
+1401,0,88,Freedman,Paul,Paul Freedman,DAL,TE,6-6,255,0000-00-00,Virginia,1
+1402,0,13,Benton,Spencer,Spencer Benton,DAL,K,6-1,187,0000-00-00,Clemson,1
+1403,0,29,Cox,Michael,Michael Cox,NYG,RB,6-1,222,0000-00-00,Massachusetts,1
+1404,0,37,Wright,Jeremy,Jeremy Wright,PIT,RB,5-11,205,0000-00-00,Louisville,1
+1405,0,0,Newton,Morgan,Morgan Newton,NYG,TE,6-4,240,0000-00-00,Kentucky,1
+1406,0,84,Murphy,Will,Will Murphy,PHI,WR,6-2,193,0000-00-00,Oregon,1
+1407,0,47,Shaw,Will,Will Shaw,PHI,TE,6-3,245,0000-00-00,Youngstown State,1
+1408,0,44,Jamison,Jawan,Jawan Jamison,PIT,RB,5-7,203,0000-00-00,Rutgers,1
+1409,0,11,Dawson,Skye,Skye Dawson,DET,WR,5-9,183,0000-00-00,Texas Christian,1
+1410,0,17,Reeves,Chip,Chip Reeves,WAS,WR,5-10,176,0000-00-00,Troy,1
+1411,0,86,Ogbuehi,Emmanuel,Emmanuel Ogbuehi,TB,RB,6-2,230,0000-00-00,Georgia State,1
+1413,0,8,Katz,Ryan,Ryan Katz,DEN,QB,6-1,217,0000-00-00,San Diego State,1
+1414,0,28,Ball,Montee,Montee Ball,DEN,RB,5-10,215,0000-00-00,Wisconsin,1
+1415,0,13,Bateman,Kemonte',Kemonte' Bateman,DEN,WR,6-1,185,0000-00-00,New Mexico State,1
+1412,1,3,Dysert,Zac,Zac Dysert,DAL,QB,6-3,225,1990-02-08,Miami (OH),3
+1396,1,5,Maher,Brett,Brett Maher,CLE,K,6'0',186,1989-11-21,Nebraska,5
+1393,1,18,Spadola,Ryan,Ryan Spadola,DET,WR,6'1',205,1991-02-15,Lehigh,7
+1416,1,14,McDuffie,Quincy,Quincy McDuffie,DAL,WR,5'10',179,1990-09-24,UCF,11
+1417,0,81,Thomas,Lamaar,Lamaar Thomas,JAC,WR,6-0,185,0000-00-00,New Mexico,1
+1418,0,97,Reed,Lucas,Lucas Reed,DEN,TE,6-6,242,0000-00-00,New Mexico,1
+1419,0,45,Roberts,Jordan,Jordan Roberts,KC,RB,5-10,222,0000-00-00,Charleston (WV),1
+1420,0,40,Wilson,Braden,Braden Wilson,KC,RB,6-4,256,0000-00-00,Kansas State,1
+1421,0,8,Wilson,Tyler,Tyler Wilson,TEN,QB,6-2,215,0000-00-00,Arkansas,1
+1422,0,30,Williams,Deonte,Deonte Williams,OAK,RB,5-10,213,0000-00-00,Cal Poly-S.L.O.,1
+1423,0,0,McGuffie,Sam,Sam McGuffie,NE,WR,5-10,200,0000-00-00,Rice,1
+1424,0,0,Vernon,Conner,Conner Vernon,CLE,WR,6-0,200,0000-00-00,Duke,1
+1425,0,60,Guess,Nick,Nick Guess,OAK,TE,6-2,250,0000-00-00,Tennessee,1
+1426,0,88,Kasa,Nick,Nick Kasa,OAK,TE,6-6,265,0000-00-00,Colorado,1
+1427,0,7,Hermann,Mike,Mike Hermann,LAC,QB,6-5,250,0000-00-00,RPI,1
+1428,0,2,Tasker,Luke,Luke Tasker,LAC,WR,5-11,191,0000-00-00,Cornell,1
+1429,0,87,Cotton,Ben,Ben Cotton,LAC,TE,6-6,256,0000-00-00,Nebraska,1
+1430,0,88,Rolf,David,David Rolf,LAC,TE,6-3,257,0000-00-00,Utah,1
+1431,0,6,TerBush,Caleb,Caleb TerBush,ARI,QB,6-5,225,0000-00-00,Purdue,1
+1432,0,81,Buckner,Dan,Dan Buckner,ARI,WR,6-4,215,0000-00-00,Arizona,1
+1433,0,10,Gill,Robert,Robert Gill,ARI,WR,5-10,180,0000-00-00,Texas State,1
+1434,0,18,Hawkins,Charles,Charles Hawkins,NO,WR,5-8,180,0000-00-00,Southern University,1
+1435,0,0,Lawson,Javone,Javone Lawson,ARI,WR,6-1,183,0000-00-00,Louisiana-Lafayette,1
+1436,0,1,Rios,Michael,Michael Rios,ARI,WR,6-2,203,0000-00-00,Marist,1
+1437,0,10,Shaw,Tyler,Tyler Shaw,PIT,WR,6-0,182,0000-00-00,Northwest Missouri State,1
+1438,0,19,Swope,Ryan,Ryan Swope,ARI,WR,6-0,204,0000-00-00,Texas A&M,1
+1439,0,89,Auffray,Kyle,Kyle Auffray,CLE,TE,6-6,254,0000-00-00,New Hampshire,1
+1440,0,80,Jefferson,D.C.,D.C. Jefferson,CAR,TE,6-6,265,0000-00-00,Rutgers,1
+1441,0,36,Harper,D.J.,D.J. Harper,SF,RB,5-9,211,0000-00-00,Boise State,1
+1442,0,38,Lattimore,Marcus,Marcus Lattimore,SF,RB,5-11,221,0000-00-00,South Carolina,1
+1443,0,0,Debniak,Alex,Alex Debniak,SF,RB,6-2,240,0000-00-00,Stanford,1
+1444,0,46,Tukuafu,Will,Will Tukuafu,SEA,RB,6-2,280,0000-00-00,Oregon,1
+1447,0,89,Schepler,Jason,Jason Schepler,TEN,TE,6-2,274,0000-00-00,Northern Illinois,1
+1449,0,2,Austin,Matt,Matt Austin,SEA,WR,6-2,202,0000-00-00,Utah State,1
+1450,0,19,Veltung,Justin,Justin Veltung,LAR,WR,5-11,182,0000-00-00,Idaho,1
+1451,0,87,Marshall,Victor,Victor Marshall,SEA,TE,6-4,225,0000-00-00,British Columbia (Canada),1
+1452,0,3,Jenkins,Tim,Tim Jenkins,LAR,QB,6-1,200,0000-00-00,Fort Lewis,1
+1453,0,30,Stacy,Zac,Zac Stacy,NYJ,RB,5-9,224,0000-00-00,Vanderbilt,1
+1454,0,47,Stevens,Eric,Eric Stevens,LAR,RB,5-11,240,0000-00-00,California,1
+1455,0,0,Akins,C.J.,C.J. Akins,LAR,WR,6-1,200,0000-00-00,Angelo State,1
+1456,0,12,Bailey,Stedman,Stedman Bailey,LAR,WR,5-10,194,0000-00-00,West Virginia,1
+1457,0,84,Helmick,Andrew,Andrew Helmick,LAR,WR,6-0,192,0000-00-00,Lindenwood,1
+1458,0,17,Pillar,Scott,Scott Pillar,LAR,WR,6-2,192,0000-00-00,Albright,1
+1459,0,43,Lutzenkirchen,Philip,Philip Lutzenkirchen,LAR,TE,6-3,258,0000-00-00,Auburn,1
+1460,0,5,Baer,Brett,Brett Baer,LAR,K,5-10,194,0000-00-00,Louisiana-Lafayette,1
+1461,0,0,Crist,Dayne,Dayne Crist,BAL,QB,6-4,235,0000-00-00,Kansas,1
+1462,0,18,Carter,Rashaad,Rashaad Carter,BAL,WR,6-3,205,0000-00-00,Tusculum,1
+1463,0,5,Hines,Omarius,Omarius Hines,GB,WR,6-2,217,0000-00-00,Florida,1
+1464,0,13,Mellette,Aaron,Aaron Mellette,BAL,WR,6-2,217,0000-00-00,Elon,1
+1465,0,9,Sheppard,Gerrard,Gerrard Sheppard,GB,WR,6-2,211,0000-00-00,Towson,1
+1466,0,85,Furstenburg,Matt,Matt Furstenburg,BAL,TE,6-3,244,0000-00-00,Maryland,1
+1467,0,48,Silvestro,Alex,Alex Silvestro,BAL,TE,6-3,260,0000-00-00,Rutgers,1
+1468,0,86,McCalebb,Onterio,Onterio McCalebb,CIN,WR,5-10,175,0000-00-00,Auburn,1
+1469,0,17,Goard,Tyrone,Tyrone Goard,CIN,WR,6-4,205,0000-00-00,Eastern Kentucky,1
+1470,0,86,Roundtree,Roy,Roy Roundtree,CIN,WR,6-1,180,0000-00-00,Michigan,1
+1471,0,85,Eifert,Tyler,Tyler Eifert,CIN,TE,6-6,255,1990-09-08,Notre Dame,1
+1472,0,30,Maysonet,Miguel,Miguel Maysonet,PIT,RB,5-10,210,0000-00-00,Stony Brook,1
+1473,0,6,Ashford,Perez,Perez Ashford,SEA,WR,5-11,182,0000-00-00,Northern Illinois,1
+1474,0,0,Croom,Dominique,Dominique Croom,ATL,WR,6-2,190,0000-00-00,Central Arkansas,1
+1475,0,3,Davis,Keenan,Keenan Davis,MIA,WR,6-3,215,0000-00-00,Iowa,1
+1476,0,86,Edwards,Mike,Mike Edwards,CLE,WR,5-11,200,0000-00-00,Texas-El Paso,1
+1477,0,14,Roberson,Cordell,Cordell Roberson,BUF,WR,6-4,205,0000-00-00,Stephen F. Austin St.,1
+1478,0,49,Tannahill,Travis,Travis Tannahill,CLE,TE,6-4,255,0000-00-00,Kansas State,1
+1479,0,8,Bogotay,Brandon,Brandon Bogotay,TB,K,6-3,207,0000-00-00,Georgia,1
+1480,0,39,McNeal,Curtis,Curtis McNeal,PIT,RB,5-7,190,0000-00-00,USC,1
+1481,0,0,Brown,Justin,Justin Brown,BUF,WR,6-3,209,0000-00-00,Oklahoma,1
+1482,0,17,Woods,J.D.,J.D. Woods,PIT,WR,6-0,203,0000-00-00,West Virginia,1
+1483,0,17,Fields,Demetrius,Demetrius Fields,LAR,WR,6-0,210,0000-00-00,Northwestern,1
+1445,1,86,Nelson,Kyle,Kyle Nelson,SF,TE,6-2,240,1986-10-03,New Mexico State,3
+1448,1,38,Michael,Christine,Christine Michael,IND,RB,5-10,220,1990-11-09,Texas A&M,10
+1484,0,18,Rucker,Marcus,Marcus Rucker,NYJ,WR,6-4,185,0000-00-00,Memphis,1
+1485,0,0,Miller,Gabe,Gabe Miller,WAS,TE,6-3,250,0000-00-00,Oregon State,1
+1486,0,2,Signor,Austin,Austin Signor,CHI,K,6-4,230,0000-00-00,Eastern Illinois,1
+1487,0,0,Carder,Alex,Alex Carder,DET,QB,6-2,215,0000-00-00,Western Michigan,1
+1488,0,40,Miller,Steven,Steven Miller,DET,RB,5-7,172,0000-00-00,Appalachian State,1
+1489,0,0,Wilson,Cody,Cody Wilson,DET,WR,5-9,191,0000-00-00,Central Michigan,1
+1491,0,0,Martin,Sam,Sam Martin,DET,K,6-1,205,0000-00-00,Appalachian State,1
+1492,0,3,Rugland,Havard,Havard Rugland,DET,K,6-2,240,0000-00-00,No College,1
+1493,0,1,Brown,Matt,Matt Brown,GB,QB,6-3,225,0000-00-00,Illinois State,1
+1494,0,23,Franklin,Johnathan,Johnathan Franklin,GB,RB,5-10,205,0000-00-00,UCLA,1
+1495,0,39,Pease,Angelo,Angelo Pease,GB,RB,5-10,211,0000-00-00,Kansas State,1
+1496,0,48,Amosa,Jonathan,Jonathan Amosa,GB,RB,5-11,247,0000-00-00,Washington,1
+1497,0,0,Cunningham,Sederrik,Sederrik Cunningham,GB,WR,5-11,188,0000-00-00,Furman,1
+1498,0,0,Dorsey,Kevin,Kevin Dorsey,NE,WR,6-1,207,0000-00-00,Maryland,1
+1499,0,1,Gillett,Alex,Alex Gillett,GB,WR,6-1,215,0000-00-00,Eastern Michigan,1
+1501,0,11,Walker,Tyrone,Tyrone Walker,MIN,WR,5-10,191,0000-00-00,Illinois State,1
+1502,1,85,Stoneburner,Jake,Jake Stoneburner,NO,TE,6-3,261,1989-08-25,Ohio State,1
+1503,0,6,Vandenberg,James,James Vandenberg,MIN,QB,6-3,220,0000-00-00,Iowa,1
+1504,0,0,Randle,Bradley,Bradley Randle,MIN,RB,5-7,193,0000-00-00,Nevada-Las Vegas,1
+1505,0,33,Williams,Jerodis,Jerodis Williams,DEN,RB,5-10,203,0000-00-00,Furman,1
+1506,0,8,Highsmith,Erik,Erik Highsmith,MIN,WR,6-1,190,0000-00-00,North Carolina,1
+1507,0,89,Anderson,Colin,Colin Anderson,NYJ,TE,6-4,240,0000-00-00,Furman,1
+1508,0,37,Graham,Ray,Ray Graham,HOU,RB,5-9,193,0000-00-00,Pittsburgh,1
+1509,0,28,Johnson,Dennis,Dennis Johnson,HOU,RB,5-7,193,0000-00-00,Arkansas,1
+1510,0,8,Cruse,Andy,Andy Cruse,MIN,WR,6-3,216,0000-00-00,Miami (Ohio),1
+1511,0,15,Lemon,Alec,Alec Lemon,HOU,WR,6-2,207,0000-00-00,Syracuse,1
+1512,0,86,Smith,Michael,Michael Smith,HOU,WR,6-0,201,0000-00-00,Connecticut,1
+1513,0,48,Moore,Dan,Dan Moore,IND,RB,5-11,240,0000-00-00,Montana,1
+1514,0,25,O'Bryant,Denodus,Denodus O'Bryant,IND,RB,5-9,194,0000-00-00,Lindenwood,1
+1515,0,11,Rumble,Rodrick,Rodrick Rumble,IND,WR,6-2,207,0000-00-00,Idaho State,1
+1516,0,17,Sampson,Lanear,Lanear Sampson,PIT,WR,5-11,205,0000-00-00,Baylor,1
+1517,0,0,Rodgers,Jordan,Jordan Rodgers,TB,QB,6-1,212,0000-00-00,Vanderbilt,1
+1518,0,8,Scott,Matt,Matt Scott,CIN,QB,6-2,210,0000-00-00,Arizona,1
+1519,0,39,Eskridge,De'Leon,De'Leon Eskridge,JAC,RB,5-11,215,0000-00-00,San Jose State,1
+1520,0,45,Pryor,Lonnie,Lonnie Pryor,TB,RB,6-0,224,0000-00-00,Florida State,1
+1521,0,81,Miles,Jamal,Jamal Miles,JAC,WR,5-9,188,0000-00-00,Arizona State,1
+1522,0,87,Palmer,Tobais,Tobais Palmer,PIT,WR,5-11,178,0000-00-00,NC State,1
+1523,0,18,Sanders,Ace,Ace Sanders,JAC,WR,5-7,178,0000-00-00,South Carolina,1
+1524,0,89,Otten,Ryan,Ryan Otten,MIN,TE,6-6,241,0000-00-00,San Jose State,1
+1525,0,49,Reed,Kyler,Kyler Reed,JAC,TE,6-3,225,0000-00-00,Nebraska,1
+1526,0,5,Watkins,Dontel,Dontel Watkins,TEN,WR,6-2,194,0000-00-00,Murray State,1
+1527,0,3,Bonani,Maikon,Maikon Bonani,TEN,K,5-10,183,0000-00-00,South Florida,1
+1528,0,9,Doege,Seth,Seth Doege,ATL,QB,6-1,197,0000-00-00,Texas Tech,1
+1529,0,33,Russell,Donald,Donald Russell,ATL,RB,5-11,212,0000-00-00,Georgia State,1
+1530,0,0,Wingo Jr.,Ronnie,Ronnie Wingo Jr.,ATL,RB,6-3,231,0000-00-00,Arkansas,1
+1531,0,43,Campbell,Devonte,Devonte Campbell,ATL,RB,6-2,255,0000-00-00,Maryland,1
+1532,0,42,Goggins,Deon,Deon Goggins,ATL,RB,6-1,272,0000-00-00,Syracuse,1
+1533,0,89,Evans,Rashad,Rashad Evans,ATL,WR,5-9,187,0000-00-00,Fresno State,1
+1534,0,13,Johnson,Darius,Darius Johnson,ATL,WR,5-10,175,0000-00-00,Southern Methodist,1
+1535,0,14,Moore,Martel,Martel Moore,ATL,WR,6-0,183,0000-00-00,Northern Illinois,1
+1536,0,1,Shelley,Jeremy,Jeremy Shelley,ATL,K,5-10,165,0000-00-00,Alabama,1
+1537,0,16,Cameron,Colby,Colby Cameron,CAR,QB,6-2,210,0000-00-00,Louisiana Tech,1
+1538,0,39,Zordich,Michael,Michael Zordich,CAR,RB,6-1,245,0000-00-00,Penn State,1
+1539,0,83,Ikharo,Taulib,Taulib Ikharo,CAR,WR,5-10,190,0000-00-00,Louisiana Tech,1
+1540,0,10,Shaw,James,James Shaw,PIT,WR,5-11,185,0000-00-00,Jacksonville State,1
+1541,0,17,Webb,R.J.,R.J. Webb,CAR,WR,6-2,205,0000-00-00,Furman,1
+1542,0,5,Lineberry,Morgan,Morgan Lineberry,CAR,K,6-1,200,0000-00-00,Abilene Christian,1
+1543,0,86,Leonard,Brent,Brent Leonard,NO,WR,6-2,186,0000-00-00,Louisiana-Monroe,1
+1544,0,2,Carlos Maltos,Jose,Jose Carlos Maltos,NO,K,5-9,201,0000-00-00,Unknown,1
+1545,0,15,Boyd,Jheranie,Jheranie Boyd,CIN,WR,6-2,190,0000-00-00,North Carolina,1
+1546,0,14,Johnson,Jerry,Jerry Johnson,TB,WR,6-3,211,0000-00-00,UCLA,1
+1547,0,49,Landi,Evan,Evan Landi,NE,TE,6-3,236,0000-00-00,South Florida,1
+1548,0,0,Gardner,Courtney,Courtney Gardner,MIA,WR,6-3,215,0000-00-00,Sierra Coll. CA (J.C.),1
+1549,0,2,Carlos,Keith,Keith Carlos,NYG,WR,6-0,199,0000-00-00,Purdue,1
+1550,0,47,Clement,Chase,Chase Clement,NYG,TE,6-5,265,0000-00-00,LSU,1
+1490,1,85,Williams,Michael,Michael Williams,NE,TE,6-6,304,1990-09-08,Alabama,8
+1551,0,45,Opurum,Toben,Toben Opurum,NO,RB,6-1,250,0000-00-00,Kansas,1
+1552,0,14,Clark,Arceto,Arceto Clark,SEA,WR,5-10,180,0000-00-00,Mississippi State,1
+1553,0,0,Herd,Greg,Greg Herd,CHI,WR,6-3,202,0000-00-00,Eastern Washington,1
+1554,0,86,Prince,Colby,Colby Prince,LAR,TE,6-5,257,0000-00-00,Oregon State,1
+1555,0,47,Tuitupou,Peter,Peter Tuitupou,PIT,TE,6-4,246,0000-00-00,San Jose State,1
+1556,0,33,Brown,Matt,Matt Brown,TB,RB,5-5,165,0000-00-00,Temple,1
+1557,0,84,Sims,Quentin,Quentin Sims,NE,WR,6-3,202,0000-00-00,Tennessee-Martin,1
+1558,0,1,Toma,Robby,Robby Toma,ARI,WR,5-9,185,0000-00-00,Notre Dame,1
+1559,0,15,Smith,Andrell,Andrell Smith,MIA,WR,6-3,217,0000-00-00,Louisville,1
+1560,0,83,Ball,David,David Ball,PHI,WR,6-1,200,0000-00-00,New Hampshire,1
+1561,0,19,Edwards,Nicholas,Nicholas Edwards,ARI,WR,6-3,200,0000-00-00,Eastern Washington,1
+1562,0,38,Lintz,Andrei,Andrei Lintz,SEA,TE,6-5,250,0000-00-00,Washington State,1
+1563,0,0,Rabe,John,John Rabe,PIT,TE,6-4,258,0000-00-00,Minnesota,1
+1564,0,6,Yates,Adam,Adam Yates,JAC,K,6-1,195,0000-00-00,South Carolina,1
+1565,0,17,Sales,Marcus,Marcus Sales,ATL,WR,6-0,195,0000-00-00,Syracuse,1
+1566,0,87,Provo,Nick,Nick Provo,BUF,TE,6-4,249,0000-00-00,Syracuse,1
+1567,0,7,Wilson,Justin,Justin Wilson,GB,WR,6-1,175,0000-00-00,Delaware State,1
+1568,0,16,Denton,Chris,Chris Denton,TB,WR,5-11,195,0000-00-00,Mount Union,1
+1569,0,13,Vaughn,Rahsaan,Rahsaan Vaughn,OAK,WR,6-1,190,0000-00-00,Oregon,1
+1570,0,48,Davis,Bryce,Bryce Davis,CIN,TE,6-3,245,0000-00-00,Central Oklahoma,1
+1571,0,3,Sharp,Quinn,Quinn Sharp,CIN,K,6-1,205,0000-00-00,Oklahoma State,1
+1572,0,0,Cook,Jamaine,Jamaine Cook,CLE,RB,5-9,215,0000-00-00,Youngstown State,1
+1573,0,11,Williams,Maurice,Maurice Williams,IND,WR,6-1,190,0000-00-00,Pittsburgh,1
+1574,0,86,Holley,Caleb,Caleb Holley,BUF,WR,6-2,200,0000-00-00,East Central,1
+1575,0,6,Jensen,Brock,Brock Jensen,MIA,QB,6-3,225,0000-00-00,North Dakota State,1
+1576,0,0,Wooten,Rantavious,Rantavious Wooten,MIA,WR,5-9,185,0000-00-00,Georgia,1
+1577,0,89,Hoskins,Harold,Harold Hoskins,MIA,TE,6-2,248,0000-00-00,Marshall,1
+1578,0,29,Finch,Roy,Roy Finch,NE,RB,5-7,180,0000-00-00,Oklahoma,1
+1580,0,83,Gallon,Jeremy,Jeremy Gallon,OAK,WR,5-8,185,0000-00-00,Michigan,1
+1581,0,88,Jones,Justin,Justin Jones,NE,TE,6-8,275,0000-00-00,East Carolina,1
+1582,0,86,Watson,Asa,Asa Watson,NE,TE,6-3,240,0000-00-00,North Carolina State,1
+1583,0,47,Young,Chad,Chad Young,NYJ,RB,5-10,240,0000-00-00,San Diego State,1
+1585,0,0,Miller,Terrence,Terrence Miller,NYJ,WR,6-4,234,0000-00-00,Arizona,1
+1586,0,33,Malena,Ben,Ben Malena,DAL,RB,5-8,200,0000-00-00,Texas A&M,1
+1587,0,0,Copeland,J.C.,J.C. Copeland,DAL,RB,5-11,260,0000-00-00,null,1
+1588,0,0,Boyd,Chris,Chris Boyd,DAL,WR,6-4,210,0000-00-00,Vanderbilt,1
+1589,0,87,Najvar,Jordan,Jordan Najvar,DAL,TE,6-6,260,0000-00-00,Baylor,1
+1590,0,0,Wilson,Evan,Evan Wilson,DAL,TE,6-6,250,0000-00-00,Illinois,1
+1591,0,13,Beckham Jr.,Odell,Odell Beckham Jr.,NYG,WR,5-11,198,1992-11-05,LSU,1
+1592,0,33,Josey,Henry,Henry Josey,MIN,RB,5-10,190,0000-00-00,Missouri,1
+1594,0,4,Spear,Carey,Carey Spear,CLE,K,5-10,190,0000-00-00,Vanderbilt,1
+1595,0,32,Redd,Silas,Silas Redd,WAS,RB,5-10,200,0000-00-00,USC,1
+1596,0,18,Doss,Lee,Lee Doss,WAS,WR,6-1,178,0000-00-00,Southern University,1
+1597,0,87,Hoffman,Cody,Cody Hoffman,WAS,WR,6-4,210,0000-00-00,Brigham Young,1
+1598,0,0,Hughes,Kofi,Kofi Hughes,HOU,WR,6-2,215,0000-00-00,Indiana,1
+1599,0,0,Bolser,Ted,Ted Bolser,ARI,TE,6-5,249,0000-00-00,Indiana,1
+1600,0,34,Clay,Brennan,Brennan Clay,DEN,RB,5-11,201,0000-00-00,Oklahoma,1
+1601,0,87,Hardin,Greg,Greg Hardin,DEN,WR,5-10,171,0000-00-00,North Dakota,1
+1602,0,15,Wilson,Greg,Greg Wilson,DEN,WR,6-0,185,0000-00-00,Fordham,1
+1603,0,0,Baker,James,James Baker,KC,RB,6-2,228,0000-00-00,Idaho,1
+1604,0,13,Dressler,Weston,Weston Dressler,KC,WR,5-7,179,0000-00-00,North Dakota,1
+1605,0,14,Surgent,Darryl,Darryl Surgent,KC,WR,6-0,195,0000-00-00,Louisiana-Lafayette,1
+1606,0,83,Williams,Fred,Fred Williams,KC,WR,6-0,190,0000-00-00,St. Cloud State,1
+1607,0,40,Williams,Karl,Karl Williams,OAK,RB,6-0,244,0000-00-00,Utah,1
+1608,0,19,Davis,Mike,Mike Davis,OAK,WR,6-0,189,0000-00-00,Texas,1
+1609,0,0,Grigsby,Noel,Noel Grigsby,OAK,WR,5-10,185,0000-00-00,San Jose State,1
+1610,0,0,Adams,D.J.,D.J. Adams,LAC,RB,5-10,210,0000-00-00,Portland State,1
+1611,0,19,Chancellor,Brelan,Brelan Chancellor,PIT,WR,5-8,188,0000-00-00,North Texas,1
+1612,0,7,Hatfield,Micah,Micah Hatfield,LAC,WR,6-1,182,0000-00-00,Oregon State,1
+1613,0,46,Flacco,Mike,Mike Flacco,LAC,TE,6-5,251,0000-00-00,New Haven,1
+1614,0,35,Bauman,Zach,Zach Bauman,ARI,RB,5-10,200,0000-00-00,Northern Arizona,1
+1615,0,32,Cornett,Tim,Tim Cornett,HOU,RB,6-0,210,0000-00-00,Nevada-Las Vegas,1
+1616,0,0,Pope,Kelsey,Kelsey Pope,ARI,WR,6-0,202,0000-00-00,Samford,1
+1617,0,0,Faulkner,Kory,Kory Faulkner,SF,QB,6-4,227,0000-00-00,Southern Illinois,1
+1618,0,40,Millard,Trey,Trey Millard,KC,RB,6-2,247,0000-00-00,Oklahoma,1
+1593,1,86,Annen,Blake,Blake Annen,BUF,TE,6'4',247,1991-05-28,Cincinnati,6
+1584,1,85,Evans,Shaquelle,Shaquelle Evans,DAL,WR,6-1,210,0000-00-00,UCLA,8
+1620,0,0,Price,Keith,Keith Price,SEA,QB,6-1,204,0000-00-00,Washington,1
+1621,0,35,Small,Kiero,Kiero Small,BAL,RB,5-9,242,0000-00-00,Arkansas,1
+1622,0,27,Mason,Tre,Tre Mason,LAR,RB,5-8,207,0000-00-00,Auburn,1
+1623,0,42,Watts,Trey,Trey Watts,LAR,RB,5-9,208,0000-00-00,Tulsa,1
+1624,0,45,Jones,Kadeem,Kadeem Jones,LAR,RB,5-10,266,0000-00-00,Western Kentucky,1
+1625,0,15,Franklin,Austin,Austin Franklin,LAR,WR,5-11,189,0000-00-00,New Mexico State,1
+1626,0,10,Harris,Jordan,Jordan Harris,LAR,WR,6-2,215,0000-00-00,Bryant University,1
+1627,0,0,Sherman,Jamaine,Jamaine Sherman,LAR,WR,6-2,188,0000-00-00,East Texas Baptist,1
+1629,0,0,Scott,Jeff,Jeff Scott,CIN,RB,5-7,162,0000-00-00,Mississippi,1
+1630,0,32,Wilder Jr.,James,James Wilder Jr.,BUF,RB,6-3,232,0000-00-00,Florida State,1
+1631,0,0,Neutz,Alex,Alex Neutz,CIN,WR,6-3,205,0000-00-00,Buffalo,1
+1633,0,85,Jones,Chandler,Chandler Jones,TB,WR,5-9,185,0000-00-00,San Jose State,1
+1634,0,4,Shaw,Kenny,Kenny Shaw,JAC,WR,5-11,180,0000-00-00,Florida State,1
+1635,0,0,Oboh,James,James Oboh,CLE,TE,6-4,250,0000-00-00,Towson,1
+1636,0,8,Kay,Brendon,Brendon Kay,PIT,QB,6-4,228,0000-00-00,Cincinnati,1
+1637,0,0,Archer,Dri,Dri Archer,BUF,RB,5-8,173,0000-00-00,Kent State,1
+1638,0,87,Blanchflower,Rob,Rob Blanchflower,PIT,TE,6-4,256,0000-00-00,Massachusetts,1
+1639,0,80,Waters,Eric,Eric Waters,PIT,TE,6-5,245,0000-00-00,Missouri,1
+1640,0,36,Lynch,Jordan,Jordan Lynch,CHI,RB,6-0,220,0000-00-00,Northern Illinois,1
+1641,0,14,Franklin,James,James Franklin,DET,QB,6-2,230,0000-00-00,Missouri,1
+1642,0,44,Abram,Chad,Chad Abram,DET,RB,6-0,229,0000-00-00,Florida State,1
+1643,0,0,Isles,Carlin,Carlin Isles,DET,RB,5-8,158,0000-00-00,Ashland,1
+1644,0,82,Thompson,Jordan,Jordan Thompson,DET,TE,6-4,257,0000-00-00,Ohio,1
+1645,0,3,Freese,Nate,Nate Freese,DET,K,5-11,192,0000-00-00,Boston College,1
+1647,0,36,Perkins,LaDarius,LaDarius Perkins,GB,RB,5-7,195,0000-00-00,Mississippi State,1
+1648,0,0,Smith,Orwin,Orwin Smith,GB,RB,6-0,205,0000-00-00,Georgia Tech,1
+1649,0,46,Lyerla,Colt,Colt Lyerla,GB,TE,6-4,247,0000-00-00,Oregon,1
+1651,0,0,Leonard,A.C.,A.C. Leonard,MIN,TE,6-2,250,0000-00-00,Tennessee State,1
+1652,0,12,Bester,Lacoltan,Lacoltan Bester,HOU,WR,6-3,208,0000-00-00,Oklahoma,1
+1653,0,18,McClung,Anthony,Anthony McClung,HOU,WR,6-0,177,0000-00-00,Cincinnati,1
+1654,0,0,Coyle,Chris,Chris Coyle,HOU,TE,6-4,243,0000-00-00,Arizona State,1
+1655,0,43,White,Cameron,Cameron White,IND,RB,6-2,251,0000-00-00,Hillsdale,1
+1656,0,81,Thomas,Eric,Eric Thomas,IND,WR,6-1,225,0000-00-00,Troy,1
+1657,0,0,Blankenship,Beau,Beau Blankenship,JAC,RB,5-9,206,0000-00-00,Ohio U.,1
+1658,0,99,Cobb,Terrance,Terrance Cobb,OAK,RB,5-11,220,0000-00-00,Cumberland College,1
+1659,0,0,Copeland,Damian,Damian Copeland,DET,WR,6-1,182,0000-00-00,Louisville,1
+1660,0,0,Jordan,Reggie,Reggie Jordan,JAC,TE,6-3,240,0000-00-00,Missouri Western State,1
+1661,1,18,Mettenberger,Zach,Zach Mettenberger,PIT,QB,6'5',224,1991-07-16,LSU,1
+1662,0,45,James,Waymon,Waymon James,TEN,RB,5-8,203,0000-00-00,Texas Christian,1
+1663,0,18,Horton,Julian,Julian Horton,TEN,WR,6-1,205,0000-00-00,Arkansas,1
+1664,0,16,Reynolds,Jaz,Jaz Reynolds,TEN,WR,6-2,201,0000-00-00,Oklahoma,1
+1665,0,0,Ward,Eric,Eric Ward,CIN,WR,5-11,203,0000-00-00,Texas Tech,1
+1666,0,0,Wright,David,David Wright,TEN,TE,6-4,251,0000-00-00,Westminster (PA),1
+1667,0,9,Matthews,Jeff,Jeff Matthews,ATL,QB,6-4,229,0000-00-00,Cornell,1
+1668,0,45,Hagens,Maurice,Maurice Hagens,ATL,RB,5-11,250,0000-00-00,Miami (Fla.),1
+1669,0,15,Boldewijn,Geraldo,Geraldo Boldewijn,ATL,WR,6-4,220,0000-00-00,Boise State,1
+1670,0,16,Jones,Julian,Julian Jones,ATL,WR,6-0,202,0000-00-00,Arkansas State,1
+1671,0,87,Thompson,Tramaine,Tramaine Thompson,ATL,WR,5-8,167,0000-00-00,Kansas State,1
+1672,0,81,Pedersen,Jacob,Jacob Pedersen,ATL,TE,6-5,240,0000-00-00,Wisconsin,1
+1673,0,49,Wozniak,Brian,Brian Wozniak,ATL,TE,6-4,255,0000-00-00,Wisconsin,1
+1675,0,5,Kilgore,Logan,Logan Kilgore,NO,QB,6-3,206,0000-00-00,Middle Tennessee State,1
+1676,1,85,Hamm,Je'Ron,Je'Ron Hamm,SF,TE,6'3',236,1992-06-15,Louisiana Monroe,1
+1677,0,19,Hull,Steve,Steve Hull,NO,WR,6-2,200,0000-00-00,Illinois,1
+1678,0,0,Bigelow,Brendan,Brendan Bigelow,TB,RB,5-10,180,0000-00-00,California,1
+1679,0,0,Burks,Aaron,Aaron Burks,TB,WR,6-3,205,0000-00-00,Boise State,1
+1680,0,86,Payton,Quintin,Quintin Payton,DET,WR,6-4,212,0000-00-00,North Carolina State,1
+1681,0,49,Thompson,Ian,Ian Thompson,TB,TE,6-4,234,0000-00-00,Louisiana-Lafayette,1
+1682,0,0,Ford,Gerald,Gerald Ford,MIA,WR,6-3,220,0000-00-00,Valdosta State,1
+1683,0,0,Johnson,Jeremy,Jeremy Johnson,NE,WR,6-0,179,0000-00-00,Southern Methodist,1
+1684,0,81,Van Hooser,Wilson,Wilson Van Hooser,NE,WR,6-0,195,0000-00-00,Troy,1
+1685,0,15,Wiggins,Reese,Reese Wiggins,NE,WR,5-11,193,0000-00-00,East Carolina,1
+1674,1,31,Reaves,Darrin,Darrin Reaves,KC,RB,5-10,215,1993-04-17,UAB,6
+1650,1,87,Perillo,Justin,Justin Perillo,CHI,TE,6'3',250,1991-01-05,Maine,7
+1646,1,43,Neal,Rajion,Rajion Neal,CLE,RB,5-11,220,0000-00-00,Tennessee,10
+1628,1,80,Gillmore,Crockett,Crockett Gillmore,BAL,TE,6-6,266,1991-11-16,Colorado State,10
+1632,1,13,Wright,James,James Wright,CLE,WR,6'0',203,1991-12-31,LSU,11
+1686,0,8,Furney,Andrew,Andrew Furney,NYJ,K,5-10,210,0000-00-00,Washington State,1
+1687,0,6,Rice Jr.,Jerry,Jerry Rice Jr.,WAS,WR,5-11,185,0000-00-00,Nevada-Las Vegas,1
+1688,0,4,Anthony,Deon,Deon Anthony,KC,WR,6-0,214,0000-00-00,Troy,1
+1689,0,0,Palardy,Michael,Michael Palardy,CAR,K,5'11',200,1992-07-06,Tennessee,1
+1690,0,42,Thigpen,Damien,Damien Thigpen,ARI,RB,5-8,180,0000-00-00,UCLA,1
+1691,0,16,Ozier,Kevin,Kevin Ozier,ARI,WR,6-2,200,0000-00-00,Arizona State,1
+1692,0,85,Greene,Kevin,Kevin Greene,TEN,TE,6-4,255,0000-00-00,USC,1
+1693,0,0,Spencer,Diontae,Diontae Spencer,LAR,WR,5-9,161,0000-00-00,McNeese State,1
+1694,0,49,Hall,Jordan,Jordan Hall,PIT,RB,5-9,191,0000-00-00,Ohio State,1
+1695,0,0,Moore,Greg,Greg Moore,IND,WR,6-4,197,0000-00-00,Lane,1
+1696,0,9,Slaughter,Nathan,Nathan Slaughter,ARI,WR,5-10,185,0000-00-00,West Texas A&M,1
+1697,0,0,Redfern,Kasey,Kasey Redfern,JAC,K,6-2,215,0000-00-00,Wofford,1
+1698,0,0,Castillo,Sergio,Sergio Castillo,ATL,K,5-11,195,0000-00-00,West Texas A&M,1
+1699,0,48,Strozier,Derrick,Derrick Strozier,NO,RB,5-8,181,0000-00-00,Tulane,1
+1700,0,0,McDonald,Tyler,Tyler McDonald,MIA,WR,6-3,190,0000-00-00,South Carolina,1
+1701,0,45,Campbell,Stephen,Stephen Campbell,WAS,RB,6-1,245,0000-00-00,West Virginia Wesleyan,1
+1702,0,8,Ewald,Mitch,Mitch Ewald,DEN,K,5-10,176,0000-00-00,--,1
+1703,0,38,Campbell,Jordan,Jordan Campbell,KC,RB,5-11,240,0000-00-00,New Mexico Highlands,1
+1704,0,6,Goessling,Kevin,Kevin Goessling,OAK,K,6-0,210,0000-00-00,--,1
+1705,1,28,Winston,Glenn,Glenn Winston,CLE,RB,6-2,220,0000-00-00,Northwood (MI),1
+1706,0,87,Presley,Morrell,Morrell Presley,SEA,WR,6-4,225,0000-00-00,--,1
+1707,0,86,Brodine,Mason,Mason Brodine,NE,TE,6-7,284,0000-00-00,Nebraska-Kearney,1
+1708,0,10,Smith,Tim,Tim Smith,CLE,WR,6-0,195,0000-00-00,--,1
+1709,0,1,D. Harris,Josh,Josh D. Harris,PIT,RB,5-11,210,0000-00-00,Wake Forest,1
+1710,0,47,Owusu-Ansah,Akwasi,Akwasi Owusu-Ansah,DET,WR,6-0,210,0000-00-00,Indiana (PA),1
+1711,0,0,Harvey,Mario,Mario Harvey,NYJ,RB,6-0,264,0000-00-00,Marshall,1
+1712,0,41,Knox,Corey,Corey Knox,BUF,RB,6-3,212,0000-00-00,Buffalo,1
+1713,0,17,Bell,Braylon,Braylon Bell,WAS,WR,6-6,205,0000-00-00,--,1
+1714,0,0,Zimmer,Mike,Mike Zimmer,SEA,RB,6-2,239,0000-00-00,Illinois State,1
+1715,0,0,McNeil,Doug,Doug McNeil,SEA,WR,6-3,200,0000-00-00,Bowie State,1
+1716,0,0,Sloat,Taylor,Taylor Sloat,TB,TE,6-4,245,0000-00-00,UC Davis,1
+1717,0,29,Williams,Karlos,Karlos Williams,BUF,RB,6-1,230,0000-00-00,Florida State,1
+1718,0,14,Lippett,Tony,Tony Lippett,MIA,WR,6-2,200,0000-00-00,Michigan State,1
+1720,0,28,Jarrett,Kyshoen,Kyshoen Jarrett,WAS,RB,5-10,200,0000-00-00,Virginia Tech,1
+1721,0,42,Don Duncan,Joe,Joe Don Duncan,DEN,RB,6-4,270,0000-00-00,Dixie State,1
+1722,0,84,Debose,Andre,Andre Debose,OAK,WR,6-0,190,0000-00-00,Florida,1
+1723,0,38,Hayne,Jarryd,Jarryd Hayne,SF,RB,6-2,220,0000-00-00,null,1
+1724,0,92,Pinion,Bradley,Bradley Pinion,SF,K,6-5,229,0000-00-00,Clemson,1
+1725,0,21,Sasser,Bud,Bud Sasser,LAR,WR,6-2,210,0000-00-00,Missouri,1
+1726,1,84,Waller,Darren,Darren Waller,BAL,TE,6'6',255,1992-09-13,Georgia Tech,1
+1729,1,12,Mumphery,Keith,Keith Mumphery,HOU,WR,6'0',210,1992-06-05,Michigan State,1
+1730,1,43,Cobb,David,David Cobb,CHI,RB,5'11',229,1993-06-03,Minnesota,1
+1732,0,47,Iosefa,Joey,Joey Iosefa,NE,RB,6-0,245,0000-00-00,Hawaii,1
+1733,0,88,Burton,Clay,Clay Burton,BUF,TE,6-4,258,0000-00-00,Florida,1
+1734,0,4,King,Nigel,Nigel King,SF,WR,6-3,210,0000-00-00,Kansas,1
+1736,0,86,Greenberry,Deontay,Deontay Greenberry,SEA,WR,6-2,210,0000-00-00,Houston,1
+1737,0,12,Halliday,Connor,Connor Halliday,WAS,QB,6-3,196,0000-00-00,--,1
+1738,0,13,Jones,Tony,Tony Jones,WAS,WR,5-11,201,0000-00-00,Northwestern,1
+1739,0,85,Rutenbeck,Tyler,Tyler Rutenbeck,WAS,WR,6-2,186,0000-00-00,Dubuque,1
+1740,0,89,Mahina,Devin,Devin Mahina,WAS,TE,6-6,250,0000-00-00,BYU,1
+1741,0,1,Long,Ty,Ty Long,PIT,K,6-2,205,0000-00-00,UAB,1
+1743,0,16,Shipley,Jaxon,Jaxon Shipley,ARI,WR,6-0,190,0000-00-00,Texas,1
+1744,0,0,Thompson,Dylan,Dylan Thompson,LAR,QB,6-3,218,0000-00-00,South Carolina,1
+1745,0,0,Davis,Darius,Darius Davis,SF,WR,5-11,212,0000-00-00,--,1
+1746,0,18,White,DeAndrew,DeAndrew White,NE,WR,6-0,192,0000-00-00,Alabama,1
+1747,0,0,Lovelocke,Jerry,Jerry Lovelocke,BAL,QB,6-4,248,0000-00-00,Prairie View A&M,1
+1748,0,81,Worthy,Cam,Cam Worthy,BAL,WR,6-2,211,0000-00-00,East Carolina,1
+1749,0,35,Weisman,Mark,Mark Weisman,CIN,RB,5-11,242,0000-00-00,Iowa,1
+1751,0,18,Norwood,Levi,Levi Norwood,PIT,WR,6-0,197,0000-00-00,Baylor,1
+1753,0,85,Detmer,Jeremiah,Jeremiah Detmer,CHI,K,5-8,180,0000-00-00,--,1
+1728,1,49,Backman,Kennard,Kennard Backman,DET,TE,6'3',245,1993-02-26,UAB,3
+1731,1,18,Green-Beckham,Dorial,Dorial Green-Beckham,PHI,WR,6-5,237,1993-04-12,Oklahoma,4
+1735,1,19,Goodley,Antwan,Antwan Goodley,GB,WR,5'10',212,1991-09-06,Baylor,6
+1727,1,47,Johnson,Malcolm,Malcolm Johnson,SEA,RB,6-1,231,1992-08-11,Mississippi State,9
+1752,1,85,Vogler,Brian,Brian Vogler,ATL,TE,6'7',262,1992-03-07,Alabama,9
+1719,1,19,Smith,Devin,Devin Smith,NYJ,WR,6-1,199,1992-03-03,Ohio State,10
+1742,1,47,Lasike,Paul,Paul Lasike,CHI,RB,5'11',258,1990-06-18,BYU,11
+1754,0,7,Boone,Anthony,Anthony Boone,DET,QB,6-0,231,0000-00-00,--,1
+1755,0,99,Williams,Rasheed,Rasheed Williams,DET,RB,6-1,215,0000-00-00,--,1
+1756,0,83,Johnson,Vernon,Vernon Johnson,DET,WR,6-0,196,0000-00-00,Texas A&M-Commerce,1
+1757,0,0,Pierce,Casey,Casey Pierce,GB,TE,6-3,244,0000-00-00,Kent State,1
+1758,0,46,Harris,Alonzo,Alonzo Harris,GB,RB,6-1,237,0000-00-00,Louisiana Lafayette,1
+1759,0,13,Collins,Ricky,Ricky Collins,GB,WR,6-0,198,0000-00-00,Texas A&M,1
+1760,0,1,Coxson,Adrian,Adrian Coxson,GB,WR,6-1,209,0000-00-00,Stony Brook,1
+1761,0,82,Hunt,Jimmie,Jimmie Hunt,GB,WR,6-0,208,0000-00-00,Missouri,1
+1762,0,80,McFarland,Mike,Mike McFarland,IND,TE,6-5,252,0000-00-00,South Florida,1
+1763,0,38,Varga,Tyler,Tyler Varga,IND,RB,5-10,225,0000-00-00,Yale,1
+1764,0,3,Ruffin,Ezell,Ezell Ruffin,IND,WR,6-0,218,0000-00-00,San Diego State,1
+1765,0,87,Sifrin,Jean,Jean Sifrin,IND,TE,6-5,245,0000-00-00,--,1
+1766,0,44,Sinz,Justin,Justin Sinz,IND,TE,6-4,249,0000-00-00,Purdue,1
+1767,0,87,Gardner,Beau,Beau Gardner,ATL,TE,6-4,240,0000-00-00,Northern Arizona,1
+1768,0,82,Davis,Andre,Andre Davis,BUF,WR,6-1,211,0000-00-00,South Florida,1
+1769,0,1,Jones,Christion,Christion Jones,MIA,WR,5-11,190,0000-00-00,Alabama,1
+1770,0,0,Gardner,Devin,Devin Gardner,NE,WR,6-4,216,0000-00-00,Michigan,1
+1771,0,81,Mundine,Jimmay,Jimmay Mundine,NE,TE,6-2,240,0000-00-00,Kansas,1
+1773,0,83,Rumph,Jonathon,Jonathon Rumph,NYJ,WR,6-5,218,0000-00-00,Georgia,1
+1775,0,18,Harwell,Nick,Nick Harwell,TEN,WR,5-11,195,0000-00-00,Kansas,1
+1776,0,80,Hamilton,Ray,Ray Hamilton,PIT,TE,6-5,252,0000-00-00,Iowa,1
+1777,0,33,Harper,Kenneth,Kenneth Harper,NYG,RB,5-10,233,0000-00-00,Temple,1
+1778,0,83,Edwards,Ben,Ben Edwards,NYG,WR,6-0,200,0000-00-00,Richmond,1
+1779,0,81,Davis,Devante,Devante Davis,PHI,WR,6-3,220,0000-00-00,UNLV,1
+1780,0,18,Harris,John,John Harris,ATL,WR,6-2,218,0000-00-00,Texas,1
+1781,0,82,Tukes,Justin,Justin Tukes,PHI,TE,6-4,259,0000-00-00,UCF,1
+1782,0,17,Dunbar,Quinton,Quinton Dunbar,WAS,WR,6-2,201,0000-00-00,Florida,1
+1783,0,0,Porter,David,David Porter,DAL,WR,6-0,197,0000-00-00,TCU,1
+1784,0,0,Hill,Keshawn,Keshawn Hill,KC,RB,5-10,200,0000-00-00,Sam Houston State,1
+1785,0,6,Cook,Kenny,Kenny Cook,KC,WR,6-4,218,0000-00-00,Gardner-Webb,1
+1786,0,15,Luckett,Donatella,Donatella Luckett,KC,WR,6-0,211,0000-00-00,Harding,1
+1787,0,8,Smith,Jeret,Jeret Smith,KC,WR,6-0,215,0000-00-00,McMurry,1
+1788,0,19,Harper,Josh,Josh Harper,OAK,WR,6-1,185,0000-00-00,Fresno State,1
+1789,0,17,Williams III,Milton,Milton Williams III,OAK,WR,6-2,220,0000-00-00,Delaware State,1
+1790,0,19,Willis,Austin,Austin Willis,DET,WR,5-9,175,0000-00-00,Emporia State,1
+1792,0,2,Davis,Titus,Titus Davis,NYJ,WR,6-1,200,1993-01-03,Central Michigan,1
+1793,0,85,Wilson,Demetrius,Demetrius Wilson,LAC,WR,6-1,185,0000-00-00,Arkansas,1
+1795,0,1,Sims,Phillip,Phillip Sims,ARI,QB,6-4,210,0000-00-00,--,1
+1796,0,84,Harman,Trevor,Trevor Harman,ARI,WR,6-3,205,0000-00-00,Shippensburg,1
+1797,0,86,Powell,Damond,Damond Powell,ARI,WR,5-11,180,0000-00-00,Iowa,1
+1799,0,80,Tabb,Jack,Jack Tabb,NO,TE,6-3,250,0000-00-00,North Carolina,1
+1800,0,3,Hull,Mario,Mario Hull,SF,WR,6-1,200,0000-00-00,Rice,1
+1801,0,21,Acosta,Corey,Corey Acosta,SF,K,6-0,190,0000-00-00,Southern Mississippi,1
+1802,1,42,Cottom,Brandon,Brandon Cottom,SEA,TE,6-2,262,1992-12-21,Purdue,1
+1803,0,0,Franks,Terrence,Terrence Franks,LAR,RB,5-9,203,0000-00-00,Texas State,1
+1805,0,2,Ferguson,Isiah,Isiah Ferguson,LAR,WR,6-5,218,0000-00-00,Arkansas-Pine Bluff,1
+1807,0,48,Peters,John,John Peters,CIN,TE,6-8,230,0000-00-00,Mount St. Joseph,1
+1808,0,42,Lundy,Luke,Luke Lundy,CLE,RB,6-0,230,0000-00-00,null,1
+1809,0,0,Haplea,Kevin,Kevin Haplea,CLE,TE,6-3,249,0000-00-00,Florida State,1
+1810,0,19,Murphy,Tyler,Tyler Murphy,MIA,WR,6-1,214,0000-00-00,Boston College,1
+1811,0,29,Scheuerman,Ross,Ross Scheuerman,PIT,RB,6-0,204,0000-00-00,Lafayette,1
+1812,0,30,Stingily,Cameron,Cameron Stingily,PIT,RB,6-1,235,0000-00-00,Northern Illinois,1
+1813,0,1,Umodu,Ify,Ify Umodu,CHI,WR,6-3,215,0000-00-00,Northern Arizona,1
+1814,0,40,Martin,Desmond,Desmond Martin,DET,RB,6-0,221,0000-00-00,Wayne State (MI),1
+1815,0,0,Haggins,Jarred,Jarred Haggins,DET,WR,5-11,192,0000-00-00,Florida State,1
+1816,0,89,Spears,Harold,Harold Spears,NO,TE,6-4,248,0000-00-00,New Hampshire,1
+1817,0,49,Renaud,Blake,Blake Renaud,MIN,RB,6-1,252,0000-00-00,Boise State,1
+1818,0,16,Daniels,DaVaris,DaVaris Daniels,MIN,WR,6-1,201,0000-00-00,Notre Dame,1
+1819,0,8,Lutman,Gavin,Gavin Lutman,MIN,WR,6-2,211,0000-00-00,Pittsburg State,1
+1820,0,16,Worthy,Chandler,Chandler Worthy,NYJ,WR,5-9,173,0000-00-00,Troy,1
+1821,0,40,Toure,Abou,Abou Toure,PIT,RB,6-2,230,0000-00-00,Tennessee-Martin,1
+1774,1,39,Farmer,George,George Farmer,SEA,RB,6'1',220,1993-07-04,USC,4
+1794,1,82,Parker,Brian,Brian Parker,NYJ,TE,6'4',265,1992-05-30,Albany,4
+1806,1,13,Slavin,Tyler,Tyler Slavin,SEA,WR,6'2',215,1992-01-29,New Mexico Highlands,5
+1791,1,39,Smith,Dreamius,Dreamius Smith,PIT,RB,5'11',225,1992-09-08,West Virginia,6
+1772,1,5,Heaps,Jake,Jake Heaps,SEA,QB,6-1,217,1991-06-19,Miami,7
+1822,0,0,Neighbors,Connor,Connor Neighbors,TEN,RB,5-11,229,0000-00-00,LSU,1
+1823,0,84,Long,Deon,Deon Long,TEN,WR,6-0,192,0000-00-00,Maryland,1
+1824,0,46,Ward,Lee,Lee Ward,CAR,RB,5-11,250,0000-00-00,Stanford,1
+1825,0,14,Harris,R.J.,R.J. Harris,NO,WR,6-0,194,0000-00-00,New Hampshire,1
+1826,0,84,Kennedy,Malcome,Malcome Kennedy,NO,WR,6-0,205,0000-00-00,Texas A&M,1
+1827,0,86,Prater,Kyle,Kyle Prater,NO,WR,6-5,231,0000-00-00,Northwestern,1
+1828,0,0,De La Cruz,Kai,Kai De La Cruz,MIA,WR,6-0,193,0000-00-00,Louisville,1
+1829,0,83,D'Orazio,Zach,Zach D'Orazio,NE,WR,6-2,217,0000-00-00,Akron,1
+1830,0,16,Hill,Austin,Austin Hill,NYJ,WR,6-3,212,0000-00-00,Arizona,1
+1832,0,83,Lawrence,Desmond,Desmond Lawrence,CIN,WR,5-10,181,0000-00-00,North Carolina A&T,1
+1833,0,0,Cruz,A.J.,A.J. Cruz,MIA,WR,5-9,195,0000-00-00,Brown,1
+1834,0,0,Seale,Ricky,Ricky Seale,BUF,RB,5-9,203,0000-00-00,Stanford,1
+1835,0,85,Bequette,Jake,Jake Bequette,NE,TE,6-5,265,0000-00-00,Arkansas,1
+1836,0,39,Monangai,Kevin,Kevin Monangai,PHI,RB,5-8,209,0000-00-00,Villanova,1
+1837,0,84,Johnson,Mike,Mike Johnson,PHI,WR,6-2,210,0000-00-00,Delaware,1
+1838,0,89,Reese,Josh,Josh Reese,PHI,WR,6-0,180,0000-00-00,UCF,1
+1839,0,84,Light,Dan,Dan Light,DEN,TE,6-5,265,0000-00-00,Fordham,1
+1840,0,46,Stokes,Logan,Logan Stokes,LAC,TE,6-5,255,0000-00-00,LSU,1
+1841,0,3,Rodriguez,Daniel,Daniel Rodriguez,LAR,WR,5-8,180,0000-00-00,Clemson,1
+1842,0,84,Nelson,Tom,Tom Nelson,BAL,WR,5-11,200,0000-00-00,Illinois State,1
+1843,0,6,Steelman,Trent,Trent Steelman,BAL,WR,5-11,200,0000-00-00,Army,1
+1844,0,40,Heard,Braylon,Braylon Heard,PIT,RB,5-10,198,0000-00-00,Kentucky,1
+1845,0,82,Doe,Kenzel,Kenzel Doe,PIT,WR,5-8,176,0000-00-00,Wisconsin,1
+1846,0,19,Phillips,Shakim,Shakim Phillips,PIT,WR,6-3,206,0000-00-00,Boston College,1
+1847,0,2,West,Jarrod,Jarrod West,PIT,WR,6-2,203,0000-00-00,Syracuse,1
+1848,0,19,Williams,Ed,Ed Williams,GB,WR,6-2,195,0000-00-00,Fort Hays State,1
+1849,0,5,Jones,Tebucky,Tebucky Jones,TEN,WR,6-0,195,0000-00-00,Fordham,1
+1850,0,48,Wegher,Brandon,Brandon Wegher,CAR,RB,5'10',205,1990-12-09,Morningside,1
+1853,0,89,Rush,Xavier,Xavier Rush,PHI,WR,6-3,202,0000-00-00,Tulane,1
+1854,1,39,Marshall,Keith,Keith Marshall,WAS,RB,5-11,222,1994-02-16,Georgia,1
+1856,1,34,Watt,Derek,Derek Watt,LAC,RB,6-2,234,1992-11-07,Wisconsin,1
+1857,0,9,Williams,Ryan,Ryan Williams,GB,QB,6-6,222,0000-00-00,Miami,1
+1859,0,14,Stangby,Joshua,Joshua Stangby,IND,WR,5-11,185,0000-00-00,--,1
+1861,0,0,Neal,Griffin,Griffin Neal,NO,QB,6-4,220,0000-00-00,Concordia (MN),1
+1863,0,19,Aguayo,Roberto,Roberto Aguayo,CHI,K,6'0',207,1994-05-17,Florida State,1
+1865,0,0,Allen,Davonte,Davonte Allen,BUF,WR,6-2,201,0000-00-00,Marshall,1
+1866,0,0,Chambers,Gary,Gary Chambers,BUF,WR,6-4,215,0000-00-00,Arizona State,1
+1867,0,0,Morgan,Marshall,Marshall Morgan,BUF,K,6-3,201,0000-00-00,Georgia,1
+1868,0,0,Hughes,Gabe,Gabe Hughes,MIA,TE,6-4,240,0000-00-00,Florida Tech,1
+1869,0,81,Williams,Bryce,Bryce Williams,LAR,TE,6'5',257,1993-02-24,East Carolina,1
+1870,1,0,McFarland,MJ,MJ McFarland,DAL,TE,6-4,249,0000-00-00,UTEP,1
+1871,0,0,Young,Kelsey,Kelsey Young,WAS,RB,5-10,198,0000-00-00,Boise State,1
+1872,1,17,Diggs,Reggie,Reggie Diggs,WAS,WR,6'4',200,1993-05-08,Richmond,1
+1873,0,10,Showers,Valdez,Valdez Showers,WAS,WR,5-10,190,0000-00-00,Florida,1
+1874,0,15,Turner,Jarvis,Jarvis Turner,WAS,WR,6-1,194,0000-00-00,Alcorn State,1
+1875,0,0,Hansley,Joe,Joe Hansley,OAK,WR,5-10,181,0000-00-00,Colorado State,1
+1876,0,16,Chestnut,Terrell,Terrell Chestnut,LAC,QB,5-11,188,0000-00-00,West Virginia,1
+1878,0,19,Reaves,Deandre,Deandre Reaves,LAC,WR,5-10,179,0000-00-00,Marshall,1
+1880,0,0,Weiser,Matt,Matt Weiser,LAC,TE,6-5,241,0000-00-00,Buffalo,1
+1882,0,0,Tupou,Taniela,Taniela Tupou,SEA,RB,6-2,282,0000-00-00,Washington,1
+1883,0,0,Fant,George,George Fant,SEA,TE,6-6,240,0000-00-00,Western Kentucky,1
+1885,0,3,North,Marquez,Marquez North,LAR,WR,6'3',229,1995-04-21,Tennessee,1
+1886,0,7,Mobley,Dy'Shawn,Dy'Shawn Mobley,CIN,RB,6-0,225,0000-00-00,Eastern Kentucky,1
+1888,0,0,Grant,Antwane,Antwane Grant,CIN,WR,6-1,205,0000-00-00,Western Kentucky,1
+1858,1,17,Smith,Tevaun,Tevaun Smith,IND,WR,6'2',205,1993-01-30,Iowa,2
+1877,1,31,Swain,Chris,Chris Swain,NYJ,RB,6-0,249,1992-11-17,Navy,3
+1881,1,4,Lunsford,John,John Lunsford,SEA,K,6'1',180,1993-11-14,Liberty,3
+1862,1,40,Vitale,Dan,Dan Vitale,CLE,RB,6'1',239,1993-10-26,Northwestern,5
+1884,1,87,Shields,Ronnie,Ronnie Shields,SEA,TE,6'4',245,1991-12-15,Kentucky,7
+1889,1,7,Brown,Jon,Jon Brown,CIN,K,5'10',197,1992-12-07,Louisville,7
+1887,1,49,Bonnet,Andrew,Andrew Bonnet,PHI,RB,6-3,245,1992-12-27,North Dakota State,8
+1851,1,18,Listenbee,Kolby,Kolby Listenbee,BUF,WR,6'0',183,1994-01-25,TCU,8
+1864,1,47,Gronkowski,Glenn,Glenn Gronkowski,NE,RB,6'3',234,1993-03-25,Kansas State,8
+1831,1,49,Johnson,Gus,Gus Johnson,PIT,RB,5-10,215,1993-08-10,Stephen F. Austin,9
+1855,1,32,Janovich,Andy,Andy Janovich,DEN,RB,6-1,238,1993-05-23,Nebraska,9
+1879,1,80,Williams,Dom,Dom Williams,PHI,WR,6-2,200,1990-09-02,Washington State,11
+1890,0,24,Skov,Patrick,Patrick Skov,CLE,RB,6-1,235,0000-00-00,Georgia Tech,1
+1892,0,0,Johnson,Brandon,Brandon Johnson,PIT,RB,6-2,228,0000-00-00,Penn State,1
+1893,0,0,Williams,Dalyn,Dalyn Williams,CHI,QB,6-0,205,0000-00-00,Dartmouth,1
+1894,0,0,Duncan,Kieren,Kieren Duncan,CHI,WR,5-11,170,0000-00-00,Colorado State-Pueblo,1
+1895,0,0,Keaton,Derek,Derek Keaton,CHI,WR,5-10,180,0000-00-00,Georgia Southern,1
+1896,0,13,Peterson,Darrin,Darrin Peterson,CHI,WR,6-2,190,0000-00-00,Liberty,1
+1897,0,0,Davis,Quinshad,Quinshad Davis,DET,WR,6-4,205,0000-00-00,North Carolina,1
+1898,0,0,Lee,Jay,Jay Lee,DET,WR,6-1,214,0000-00-00,Baylor,1
+1899,0,0,McCord,Ben,Ben McCord,DET,TE,6-4,243,0000-00-00,Central Michigan,1
+1901,0,0,Williams,Marquise,Marquise Williams,GB,QB,6-2,216,0000-00-00,North Carolina,1
+1902,0,34,Jackson,Don,Don Jackson,GB,RB,5'10',208,1993-09-07,Nevada,1
+1903,0,0,Squirewell,Alstevis,Alstevis Squirewell,GB,RB,6-1,270,0000-00-00,Newberry,1
+1904,1,26,Waters,Herb,Herb Waters,GB,WR,6-0,188,0000-00-00,Miami,1
+1905,0,0,Pressley,Jhurell,Jhurell Pressley,ATL,RB,5-11,198,0000-00-00,New Mexico,1
+1906,0,0,Michel,Marken,Marken Michel,MIN,WR,5-11,190,0000-00-00,Massachusetts,1
+1907,0,0,Stoudermire,Troy,Troy Stoudermire,MIN,WR,5-10,199,0000-00-00,Minnesota,1
+1908,1,43,Vainuku,Soma,Soma Vainuku,ATL,RB,6'0',255,1992-05-28,USC,1
+1909,0,0,Miller,Mike,Mike Miller,IND,TE,6-6,249,0000-00-00,Taylor Trojans,1
+1910,0,0,Horn,Reece,Reece Horn,TEN,WR,6-3,215,0000-00-00,Indianapolis,1
+1911,0,0,Roberts,Ben,Ben Roberts,TEN,WR,6-4,215,0000-00-00,Montana,1
+1912,0,0,Glidden,David,David Glidden,ATL,WR,5-7,185,0000-00-00,Oklahoma State,1
+1913,0,4,Johnson,Daje,Daje Johnson,ATL,WR,5-9,184,0000-00-00,Texas,1
+1916,0,0,Shuler,Miles,Miles Shuler,CAR,WR,5-10,174,0000-00-00,Northwestern,1
+1917,0,83,Scruggs,Greg,Greg Scruggs,NE,TE,6-3,277,0000-00-00,Louisville,1
+1920,1,19,Jones,Derrick,Derrick Jones,NYJ,WR,6-2,188,0000-00-00,Ole Miss,1
+1921,1,35,Virgies,Daryl,Daryl Virgies,NYG,RB,5'11',217,0000-00-00,Lynchburg,1
+1925,1,27,Dayes,Matthew,Matthew Dayes,CLE,RB,5-8,205,1994-09-03,North Carolina State,1
+1926,1,45,Addison,Bralon,Bralon Addison,CHI,WR,5-9,197,0000-00-00,Oregon,1
+1928,1,37,Williams,Marquez,Marquez Williams,JAC,RB,5-11,260,1994-07-16,Miami (FL),1
+1933,1,3,Estime,Brisly,Brisly Estime,NYJ,WR,5-9,186,1900-01-01,Syracuse,1
+1934,1,83,Johnson III,BJ,BJ Johnson III,SF,WR,6-1,212,1993-02-22,Georgia Southern,1
+1939,1,19,Madaris,Monty,Monty Madaris,CIN,WR,6'0',196,1993-09-08,Michigan State,1
+1945,1,9,Natson,Bruce,Bruce Natson,IND,WR,5-7,153,0000-00-00,Akron,1
+1951,1,4,Ward Jr.,Greg,Greg Ward Jr.,PHI,WR,5'11',186,1995-07-12,Houston,1
+1953,1,83,Moore,Alonzo,Alonzo Moore,KC,WR,6'2',195,1992-11-10,Nebraska,1
+1924,1,2,Binford,Harvey,Harvey Binford,IND,WR,6'0',185,1991-01-20,Lindenwood,2
+1943,1,88,Talley,David,David Talley,GB,WR,6-1,236,0000-00-00,Grand Valley State,3
+1891,1,83,Parks,Dennis,Dennis Parks,CLE,WR,6-2,201,0000-00-00,Rice,4
+1900,1,3,Bell,Devon,Devon Bell,IND,K,6'2',193,1993-07-04,Mississippi State,4
+1932,1,42,Firkser,Anthony,Anthony Firkser,NYJ,RB,6-3,220,0000-00-00,Harvard,4
+1938,1,44,Laufasa,Darrin,Darrin Laufasa,CIN,RB,6'1',235,1995-05-06,UTEP,5
+1948,1,81,Williams-Lambert,Jordan,Jordan Williams-Lambert,NO,WR,6-3,228,1994-05-09,Ball State,5
+1923,1,43,Ratelle,Will,Will Ratelle,KC,RB,5'9',256,1993-03-01,North Dakota,5
+1944,1,3,Lunt,Wes,Wes Lunt,MIN,QB,6'5',225,1993-10-07,Illinois,5
+1935,1,45,McCloskey,Tyler,Tyler McCloskey,SF,TE,6'2',245,0000-00-00,Houston,5
+1955,1,51,Coleman,Kyle,Kyle Coleman,SEA,RB,6-0,231,0000-00-00,Arkansas-Pine Bluff,6
+1947,1,84,Davis III,Reginald,Reginald Davis III,ATL,WR,6'0',185,1993-09-14,Texas Tech,6
+1954,1,11,Summers,James,James Summers,ARI,WR,6-3,218,0000-00-00,East Carolina,6
+1927,1,49,Alie-Cox,Mo,Mo Alie-Cox,IND,TE,6'7',250,1993-09-19,--,6
+1956,1,15,Bailey,Aaron,Aaron Bailey,BAL,QB,6-1,233,0000-00-00,Northern Iowa,6
+1930,1,5,Jenkins,Eli,Eli Jenkins,LAC,QB,6'2',210,1994-08-07,Jacksonville State,7
+1937,1,11,Terrell,Zach,Zach Terrell,BAL,QB,6-1,209,0000-00-00,Western Michigan,7
+1950,1,43,Howsare,Julian,Julian Howsare,NYJ,RB,6'3',255,1992-09-11,Clarion,7
+1949,1,89,Towbridge,Keith,Keith Towbridge,BUF,TE,6-5,262,1995-05-21,Louisville,8
+1952,1,70,Lang,Cedrick,Cedrick Lang,DEN,TE,6-9,255,1992-05-12,UTEP,8
+1942,1,85,Pringle,Raysean,Raysean Pringle,GB,WR,6'0',191,0000-00-00,Southern Utah,9
+1918,1,41,Smith,Keith,Keith Smith,DAL,RB,6-0,240,1992-04-08,San Jose State,9
+1941,1,7,Shell,Rushel,Rushel Shell,PIT,RB,6-0,216,0000-00-00,West Virginia,9
+1931,1,39,Daniels Jr.,LeShun,LeShun Daniels Jr.,NE,RB,6'0',225,1995-06-04,Iowa,10
+1929,1,89,Scantling,Garrett,Garrett Scantling,ATL,WR,6'3',187,1993-05-19,Georgia,10
+1946,1,81,Jeter,Colin,Colin Jeter,IND,TE,6'6',251,1995-05-23,LSU,10
+1940,1,12,Schuessler,Nick,Nick Schuessler,PIT,QB,6'3',196,1994-06-12,Clemson,11
+1919,1,40,Sommers,Joe,Joe Sommers,SEA,TE,6'3',240,1993-03-03,UW-Oshkosh,11
+1936,1,5,Briggs,Chris,Chris Briggs,IND,WR,6'5',220,1992-11-09,Southeastern Louisiana,11
+1914,1,82,Perkins,Joshua,Joshua Perkins,ATL,TE,6'3',223,1993-08-05,Washington,11
+1957,1,37,Bouagnon,Joel,Joel Bouagnon,CHI,RB,6'2',228,1995-03-28,Northern Illinois,1
+1967,1,83,Sperbeck,Thomas,Thomas Sperbeck,TB,WR,6'0',187,1994-10-21,Boise State,1
+1963,1,86,Walker III,Kenneth,Kenneth Walker III,JAC,WR,5'9',188,1994-04-01,UCLA,2
+1750,1,84,Kumerow,Jake,Jake Kumerow,CIN,WR,6-4,210,1992-02-17,Wisconsin-Whitewater,2
+1446,1,10,Patton,Quinton,Quinton Patton,NYJ,WR,6'0',204,1990-08-09,Louisiana Tech,2
+1915,1,47,Johnson,Devon,Devon Johnson,CAR,RB,6'0',245,1993-07-28,Marshall,2
+1922,1,34,Pumphrey,Donnel,Donnel Pumphrey,PHI,RB,5-9,176,1994-12-06,San Diego State,2
+1860,1,13,Fuller,Devin,Devin Fuller,ATL,WR,6-0,194,1994-01-29,UCLA,2
+1400,1,3,Rogers,Eric,Eric Rogers,SF,WR,6'3',210,1991-02-12,Cal Lutheran,2
+1962,1,43,Mathers,I'Tavius,I'Tavius Mathers,JAC,RB,5-11,203,1993-11-19,Middle Tennessee State,2
+1579,1,33,Houston,Stephen,Stephen Houston,BAL,RB,6-0,225,1991-10-28,Indiana,3
+1500,1,12,Johnson,Charles,Charles Johnson,CAR,WR,6-2,215,1989-02-27,Grand Valley State,3
+1804,1,45,Laskey,Zach,Zach Laskey,LAR,RB,6-2,238,1992-07-08,Georgia Tech,3
+1966,1,39,Robinson-Woodgett,John,John Robinson-Woodgett,NO,RB,6'1',247,0000-00-00,Massachusetts,3
+1619,1,45,Cleveland,Asante,Asante Cleveland,LAC,TE,6-5,260,1992-03-21,Miami (FL),4
+1968,1,39,Rogers,Sam,Sam Rogers,LAR,RB,5'10',231,1995-04-12,Virginia Tech,4
+1970,1,13,Greene Sr.,Rashad,Rashad Greene Sr.,JAC,WR,5-11,186,0000-00-00,Florida State,4
+440,1,19,Royal,Eddie,Eddie Royal,CHI,WR,5'10',190,1986-05-21,Virginia Tech,4
+1852,1,33,Jackson,Darius,Darius Jackson,CLE,RB,6-0,220,1993-12-01,Eastern Michigan,5
+1959,1,49,Tonyan Jr.,Robert,Robert Tonyan Jr.,DET,TE,6-5,200,0000-00-00,Indiana State,5
+1063,1,86,Housler,Rob,Rob Housler,NE,TE,6'5',250,1988-03-17,Florida Atlantic,6
+1009,1,81,Walters,Bryan,Bryan Walters,JAC,WR,6-0,195,1987-11-04,Cornell,7
+484,1,0,Wheelwright,Ernie,Ernie Wheelwright,KC,WR,6-5,217,0000-00-00,Minnesota,7
+1969,1,85,Arnold,Dan,Dan Arnold,NO,WR,6-6,220,1995-03-15,Wisconsin-Platteville,8
+1960,1,16,Gray,Deante,Deante Gray,HOU,WR,5'10',185,1900-01-01,TCU,8
+683,1,1,Brown,Freddie,Freddie Brown,IND,WR,6-1,196,0000-00-00,Mississippi State,8
+352,1,17,Hester,Devin,Devin Hester,SEA,WR,5-11,190,0000-00-00,Miami,9
+1798,1,86,Sinclair,Gannon,Gannon Sinclair,JAC,TE,6'7',258,1993-02-05,Missouri State,9
+1964,1,85,Houston,Wyatt,Wyatt Houston,CAR,TE,6-4,250,0000-00-00,Utah State,9
+1198,1,89,Green,Ladarius,Ladarius Green,PIT,TE,6'6',240,1990-05-29,UL Lafayette,10
+1958,1,17,Phillips,Andy,Andy Phillips,CHI,K,5'10',210,1989-05-18,Utah,10
+1961,1,86,Conque,Zach,Zach Conque,HOU,TE,6'6',237,1994-04-22,Stephen F. Austin,10
+1965,1,5,Thomas,Justin,Justin Thomas,NO,QB,5-11,179,0000-00-00,Georgia Tech,11
+898,1,33,McCluster,Dexter,Dexter McCluster,LAC,RB,5-8,170,0000-00-00,Ole Miss,11
