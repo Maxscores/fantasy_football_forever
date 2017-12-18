@@ -12,4 +12,5 @@ class Player < ApplicationRecord
                         :college
 
   belongs_to :fantasy_team
+  has_many :season_stats
 end

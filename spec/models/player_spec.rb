@@ -19,6 +19,12 @@ describe Player do
 
       expect(player).to respond_to(:users)
     end
+
+    it "has many season stats" do
+      player = Player.new()
+
+      expect(player).to respond_to(:season_stats)
+    end
   end
 
   describe "validations" do

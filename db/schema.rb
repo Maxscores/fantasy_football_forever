@@ -20,13 +20,6 @@ ActiveRecord::Schema.define(version: 20171218053529) do
     t.string "owner"
   end
 
-  create_table "player_season_stats", force: :cascade do |t|
-    t.bigint "season_stats_id"
-    t.bigint "players_id"
-    t.index ["players_id"], name: "index_player_season_stats_on_players_id"
-    t.index ["season_stats_id"], name: "index_player_season_stats_on_season_stats_id"
-  end
-
   create_table "players", force: :cascade do |t|
     t.integer "active"
     t.integer "jersey"
@@ -68,7 +61,10 @@ ActiveRecord::Schema.define(version: 20171218053529) do
     t.float "extra_point_percentage"
     t.integer "extra_point_made"
     t.integer "extra_point_attempted"
+    t.bigint "player_id"
+    t.index ["player_id"], name: "index_season_stats_on_player_id"
   end
 
   add_foreign_key "players", "fantasy_teams"
+  add_foreign_key "season_stats", "players"
 end
