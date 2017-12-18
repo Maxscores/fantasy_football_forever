@@ -25,7 +25,7 @@ User Stories:
 
 ## Favorites
 * [ ] Logged in users can favorite/unfavorite players
-* [ ] Logged in users can view a list of their favorited players
+* [ ] Logged in users can view a list of their favorited players - "My Favorites"
 * [ ] Logged in users can see favorites sorted by team
 
 ## Authentication and Authorization
