@@ -6,10 +6,7 @@
 #   movies = Movie.create([{ name: 'Star Wars' }, { name: 'Lord of the Rings' }])
 #   Character.create(name: 'Luke', movie: movies.first)
 require 'fantasy_football_nerd'
-require 'database_cleaner'
 
-DatabaseCleaner.strategy = :truncation
-DatabaseCleaner.clean
 
 free_agents = FantasyTeam.create(name: "Free Agents", owner: "None")
 
