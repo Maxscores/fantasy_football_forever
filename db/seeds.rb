@@ -7,12 +7,12 @@
 #   Character.create(name: 'Luke', movie: movies.first)
 require 'csv'
 
-CSV.readlines("./data/fantasy_teams.csv", headers: true, header_converters: :symbol) do |csv|
+CSV.readlines("./assets/files/fantasy_teams.csv", headers: true, header_converters: :symbol) do |csv|
   FantasyTeam.create(name: csv[:name],
                      owner: csv[:owner])
 end
 
-CSV.readlines("./data/players.csv", headers: true, header_converters: :symbol) do |csv|
+CSV.readlines("./files/players.csv", headers: true, header_converters: :symbol) do |csv|
   Player.create(active: csv[:active],
                 jersey: csv[:jersey],
                 last_name: csv[:last_name],
