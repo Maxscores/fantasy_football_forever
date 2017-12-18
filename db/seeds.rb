@@ -33,3 +33,33 @@ FFNerd.players.each do |player|
                 college: player.college,
                 fantasy_team: free_agents)
 end
+
+all_players = Player.count
+qb_count = Player.where(position: "QB").count
+rb_count = Player.where(position: "RB").count
+wr_count = Player.where(position: "WR").count
+te_count = Player.where(position: "TE").count
+k_count = Player.where(position: "K").count
+
+
+def normal_distribution(count, average, variance)
+  Array.new(count) { average + (variance) * Math.sqrt(-2 * Math.log(rand)) * Math.cos(2 * Math::PI * rand) }
+end
+
+seasons = [2010, 2011, 2012, 2013, 2014]
+completions = normal_distribution(qb_count, 2800, 2)
+completion_percentages = normal_distribution(qb_count, 65, 2)
+passing_yards = normal_distribution(qb_count, 3500, 5)
+passing_touchdowns = normal_distribution(qb_count, 35, 8)
+interceptions = normal_distribution(qb_count, 15, 8)
+fumbles = normal_distribution(all_players, 5, 3)
+rushing_attempts = normal_distribution(rb_count, 150, 20)
+yards_per_carry = normal_distribution(rb_count, 4, 1)
+rushing_touchdowns = normal_distribution(rb_count, 5, 4)
+pass_receptions = normal_distribution(wr_count, 60, 20)
+receiving_yards = normal_distribution(wr_count, 800, 50)
+receiving_touchdowns = normal_distribution(wr_count, 5, 4)
+field_goal_percentage = normal_distribution(k_count, 95, 1)
+field_goal_made = normal_distribution(k_count, 40, 4)
+extra_point_made = normal_distribution(k_count, 20, 4)
+extra_point_percentage = normal_distribution(k_count, 98, 0.6)

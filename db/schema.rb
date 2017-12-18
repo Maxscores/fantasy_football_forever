@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20171217153354) do
+ActiveRecord::Schema.define(version: 20171218053529) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -18,6 +18,13 @@ ActiveRecord::Schema.define(version: 20171217153354) do
   create_table "fantasy_teams", force: :cascade do |t|
     t.string "name"
     t.string "owner"
+  end
+
+  create_table "player_season_stats", force: :cascade do |t|
+    t.bigint "season_stats_id"
+    t.bigint "players_id"
+    t.index ["players_id"], name: "index_player_season_stats_on_players_id"
+    t.index ["season_stats_id"], name: "index_player_season_stats_on_season_stats_id"
   end
 
   create_table "players", force: :cascade do |t|
@@ -34,6 +41,33 @@ ActiveRecord::Schema.define(version: 20171217153354) do
     t.string "college"
     t.bigint "fantasy_team_id"
     t.index ["fantasy_team_id"], name: "index_players_on_fantasy_team_id"
+  end
+
+  create_table "season_stats", force: :cascade do |t|
+    t.string "season"
+    t.integer "games_played"
+    t.integer "completions"
+    t.integer "attempts"
+    t.float "completion_percentage"
+    t.integer "passing_yards"
+    t.float "average_yards_per_attempt"
+    t.integer "passing_touchdowns"
+    t.integer "interceptions"
+    t.integer "fumbles"
+    t.integer "rushing_attempts"
+    t.integer "rushing_yards"
+    t.integer "average_yards_per_carry"
+    t.integer "rushing_touchdowns"
+    t.integer "pass_receptions"
+    t.integer "receiving_yards"
+    t.float "average_yards_per_reception"
+    t.integer "receiving_touchdowns"
+    t.integer "field_goals_made"
+    t.integer "field_goals_attempted"
+    t.float "field_goal_percentage"
+    t.float "extra_point_percentage"
+    t.integer "extra_point_made"
+    t.integer "extra_point_attempted"
   end
 
   add_foreign_key "players", "fantasy_teams"
