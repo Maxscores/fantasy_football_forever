@@ -1,5 +1,19 @@
 <h3>Welcome, <%= current_user.full_name %></h3>
 
-<% current_user.players.each do |player| %>
-<%= player.display_name %>
-<% end %>
+<div class="grid-x">
+  <div class="8 cells">
+    <table class="index-table">
+      <th>Player Name</th>
+      <th>Fantasy Team</th>
+      <th></th>
+      <tr>
+        <% current_user.players.each do |player| %>
+          <td><%= link_to player.display_name, player_path(player) %></td>
+          <td><%= link_to player.fantasy_team.name, fantasy_team_path(player.fantasy_team) %></td>
+          <% @player = player %>
+          <%= render "players/favorite" %>
+        <% end %>
+      </tr>
+    </table>
+  </div>
+</div>

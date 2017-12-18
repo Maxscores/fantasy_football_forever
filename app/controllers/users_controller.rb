@@ -1,5 +1,9 @@
 class UsersController < ApplicationController
   def show
+    if !current_user || current_user.id != params[:id].to_i
+      flash.notice = "You must be signed in to do that"
+      redirect_to root_path
+    end
   end
 
   def new
