@@ -7,14 +7,12 @@ describe Player do
     end
 
     it "has many user_favorites" do
-      skip
       player = Player.new()
 
       expect(player).to respond_to(:user_favorites)
     end
 
     it "has many users" do
-      skip
       player = Player.new()
 
       expect(player).to respond_to(:users)

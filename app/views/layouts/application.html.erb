@@ -34,10 +34,10 @@
           <% end %>
         </ul>
       </div>
+      <% flash.each do |key, value| %>
+      <div class="alert alert-<%= key %>"><%= value %></div>
+      <% end %>
       <div class="app-dashboard-body off-canvas-wrapper">
-        <% flash.each do |key, value| %>
-          <div class="alert alert-<%= key %>"><%= value %></div>
-        <% end %>
         <div class="app-dashboard-body-content off-canvas-content" data-off-canvas-content  >
           <%= yield %>
         </div>
