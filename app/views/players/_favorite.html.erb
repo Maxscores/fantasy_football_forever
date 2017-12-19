@@ -2,7 +2,7 @@
   <% favorite = UserFavorite.find_by(player_id: @player.id, user_id: current_user.id) %>
   <td><%= link_to "Remove from Favs", player_user_favorite_path(@player, favorite), method: :delete  %></td>
 <% elsif current_user %>
-  <td><%= link_to "Add to Favs", player_user_favorites_path(@player), method: :post %></td>
+  <td><%= link_to "Add to Favs", player_user_favorites_path(@player, {:page => params[:page]}), method: :post %></td>
 <% else %>
   <td><%= link_to "Login to Favorite", login_path %></td>
 <% end %>
