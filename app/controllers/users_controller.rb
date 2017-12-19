@@ -4,6 +4,12 @@ class UsersController < ApplicationController
       flash.notice = "You must be signed in to do that"
       redirect_to root_path
     end
+
+    if params[:sort] == "fantasy_team"
+      @players = current_user.players.order("fantasy_team_id DESC").paginate(:page => params[:page], :per_page => 30)
+    else
+      @players = current_user.players.paginate(:page => params[:page], :per_page => 30)
+    end
   end
 
   def new
