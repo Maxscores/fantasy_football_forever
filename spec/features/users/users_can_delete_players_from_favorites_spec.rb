@@ -1,11 +1,8 @@
 describe "User can remove favorite players from dashboard" do
   it "removes player from dashboard" do
     user = create(:user)
-    visit login_path
-    fill_in :email, with: user.email
-    fill_in :password, with: user.password
-    click_on "Log In"
-
+    allow_any_instance_of(ApplicationController).to receive(:current_user).and_return(user)
+    
     rick = create(:rick)
 
     visit "/players"

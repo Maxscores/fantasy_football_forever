@@ -1,9 +1,6 @@
 class UsersController < ApplicationController
   def show
-    if !current_user || current_user.id != params[:id].to_i
-      flash.notice = "You must be signed in to do that"
-      redirect_to root_path
-    end
+    logged_in?
 
     if params[:sort] == "fantasy_team"
       @players = current_user.players.order("fantasy_team_id DESC").paginate(:page => params[:page], :per_page => 30)

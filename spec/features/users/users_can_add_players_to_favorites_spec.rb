@@ -1,10 +1,7 @@
 describe "User can add favorite players to favorites" do
   it "adds player to dashboard" do
     user = create(:user)
-    visit login_path
-    fill_in :email, with: user.email
-    fill_in :password, with: user.password
-    click_on "Log In"
+    allow_any_instance_of(ApplicationController).to receive(:current_user).and_return(user)
 
     rick = create(:rick)
 

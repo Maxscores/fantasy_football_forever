@@ -1,10 +1,7 @@
 describe "User can visit their dashboard" do
   it "they see their favorites" do
     user = create(:user)
-    visit login_path
-    fill_in :email, with: user.email
-    fill_in :password, with: user.password
-    click_on "Log In"
+    allow_any_instance_of(ApplicationController).to receive(:current_user).and_return(user)
 
     rick = create(:rick)
     UserFavorite.create(user_id: user.id, player_id: rick.id)
