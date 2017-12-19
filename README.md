@@ -32,13 +32,15 @@ User Stories:
 * [x] Users need to login to see their favorites
 * [x] Users can only see their favorites
 * [x] Users cannot create favs for other users
-* [ ] Users cannot create new teams
-* [ ] Users cannot create new players
+* [x] Users cannot create new teams
+* [x] Users cannot create new players
 * [x] Visitors can create user accounts
 
 ## Other Features to Add
+* [x] Adding favorites stays on same paginated page
 * [ ] Add filter-by-team (drop down)
-* [ ] Add filter-by-position (drop down)
+* [x] Add filter-by-position (drop down)
 * [ ] Add team to favorites(adds all players from team)
 * [ ] Calculate fantasy score from stats
 * [ ] Add player season score to index
+
