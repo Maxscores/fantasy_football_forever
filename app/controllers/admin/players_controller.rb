@@ -44,6 +44,7 @@ class Admin::PlayersController < Admin::BaseController
                                       :last_name,
                                       :first_name,
                                       :display_name,
+                                      :twitter_handle,
                                       :pro_team,
                                       :position,
                                       :height,

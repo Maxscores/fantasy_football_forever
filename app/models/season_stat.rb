@@ -25,4 +25,5 @@ class SeasonStat < ApplicationRecord
                          :extra_point_percentage,
                          :player_id,
                          :season
+
 end

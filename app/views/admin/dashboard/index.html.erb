@@ -1,7 +1,5 @@
 <h1>Welcome to the Admin Dashboard</h1>
 
-<h3>Create a New Player</h3>
-<%= render "players/form" %>
+<%= link_to "Create a New Fantasy Team", new_admin_fantasy_team_path, {:class=>"button button-rounded-hober"} %>
 
-<h3>Create a New Fantasy Team</h3>
-<%= render "fantasy_teams/form" %>
+<%= link_to "Create a New Player", new_admin_player_path, {:class=>"button button-rounded-hober"} %>

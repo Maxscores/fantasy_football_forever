@@ -12,6 +12,7 @@ FactoryBot.define do
     dob "1985/01/06"
     college "Colorado State"
     fantasy_team
+    twitter_handle "@RiskSanchez"
   end
 
   factory :rick, class: Player do
@@ -27,6 +28,7 @@ FactoryBot.define do
     dob "1985/01/06"
     college "Colorado State"
     fantasy_team
+    twitter_handle "@RiskSanchez"
   end
 
   factory :morty, class: Player do
@@ -42,5 +44,6 @@ FactoryBot.define do
     dob "1985/01/06"
     college "Colorado State"
     fantasy_team
+    twitter_handle "@MortySucks"
   end
 end

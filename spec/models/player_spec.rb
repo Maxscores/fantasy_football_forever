@@ -33,6 +33,7 @@ describe Player do
                           jersey: 99,
                           last_name: "Sanchez",
                           first_name: "Rick",
+                          twitter_handle: "@rickbitch",
                           pro_team: "DEN",
                           position: "QB",
                           height: "72 in",

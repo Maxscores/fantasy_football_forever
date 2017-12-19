@@ -4,6 +4,7 @@ class Player < ApplicationRecord
                         :last_name,
                         :first_name,
                         :display_name,
+                        :twitter_handle,
                         :pro_team,
                         :position,
                         :height,
@@ -15,4 +16,5 @@ class Player < ApplicationRecord
   has_many :season_stats
   has_many :user_favorites
   has_many :users, through: :user_favorites
+
 end
