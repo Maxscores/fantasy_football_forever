@@ -4,9 +4,7 @@ Rails.application.routes.draw do
   post '/login', to: 'sessions#create'
   delete '/logout', to: 'sessions#destroy'
 
-  post '/fantasy_teams', to: 'admin/fantasy_teams#create'
   delete '/fantasy_teams/:id', to: 'admin/fantasy_teams#destroy'
-  patch '/fantasy_teams/:id', to: 'admin/fantasy_teams#update'
 
   post '/players', to: 'admin/players#create'
   delete '/players/:id', to: 'admin/players#destroy'
@@ -21,7 +19,7 @@ Rails.application.routes.draw do
   namespace :admin do
     resources :dashboard, only: [:index]
     resources :players, only: [:new, :edit]
-    resources :fantasy_teams, only: [:new, :edit,]
+    resources :fantasy_teams, only: [:new, :edit, :create, :update]
   end
   # For details on the DSL available within this file, see http://guides.rubyonrails.org/routing.html
 end
