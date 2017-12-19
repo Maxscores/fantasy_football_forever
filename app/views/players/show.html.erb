@@ -1,22 +1,38 @@
 <h3><%= @player.display_name %></h3>
 <%= link_to "Delete", player_path, method: :delete %>
 
-<div class="grid-x">
-  <div class="medium-3 cell">
-    <table>
-      <th></th>
-      <th></th>
-      <tr><td>Team: <%= @player.pro_team %></td></tr>
-      <tr><td>Jersey Number: <%= @player.jersey %></td></tr>
-      <tr><td>Position: <%= @player.position %></td></tr>
-      <tr><td>Height: <%= @player.height %></td></tr>
-      <tr><td>Weight: <%= @player.weight %></td></tr>
-      <tr><td>Date of Birth: <%= @player.dob %></td></tr>
-      <tr><td>College: <%= @player.college %></td></tr>
-      <tr><td>Fantasy Team: <%= link_to @player.fantasy_team.name, fantasy_team_path(@player.fantasy_team) %></td></tr>
-    </table>
+  <div class="grid-x grid-padding-x">
+    <div class="medium-3 cell">
+      <a class="twitter-timeline"  href="https://twitter.com/hashtag/<%=@player.display_name.gsub(" ","")%>" data-widget-id="943136053073989633" data-hash-tag="<%=@player.display_name.gsub(" ","")%>">#<%= @player.display_name.gsub(" ","") %> Tweets</a>
+    </div>
+
+    <div class="medium-6 cell">
+      <div class="grid-y align-center">
+        <div class="grid-x align-center">
+
+      <table>
+        <th>Team</th>
+        <th>Jersey Number</th>
+        <th>Jersey Number</th>
+        <th>Height</th>
+        <th>Weight</th>
+        <th>Date of Birth</th>
+        <th>College</th>
+        <th>Fantasy Team</th>
+        <tr>
+        <td><%= @player.pro_team %></td>
+        <td><%= @player.jersey %></td>
+        <td><%= @player.position %></td>
+        <td><%= @player.height %></td>
+        <td><%= @player.weight %></td>
+        <td><%= @player.dob %></td>
+        <td><%= @player.college %></td>
+        <td><%= link_to @player.fantasy_team.name, fantasy_team_path(@player.fantasy_team) %></td>
+        </tr>
+      </table>
+      <%= render partial: "stats" %>
+    </div>
   </div>
-  <div class="medium-9 cell">
-    <%= render partial: "stats" %>
+
   </div>
-</div>
+  </div>
