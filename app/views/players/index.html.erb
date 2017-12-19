@@ -1,5 +1,20 @@
 <h3>All Players</h3>
-<%= link_to "Sort by Fantasy Team", players_path(sort: "fantasy_team") %>
+
+<div class="grid-x">
+  <div class="2 cells">
+    <%= form_tag do %>
+      <%= label_tag :position %>
+      <%= select_tag(:position, options_for_select([[" "],["QB"],["RB"],["WR"],["TE"]] , params[:position]), :onchange=>"window.location.replace('/players?position='+this.value);") %>
+    <% end %>
+  </div>
+  <div class="2 cells">
+    <%= form_tag do %>
+      <%= label_tag :fantasy_team %>
+      <% fantasy_teams = @fantasy_teams.map {|team| [team.name, team.id]} %>
+      <%= select_tag(:team, options_for_select(fantasy_teams , params[:team]), :onchange=>"window.location.replace('/players?team='+this.value);") %>
+    <% end %>
+  </div>
+</div>
 <div class="grid-x">
   <div class="8 cells">
     <table class="index-table">
