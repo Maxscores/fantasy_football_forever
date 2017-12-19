@@ -3,7 +3,7 @@
 
   <div class="grid-x grid-padding-x">
     <div class="medium-3 cell">
-      <a class="twitter-timeline"  href="https://twitter.com/hashtag/<%=@player.display_name.gsub(" ","")%>" data-widget-id="943136053073989633" data-hash-tag="<%=@player.display_name.gsub(" ","")%>">#<%= @player.display_name.gsub(" ","") %> Tweets</a>
+      <a class="twitter-timeline" data-height="450" href="https://twitter.com/<%=@player.twitter_handle.sub("@","")%>" data-screen-name="<%=@player.twitter_handle.sub("@","")%>"></a>
     </div>
 
     <div class="medium-6 cell">

@@ -15,6 +15,11 @@ owners = ["Jack Harkness", "Mickey Smith", "Astrid Peth", "Sarag Jane Smith",
 "Dr. Who", "Wilfred Mott", "Capatin Jack Harkness", "Mickey Smith", "Adam Mitchell",
 "Rose"]
 
+handles = ["@MatthewBerryTMR", "@SI_PeterKing", "@ericmackfantasy", "@YahooNoise",
+  "@RapSheet", "@NathanZegura", "@CHarrisESPN", "@Stephania_ESPN", "@evansilva",
+  "@Rotoworld_FB", "@NFLfantasy", "@Fantasytaz", "@AdamSchefter", "@mortreport",
+  "@karabellespn"]
+
 10.times do
   FantasyTeam.create(name: names.pop, owner: owners.pop)
 end
@@ -32,7 +37,8 @@ FFNerd.players.each do |player|
                   weight: player.weight,
                   dob: player.dob,
                   college: player.college,
-                  fantasy_team: free_agents)
+                  fantasy_team: free_agents,
+                  twitter_handle: handles.sample)
   end
 end
 
