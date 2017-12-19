@@ -35,3 +35,10 @@ User Stories:
 * [ ] Users cannot create new teams
 * [ ] Users cannot create new players
 * [x] Visitors can create user accounts
+
+## Other Features to Add
+* [ ] Add filter-by-team (drop down)
+* [ ] Add filter-by-position (drop down)
+* [ ] Add team to favorites(adds all players from team)
+* [ ] Calculate fantasy score from stats
+* [ ] Add player season score to index
