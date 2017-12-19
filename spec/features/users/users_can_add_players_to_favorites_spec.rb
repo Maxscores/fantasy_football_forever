@@ -11,7 +11,7 @@ describe "User can add favorite players to favorites" do
       click_on "Add to Favs"
     end
 
-    expect(current_path).to eq("/users/#{user.id}")
+    expect(current_path).to eq("/players")
     expect(page).to have_content("#{rick.display_name}")
   end
 end
