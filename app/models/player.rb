@@ -13,8 +13,7 @@ class Player < ApplicationRecord
                         :college
 
   belongs_to :fantasy_team
-  has_many :season_stats
-  has_many :user_favorites
+  has_many :season_stats, :dependent => :destroy
+  has_many :user_favorites, :dependent => :destroy
   has_many :users, through: :user_favorites
-
 end
