@@ -26,7 +26,7 @@ describe "User can delete team from team index" do
       allow_any_instance_of(ApplicationController).to receive(:current_user).and_return(user)
 
       visit fantasy_teams_path
-      save_and_open_page
+
       within ".team_#{team.id}" do
         click_on "Delete Team"
       end
