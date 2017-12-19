@@ -14,7 +14,7 @@ User Stories:
 * [x] Player show page shows which FF team they're on
 * [x] Players belong to one FF team
 * [x] Players have many FF users that have favorited them
-* [ ] Visitors can see players sorted by team
+* [x] Visitors can see players sorted by team
 
 ## FF Teams
 * [x] Admin creates/deletes teams
@@ -26,7 +26,7 @@ User Stories:
 ## Favorites
 * [x] Logged in users can favorite/unfavorite players
 * [x] Logged in users can view a list of their favorited players - "My Favorites"
-* [ ] Logged in users can see favorites sorted by team
+* [x] Logged in users can see favorites sorted by team
 
 ## Authentication and Authorization
 * [x] Users need to login to see their favorites

@@ -1,12 +1,12 @@
 <h3>Welcome, <%= current_user.full_name %></h3>
-
+<%= link_to "Sort by Fantasy Team", user_path(current_user, sort: "fantasy_team") %>
 <div class="grid-x">
   <div class="8 cells">
     <table class="index-table">
       <th>Player Name</th>
       <th>Fantasy Team</th>
       <th></th>
-      <% current_user.players.each do |player| %>
+      <% @players.each do |player| %>
         <tr class=player_<%= player.id %>>
           <td><%= link_to player.display_name, player_path(player) %></td>
           <td><%= link_to player.fantasy_team.name, fantasy_team_path(player.fantasy_team) %></td>
