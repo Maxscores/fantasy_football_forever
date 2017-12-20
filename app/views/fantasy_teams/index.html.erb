@@ -1,13 +1,27 @@
 <h3>All Fantasy Teams</h3>
+<div class="grid-x grid-padding-x">
+  <div class="large-7">
 
-<table>
-  <th>Team Name</th>
-  <th>Owner</th>
-  <% @fantasy_teams.each do |team| %>
-  <tr class=team_<%= team.id %>>
-    <td><%= link_to "#{team.name}", fantasy_team_path(team) %></td>
-    <td><%= team.owner %></td>
-    <td><%= link_to "Delete Team", admin_fantasy_team_path(team), method: :delete %></td>
-  </tr>
-  <% end %>
-</table>
+    <table class="fantasy-teams">
+      <th>Place</th>
+      <th>Team Name</th>
+      <th>Owner</th>
+      <th>Record (W-L)</th>
+      <% @fantasy_teams.each do |team| %>
+      <tr class=team_<%= team.id %>>
+        <td><%= team.id - 1 %></td>
+        <td><%= link_to "#{team.name}", fantasy_team_path(team) %></td>
+        <td><%= team.owner %></td>
+        <% if current_admin? %>
+          <td><%= link_to "Delete Team", admin_fantasy_team_path(team), method: :delete %></td>
+        <% end %>
+        <td><%= ["7-6", "9-4", "10-3", "4-9", "5-8","6-7"].sample %></td>
+      </tr>
+      <% end %>
+    </table>
+  </div>
+  <div class="large-5">
+    
+  </div>
+
+</div>

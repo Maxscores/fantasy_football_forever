@@ -1,44 +1,53 @@
-<h3><%= @player.display_name %></h3>
-<%= link_to "Delete", admin_player_path, method: :delete %>
+<div class="grid-x grid-padding-x">
+  <div class="large-9 cell">
 
-  <div class="grid-x grid-padding-x">
-    <div class="medium-3 cell">
-      <a class="twitter-timeline" data-height="450" href="https://twitter.com/<%=@player.twitter_handle.sub("@","")%>" data-screen-name="<%=@player.twitter_handle.sub("@","")%>"></a>
+  <div class="grid-y align-center grid-padding-y">
+    <div class="grid-x grid-padding-x">
+      <div class="small-3 cell">
+        <h4><%= @player.display_name %></h4>
+
+        <%= image_tag(@player.profile_image) %>
+      </div>
+      <div class="medium-5   cell">
+
+        <table class="player-profile">
+          <caption>Player Profile</caption>
+          <th>Team</th>
+          <th>Jersey Number</th>
+          <th>Position</th>
+          <th>Height</th>
+          <th>Weight</th>
+          <th>Date of Birth</th>
+          <th>College</th>
+          <th>Fantasy Team</th>
+          <tr>
+          <td><%= @player.pro_team %></td>
+          <td><%= @player.jersey %></td>
+          <td><%= @player.position %></td>
+          <td><%= @player.height %></td>
+          <td><%= @player.weight %></td>
+          <td><%= @player.dob %></td>
+          <td><%= @player.college %></td>
+          <td><%= link_to @player.fantasy_team.name, fantasy_team_path(@player.fantasy_team) %></td>
+          </tr>
+        </table>
+      </div>
     </div>
-
-    <div class="medium-6 cell">
-      <div class="grid-y align-center">
-        <div class="grid-x grid-padding-x">
-          <div class="medium-4 cell">
-            <%= image_tag(@player.profile_image) %>
-          </div>
-          <div class="medium-2 cell">
-
-            <table class="player-profile">
-              <th>Team</th>
-              <th>Jersey Number</th>
-              <th>Position</th>
-              <th>Height</th>
-              <th>Weight</th>
-              <th>Date of Birth</th>
-              <th>College</th>
-              <th>Fantasy Team</th>
-              <tr>
-              <td><%= @player.pro_team %></td>
-              <td><%= @player.jersey %></td>
-              <td><%= @player.position %></td>
-              <td><%= @player.height %></td>
-              <td><%= @player.weight %></td>
-              <td><%= @player.dob %></td>
-              <td><%= @player.college %></td>
-              <td><%= link_to @player.fantasy_team.name, fantasy_team_path(@player.fantasy_team) %></td>
-              </tr>
-            </table>
-          </div>
+    <div class="grid-x grid-padding-y ">
+      <div class="large-8 cell">
+        <%= render partial: "stats" %>
+      </div>
+      <div class="large-4 cell">
 
       </div>
-      <%= render partial: "stats" %>
+    </div>
   </div>
+  </div>
+  <div class="large-3 cell">
+    <a class="twitter-timeline" data-height="450" href="https://twitter.com/<%=@player.twitter_handle.sub("@","")%>" data-screen-name="<%=@player.twitter_handle.sub("@","")%>"></a>
+  </div>
+</div>
 
-  </div>
-  </div>
+<% if current_admin? %>
+  <%= link_to "Delete", admin_player_path, method: :delete %>
+<% end %>

@@ -1,7 +1,14 @@
 .player-profile {
-  font-size: 14px;
-  padding: 0 0 0 0;
-  margin: 0 0 0 0;
+  font-size: 11px;
+}
+
+.season-stat-table {
+  font-size: 11px;
+}
+
+.fantasy-teams {
+  text-align: center;
+  border-left:
 }
 
 .button-rounded-hover {

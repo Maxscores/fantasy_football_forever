@@ -4847,7 +4847,7 @@ html.is-reveal-open body {
 table {
   border-collapse: collapse;
   width: 100%;
-  margin-bottom: 1rem;
+  margin-bottom: 0.5rem;
   border-radius: 0; }
   table thead,
   table tbody,
@@ -4855,7 +4855,7 @@ table {
     border: 1px solid #f1f1f1;
     background-color: #fefefe; }
   table caption {
-    padding: 0.5rem 0.625rem 0.625rem;
+    padding: 0.2rem 0.425rem 0.425rem;
     font-weight: bold; }
   table thead {
     background: #f8f8f8;
