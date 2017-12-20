@@ -3,9 +3,9 @@ class UsersController < ApplicationController
     logged_in?
 
     if params[:sort] == "fantasy_team"
-      @players = current_user.players.order("fantasy_team_id DESC").paginate(:page => params[:page], :per_page => 30)
+      @players = current_user.players.order("fantasy_team_id DESC").paginate(:page => params[:page], :per_page => 30).includes(:fantasy_team)
     else
-      @players = current_user.players.paginate(:page => params[:page], :per_page => 30)
+      @players = current_user.players.paginate(:page => params[:page], :per_page => 30).includes(:fantasy_team)
     end
   end
 
