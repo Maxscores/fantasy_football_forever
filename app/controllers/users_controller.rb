@@ -1,7 +1,7 @@
 class UsersController < ApplicationController
   def show
     logged_in?
-    @user_favorites = UserFavorite.all
+    @user_favorites = UserFavorite.all.where(user_id: current_user.id).includes(:players)
     if params[:sort] == "fantasy_team"
       @players = current_user.players.order("fantasy_team_id DESC").paginate(:page => params[:page], :per_page => 30).includes(:fantasy_team)
     else
