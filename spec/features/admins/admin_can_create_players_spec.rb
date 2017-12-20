@@ -20,10 +20,11 @@ describe "User visits new players page" do
       fill_in "player[weight]", with: "67"
       fill_in "player[dob]", with: "1980-01-02"
       fill_in "player[college]", with: "Stanford"
+      select "boba_fett.jpg", :from => "player[profile_image]"
       select "Free Agents", :from => "player[fantasy_team_id]"
 
       click_button "Create Player"
-
+      
       expect(current_path).to eq("/players/1")
       expect(page).to have_content("John Elway")
       expect(page).to have_content("7")

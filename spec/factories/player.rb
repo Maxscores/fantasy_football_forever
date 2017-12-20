@@ -13,6 +13,7 @@ FactoryBot.define do
     college "Colorado State"
     fantasy_team
     twitter_handle "@RiskSanchez"
+    profile_image "boba_fett.jpg"
   end
 
   factory :rick, class: Player do
@@ -29,6 +30,8 @@ FactoryBot.define do
     college "Colorado State"
     fantasy_team
     twitter_handle "@RiskSanchez"
+    profile_image "boba_fett.jpg"
+
   end
 
   factory :morty, class: Player do
@@ -45,5 +48,7 @@ FactoryBot.define do
     college "Colorado State"
     fantasy_team
     twitter_handle "@MortySucks"
+    profile_image "boba_fett.jpg"
+    
   end
 end

@@ -24,9 +24,7 @@ describe "User can delete players" do
 
       visit player_path(player)
 
-      click_on "Delete"
-
-      expect(page).to have_content("The page you were looking for doesn't exist.")
+      expect(page).to_not have_content("Delete")
     end
   end
 end

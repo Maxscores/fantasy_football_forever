@@ -6,6 +6,8 @@ class ApplicationController < ActionController::Base
   helper_method :current_admin?
   helper_method :fantasy_teams_drop_down
   helper_method :sort_methods
+  helper_method :filter_params
+  helper_method :default_images
 
   def current_user
     @current_user ||= User.find(session[:user_id]) if session[:user_id]
@@ -34,5 +36,21 @@ class ApplicationController < ActionController::Base
       ["Last Name A-Z", "last_name ASC"],
       ["Last Name Z-A", "last_name DESC"]
     ]
+  end
+
+  def filter_params
+    {:page => params[:page],
+     :team => params[:team],
+     :position => params[:position],
+     :sort => params[:sort]}
+  end
+
+  def default_images
+    ["boba_fett.jpg",
+      "darth_vader.jpeg",
+      "jigglypuff.jpg",
+      "pirate.jpeg",
+      "stormtrooper.jpg",
+      "yoda.jpg"]
   end
 end

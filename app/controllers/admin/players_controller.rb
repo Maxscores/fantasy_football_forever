@@ -51,6 +51,7 @@ class Admin::PlayersController < Admin::BaseController
                                       :weight,
                                       :dob,
                                       :college,
-                                      :fantasy_team_id)
+                                      :fantasy_team_id,
+                                      :profile_image)
     end
 end

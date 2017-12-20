@@ -27,11 +27,7 @@ describe "User can delete team from team index" do
 
       visit fantasy_teams_path
 
-      within ".team_#{team.id}" do
-        click_on "Delete Team"
-      end
-
-      expect(page).to have_content("The page you were looking for doesn't exist.")
+      expect(page).to_not have_content("Delete Team")
     end
   end
 end
