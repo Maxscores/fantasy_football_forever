@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20171219173226) do
+ActiveRecord::Schema.define(version: 20171220161854) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -34,6 +34,7 @@ ActiveRecord::Schema.define(version: 20171219173226) do
     t.string "college"
     t.bigint "fantasy_team_id"
     t.string "twitter_handle"
+    t.string "profile_image"
     t.index ["fantasy_team_id"], name: "index_players_on_fantasy_team_id"
   end
 

@@ -20,6 +20,8 @@ handles = ["@MatthewBerryTMR", "@SI_PeterKing", "@ericmackfantasy", "@YahooNoise
   "@Rotoworld_FB", "@NFLfantasy", "@Fantasytaz", "@AdamSchefter", "@mortreport",
   "@karabellespn"]
 
+profile_images = ["boba_fett.jpg", "darth_vader.jpeg", "jigglypuff.jpg", "pirate.jpeg", "stormtrooper.jpg", "yoda.jpg"]
+
 10.times do
   FantasyTeam.create(name: names.pop, owner: owners.pop)
 end
@@ -38,7 +40,8 @@ FFNerd.players.each do |player|
                   dob: player.dob,
                   college: player.college,
                   fantasy_team: free_agents,
-                  twitter_handle: handles.sample)
+                  twitter_handle: handles.sample,
+                  profile_image: profile_images.sample)
   end
 end
 

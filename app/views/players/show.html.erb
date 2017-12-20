@@ -8,30 +8,36 @@
 
     <div class="medium-6 cell">
       <div class="grid-y align-center">
-        <div class="grid-x align-center">
+        <div class="grid-x grid-padding-x">
+          <div class="medium-4 cell">
+            <%= image_tag(@player.profile_image) %>
+          </div>
+          <div class="medium-2 cell">
 
-      <table>
-        <th>Team</th>
-        <th>Jersey Number</th>
-        <th>Jersey Number</th>
-        <th>Height</th>
-        <th>Weight</th>
-        <th>Date of Birth</th>
-        <th>College</th>
-        <th>Fantasy Team</th>
-        <tr>
-        <td><%= @player.pro_team %></td>
-        <td><%= @player.jersey %></td>
-        <td><%= @player.position %></td>
-        <td><%= @player.height %></td>
-        <td><%= @player.weight %></td>
-        <td><%= @player.dob %></td>
-        <td><%= @player.college %></td>
-        <td><%= link_to @player.fantasy_team.name, fantasy_team_path(@player.fantasy_team) %></td>
-        </tr>
-      </table>
+            <table class="player-profile">
+              <th>Team</th>
+              <th>Jersey Number</th>
+              <th>Position</th>
+              <th>Height</th>
+              <th>Weight</th>
+              <th>Date of Birth</th>
+              <th>College</th>
+              <th>Fantasy Team</th>
+              <tr>
+              <td><%= @player.pro_team %></td>
+              <td><%= @player.jersey %></td>
+              <td><%= @player.position %></td>
+              <td><%= @player.height %></td>
+              <td><%= @player.weight %></td>
+              <td><%= @player.dob %></td>
+              <td><%= @player.college %></td>
+              <td><%= link_to @player.fantasy_team.name, fantasy_team_path(@player.fantasy_team) %></td>
+              </tr>
+            </table>
+          </div>
+
+      </div>
       <%= render partial: "stats" %>
-    </div>
   </div>
 
   </div>
