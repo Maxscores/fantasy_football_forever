@@ -4,6 +4,8 @@ class ApplicationController < ActionController::Base
   helper_method :current_user
   helper_method :logged_in?
   helper_method :current_admin?
+  helper_method :fantasy_teams_drop_down
+  helper_method :sort_methods
 
   def current_user
     @current_user ||= User.find(session[:user_id]) if session[:user_id]
@@ -18,5 +20,19 @@ class ApplicationController < ActionController::Base
 
   def current_admin?
     current_user && current_user.admin?
+  end
+
+  def fantasy_teams_drop_down
+    teams = FantasyTeam.all.map {|team| [team.name, team.id]}
+    teams.unshift([""])
+  end
+
+  def sort_methods
+    [
+      ["First Name A-Z", "first_name ASC"],
+      ["First Name Z-A", "first_name DESC"],
+      ["Last Name A-Z", "last_name ASC"],
+      ["Last Name Z-A", "last_name DESC"]
+    ]
   end
 end
