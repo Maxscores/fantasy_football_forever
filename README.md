@@ -10,7 +10,9 @@ User Stories:
 * [x] Players can be favorited/unfavorited by Logged in Users
 * [x] Player show page shows their player bio
   * [ ] Player show page shows their current stats via API
-  * [ ] Player show page gives their current social media opinion
+    - didn't find free api with this info, data is loaded during seeding
+  * [x] Player show page gives their current social media opinion
+    - uses dummy twitter handles
 * [x] Player show page shows which FF team they're on
 * [x] Players belong to one FF team
 * [x] Players have many FF users that have favorited them
@@ -43,5 +45,5 @@ User Stories:
 * [x] Add sort-by name (drop down)
 * [x] Can use all filters and they carry over when favoriting
 * [x] Add team to favorites(adds all players from team)
-* [ ] Calculate fantasy score from stats
-* [ ] Add player season score to index
+* [x] Calculate fantasy score from stats
+* [x] Add player season score to index - makes things slow

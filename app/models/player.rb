@@ -17,5 +17,7 @@ class Player < ApplicationRecord
   has_many :user_favorites, :dependent => :destroy
   has_many :users, through: :user_favorites
 
-
+  def current_season_points
+    season_points ||= season_stats.last.points_scored
+  end
 end

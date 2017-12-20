@@ -21,7 +21,7 @@ class PlayersController < ApplicationController
     end
 
     def filter
-      @players = Player.all.includes(:fantasy_team)
+      @players = Player.all.includes(:fantasy_team, :season_stats)
 
       @players = @players.where(position: params[:position]) if params[:position] && params[:position] != ""
       @players = @players.where(fantasy_team_id: params[:team].to_i) if params[:team] && params[:team] != ""

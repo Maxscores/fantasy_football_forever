@@ -6,6 +6,7 @@
       <th>Name</th>
       <th>Team</th>
       <th>Position</th>
+      <th>Season Points</th>
       <th>Fantasy Team</th>
       <th></th>
       <% @players.each do |player| %>
@@ -13,6 +14,7 @@
         <td><%= link_to player.display_name, player_path(player) %></td>
         <td><%= player.pro_team %></td>
         <td><%= player.position %></td>
+        <td><%= player.current_season_points %></td>
         <td><%= link_to player.fantasy_team.name, fantasy_team_path(player.fantasy_team) %></td>
         <% @player = player %>
         <%= render "favorite" %>
