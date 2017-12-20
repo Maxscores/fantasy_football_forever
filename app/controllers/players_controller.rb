@@ -2,7 +2,7 @@ class PlayersController < ApplicationController
   before_action :set_player, only: [:show]
 
   def index
-    @user_favorites = UserFavorite.all.where(user_id: current_user.id).includes(:players) if current_user
+    @user_favorites = UserFavorite.all.where(user_id: current_user.id) if current_user
     @fantasy_teams = FantasyTeam.all
     filter
     sort_collection
