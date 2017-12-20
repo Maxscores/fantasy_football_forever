@@ -26,4 +26,18 @@ class SeasonStat < ApplicationRecord
                          :player_id,
                          :season
 
+  def points_scored
+    ((passing_yards / 25) + 
+    (passing_touchdowns * 4) +
+    (interceptions * -2) +
+    (fumbles * -2) +
+    (rushing_yards / 10) +
+    (rushing_touchdowns * 6) +
+    (receiving_yards / 10) +
+    (receiving_touchdowns * 6) +
+    (field_goals_made * 4) +
+    ((field_goals_attempted - field_goals_made) * -2) +
+    (extra_point_made * 1) +
+    ((extra_point_attempted - extra_point_made) * -1))
+  end
 end

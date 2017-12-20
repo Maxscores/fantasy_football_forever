@@ -42,7 +42,8 @@ class ApplicationController < ActionController::Base
     {:page => params[:page],
      :team => params[:team],
      :position => params[:position],
-     :sort => params[:sort]}
+     :sort => params[:sort],
+     :path => request.env['PATH_INFO']}
   end
 
   def default_images

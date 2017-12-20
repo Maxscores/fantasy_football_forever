@@ -1,6 +1,6 @@
 <h3><%= @fantasy_team.name %></h3>
 <h4><%= @fantasy_team.owner %></h4>
-
+<%= link_to "Add Team to Favorites", create_many_path(:fantasy_team_id => @fantasy_team.id), method: :post %>
 <div class="grid-x">
   <div class="medium-6 cells">
 

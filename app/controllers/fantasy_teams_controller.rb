@@ -2,7 +2,7 @@ class FantasyTeamsController < ApplicationController
   before_action :set_fantasy_team, only: [:show]
 
   def index
-    @fantasy_teams = FantasyTeam.all.where.not(name: "Free Agents")
+    @fantasy_teams = FantasyTeam.where.not(name: "Free Agents")
   end
 
   def show

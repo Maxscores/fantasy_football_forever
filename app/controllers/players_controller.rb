@@ -1,8 +1,8 @@
 class PlayersController < ApplicationController
   before_action :set_player, only: [:show]
+  before_action :set_user_favorites, only: [:index, :show]
 
   def index
-    @user_favorites = UserFavorite.all.where(user_id: current_user.id) if current_user
     @fantasy_teams = FantasyTeam.all
     filter
     sort_collection
@@ -14,6 +14,10 @@ class PlayersController < ApplicationController
   private
     def set_player
       @player = Player.find(params[:id])
+    end
+
+    def set_user_favorites
+      @user_favorites = UserFavorite.all.where(user_id: current_user.id) if current_user
     end
 
     def filter

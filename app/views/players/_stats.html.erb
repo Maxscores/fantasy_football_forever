@@ -1,8 +1,8 @@
 <table class="season-stat-table">
   <caption>Player Stats</caption>
+  <th>Season</th>
+  <th>Fantasy Points</th>
 <% if @player.position == "QB" %>
-
-    <th>Season</th>
     <th>Completions</th>
     <th>Pass Attempts</th>
     <th>Completion Percentage</th>
@@ -14,6 +14,7 @@
     <% @player.season_stats.each do |season_stat| %>
     <tr>
       <td><%= season_stat.season %></td>
+      <td><%= season_stat.points_scored %></td>
       <td><%= season_stat.completions %></td>
       <td><%= season_stat.attempts %></td>
       <td><%= season_stat.completion_percentage.round(1) %></td>
@@ -25,7 +26,6 @@
     </tr>
     <% end %>
 <% elsif @player.position == "RB" %>
-    <th>Season</th>
     <th>Rush Attempts</th>
     <th>Rush Yards</th>
     <th>Average Yards per Carry</th>
@@ -34,6 +34,7 @@
     <% @player.season_stats.each do |season_stat| %>
       <tr>
         <td><%= season_stat.season %></td>
+        <td><%= season_stat.points_scored %></td>
         <td><%= season_stat.rushing_attempts %></td>
         <td><%= season_stat.rushing_yards %></td>
         <td><%= season_stat.average_yards_per_carry.round(2) %></td>
@@ -42,7 +43,6 @@
       </tr>
     <% end %>
 <% elsif @player.position == "WR" || @player.position == "TE" %>
-    <th>Season</th>
     <th>Receptions</th>
     <th>Recieving Yards</th>
     <th>Average Yards per Catch</th>
@@ -51,6 +51,7 @@
     <% @player.season_stats.each do |season_stat| %>
       <tr>
         <td><%= season_stat.season %></td>
+        <td><%= season_stat.points_scored %></td>
         <td><%= season_stat.pass_receptions %></td>
         <td><%= season_stat.receiving_yards %></td>
         <td><%= season_stat.average_yards_per_reception.round(2) %></td>
@@ -59,7 +60,6 @@
       </tr>
     <% end %>
 <% elsif @player.position == "K" %>
-    <th>Season</th>
     <th>Field Goals Made</th>
     <th>Field Goals Attempted</th>
     <th>Field Goal Percentage</th>
@@ -69,6 +69,7 @@
     <% @player.season_stats.each do |season_stat| %>
       <tr>
         <td><%= season_stat.season %></td>
+        <td><%= season_stat.points_scored %></td>
         <td><%= season_stat.field_goals_made %></td>
         <td><%= season_stat.field_goals_attempted %></td>
         <td><%= season_stat.field_goal_percentage.round(1) %></td>

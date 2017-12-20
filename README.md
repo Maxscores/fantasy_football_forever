@@ -38,9 +38,10 @@ User Stories:
 
 ## Other Features to Add
 * [x] Adding favorites stays on same paginated page
-* [ ] Add filter-by-team (drop down)
+* [x] Add filter-by-team (drop down)
 * [x] Add filter-by-position (drop down)
-* [ ] Add team to favorites(adds all players from team)
+* [x] Add sort-by name (drop down)
+* [x] Can use all filters and they carry over when favoriting
+* [x] Add team to favorites(adds all players from team)
 * [ ] Calculate fantasy score from stats
 * [ ] Add player season score to index
-

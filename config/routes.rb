@@ -3,6 +3,7 @@ Rails.application.routes.draw do
   get '/login', to: 'sessions#new'
   post '/login', to: 'sessions#create'
   delete '/logout', to: 'sessions#destroy'
+  post '/create_many', to: 'user_favorites#create_many'
 
   resources :fantasy_teams, only: [:index, :show]
   resources :players, only: [:index, :show] do

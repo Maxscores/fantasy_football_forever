@@ -5,7 +5,7 @@
     <div class="grid-x grid-padding-x">
       <div class="small-3 cell">
         <h4><%= @player.display_name %></h4>
-
+        <%= render "favorite" %>
         <%= image_tag(@player.profile_image) %>
       </div>
       <div class="medium-5   cell">
