@@ -1,8 +1,17 @@
 <% if current_user && current_user.players.include?(@player) %>
   <% favorite = @user_favorites.find_by(player_id: @player.id) %>
-  <td><%= link_to "Remove from Favs", player_user_favorite_path(@player, favorite, filter_params), method: :delete  %></td>
+  <td><%= link_to "Remove from Favs",
+                  player_user_favorite_path(
+                    @player,
+                    favorite,
+                    pass_favorite_params),
+                  method: :delete  %></td>
 <% elsif current_user %>
-  <td><%= link_to "Add to Favs", player_user_favorites_path(@player, filter_params), method: :post %></td>
+  <td><%= link_to "Add to Favs",
+                  player_user_favorites_path(
+                    @player,
+                    pass_favorite_params),
+                  method: :post %></td>
 <% else %>
   <td><%= link_to "Login to Favorite", login_path %></td>
 <% end %>

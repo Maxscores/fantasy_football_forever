@@ -11,7 +11,11 @@
           <tr class=player_<%= player.id %>>
             <td><%= link_to player.display_name, player_path(player) %></td>
             <td><%= link_to player.fantasy_team.name, fantasy_team_path(player.fantasy_team) %></td>
-            <td><%= link_to "Remove from Favs", player_user_favorite_path(player, @user_favorites.where("player_id=#{player.id} AND user_id=#{current_user.id}") , {:page => params[:page], :team => params[:team], :position => params[:position], :view => "show"}), method: :delete  %></td>
+            <td><%= link_to "Remove from Favs",
+                            player_user_favorite_path(
+                              player,
+                              @user_favorites.where("player_id=#{player.id} AND user_id=#{current_user.id}"),
+                              pass_favorite_params), method: :delete  %></td>
           </tr>
         <% end %>
       </table>

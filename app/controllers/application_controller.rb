@@ -6,7 +6,7 @@ class ApplicationController < ActionController::Base
   helper_method :current_admin?
   helper_method :fantasy_teams_drop_down
   helper_method :sort_methods
-  helper_method :filter_params
+  helper_method :favorite_params
   helper_method :default_images
 
   def current_user
@@ -38,7 +38,7 @@ class ApplicationController < ActionController::Base
     ]
   end
 
-  def filter_params
+  def favorite_params
     {:page => params[:page],
      :team => params[:team],
      :position => params[:position],

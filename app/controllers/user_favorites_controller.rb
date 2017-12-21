@@ -2,7 +2,7 @@ class UserFavoritesController < ApplicationController
   def create
     UserFavorite.create(player_id: params[:player_id], user_id: current_user.id)
     if params[:path] == "/players"
-      redirect_to players_path(filter_params)
+      redirect_to players_path(pass_favorite_params)
     elsif params[:path].include?("/players/")
       redirect_to player_path(Player.find(params[:player_id]))
     end
@@ -12,9 +12,11 @@ class UserFavoritesController < ApplicationController
     favorite = UserFavorite.find_by(player_id: params[:player_id], user_id: current_user.id)
     favorite.destroy
     if params[:path] == "/players"
-      redirect_to players_path(filter_params)
-    elsif params[:path] == "/players/1"
+      redirect_to players_path(pass_favorite_params)
+    elsif params[:path] == "/players/#{params[:player_id]}"
       redirect_to player_path(Player.find(params[:player_id]))
+    elsif params[:path] == "/users/#{current_user.id}"
+      redirect_to user_path(current_user.id)
     end
   end
 
