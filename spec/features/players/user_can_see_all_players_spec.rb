@@ -2,6 +2,8 @@ describe "When a user visits the player index" do
   it "sees all players" do
     rick = create(:rick)
     morty = create(:morty)
+    rick.season_stats << create(:season_stat, player_id: rick.id)
+    morty.season_stats << create(:season_stat, player_id: morty.id)
 
     visit players_path
 
@@ -20,6 +22,7 @@ describe "When a user visits the player index" do
 
   it "clicks on player name link" do
     rick = create(:rick)
+    rick.season_stats << create(:season_stat, player_id: rick.id)
 
     visit players_path
 
@@ -32,6 +35,7 @@ describe "When a user visits the player index" do
 
   it "clicks on fantasy team link" do
     rick = create(:rick)
+    rick.season_stats << create(:season_stat, player_id: rick.id)
 
     visit players_path
 

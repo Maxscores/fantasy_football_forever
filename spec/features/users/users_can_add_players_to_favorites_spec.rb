@@ -4,6 +4,7 @@ describe "User can add favorite players to favorites" do
     allow_any_instance_of(ApplicationController).to receive(:current_user).and_return(user)
 
     rick = create(:rick)
+    rick.season_stats << create(:season_stat, player_id: rick.id)
 
     visit "/players"
 

@@ -4,6 +4,8 @@ describe "User can remove favorite players from dashboard" do
     allow_any_instance_of(ApplicationController).to receive(:current_user).and_return(user)
 
     rick = create(:rick)
+    rick.season_stats << create(:season_stat, player_id: rick.id)
+
 
     visit "/players"
 
@@ -25,6 +27,8 @@ describe "User can remove favorite players from dashboard" do
     allow_any_instance_of(ApplicationController).to receive(:current_user).and_return(user)
 
     rick = create(:rick)
+    rick.season_stats << create(:season_stat, player_id: rick.id)
+    
 
     visit "/players"
 
