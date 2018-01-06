@@ -8,7 +8,7 @@ Goal was to build an app based around fantasy football that a user can create a 
 ## Testing
 The app is tested using RSpec. To run the tests you can clone the repo to your computer, run `bundle install`, then run `rspec`.
 
-User Stories:
+# User Stories:
 
 ## Player
 * [x] player index page shows all players
