@@ -6,7 +6,14 @@ Personal Project for Turing BE Module 2, markdown for assignment: http://backend
 Goal was to build an app based around fantasy football that a user can create a profile and favorite players. It utilizes a Postgres Database with one-to-many and many-to-many relationships. The data for the site was seeded from an API. The player season data was generated to fit a normal distribution that was built using a method similar to the method I wrote about here: https://hackernoon.com/weve-all-been-there-adedc9e82b42
 
 ## Testing
-The app is tested using RSpec. To run the tests you can clone the repo to your computer, run `bundle install`, then run `rspec`.
+The app is tested using RSpec. To run the tests you will need to perform some basic setup:
+```
+git clone https://github.com/Maxscores/fantasy_tracker.git
+cd fantasy_tracker
+bundle
+rails db:create db:migrate
+bundle exec rspec
+```
 
 # User Stories:
 
