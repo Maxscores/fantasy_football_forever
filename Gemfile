@@ -5,9 +5,9 @@ git_source(:github) do |repo_name|
   "https://github.com/#{repo_name}.git"
 end
 
-gem 'database_cleaner'
-gem 'faker', :git => 'https://github.com/stympy/faker.git', :branch => 'master'
-gem 'fantasy_football_nerd'
+gem 'database_cleaner', '~> 1.6.2'
+gem 'faker', '~> 1.8.5', :git => 'https://github.com/stympy/faker.git', :branch => 'master'
+gem 'fantasy_football_nerd', '~> 1.3.0'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 5.1.4'
 # Use postgresql as the database for Active Record
@@ -35,16 +35,16 @@ gem 'will_paginate', '~> 3.1.0'
 
 group :development, :test do
   # Call 'byebug' anywhere in the code to stop execution and get a debugger console
-  gem 'foundation-rails'
+  gem 'foundation-rails', '~> 6.4.1.3'
   gem 'byebug', platforms: [:mri, :mingw, :x64_mingw]
-  gem 'rspec-rails'
-  gem 'capybara'
-  gem 'launchy'
-  gem 'pry'
+  gem 'rspec-rails', '~> 3.7.2'
+  gem 'capybara', '~> 2.16.1'
+  gem 'launchy', '~> 2.4.3'
+  gem 'pry', '~> 0.11.3'
   gem 'shoulda-matchers', '~> 3.1'
-  gem 'factory_bot_rails'
-  gem "uniform_notifier"
-  gem 'bullet'
+  gem 'factory_bot_rails', '~> 4.8.2'
+  gem "uniform_notifier", '~> 1.10.0'
+  gem 'bullet', '~> 5.7.0'
 end
 
 group :development do
